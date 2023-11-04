@@ -4,7 +4,7 @@
 ### 👋🏾 Olá:
 Olá, sou o Zé, um desenvolvedor com mais de 15 anos de experiência e apaixonado por tecnologia. Com foco em _Microsserviços_ e grande volume de dados. Estudando como a IA e novas tecnologias impactam o mercado e a sociedade.
 
-Estou explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes
+Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes
 
 Durante a pandemia, explorei a Robótica e IoT como hobby.
 
