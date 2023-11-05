@@ -2,7 +2,7 @@
 
 
 ### 👋🏾 Olá:
-Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Nos ultimos anos tive foco em _microsserviços_ e _grande volume de dados_. Estudando como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Nos ultimos anos tive foco em _microsserviços_ e _grande volume de dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes
 
@@ -15,7 +15,7 @@ Seja Bem-vindo ao meu GitHub!
 
 ---
 
-### 🕸️ Minhas Redes:
+### 🕸️ Redes:
 
 <!-- 
     https://dev.to/envoy_/150-badges-for-github-pnk
@@ -30,5 +30,5 @@ Seja Bem-vindo ao meu GitHub!
     https://devicon.dev/
     https://simpleicons.org/
 -->
-<img src="./misc/images/icons/go-original-wordmark.svg"  width="50" height="50" title="Golang" alt="Golang"/> <img src="./misc/images/icons/nodejs-original.svg"  width="50" height="50" title="Nodejs" alt="Nodejs" /><img src="./misc/images/icons/javascript-original.svg" width="50" height="50" title="Javascript" alt="Javascript" /> <img src="./misc/images/icons/typescript-original.svg" width="50" height="50" title="Typescript" alt="Typescript" /> <img src="./misc/images/icons/python-original-wordmark.svg" width="50" height="50" title="Python" alt="Python" /> <img src="./misc/images/icons/php-original.svg" width="60" height="60" title="PHP" alt="PHP" /> <img src="./misc/images/icons/ubuntu-color.svg" width="50" height="50" title="Ubunto" alt="Ubunto" /> <img src="./misc/images/icons/vscode-original-wordmark.svg" width="50" height="50" title="VsCode" alt="VsCode" /> <img src="./misc/images/icons/postgresql-original.svg" width="50" height="50" title="PostgreSQL" alt="PostgreSQL" /> <img src="./misc/images/icons/redis-original-wordmark.svg" width="50" height="50" title="Redis" alt="Redis" /> <img src="./misc/images/icons/rabbitmq.svg" width="50" height="50" title="RabbitMQ" alt="RabbitMQ" /> <img src="./misc/images/icons/docker-original-wordmark.svg" width="60" height="60" title="Docker" alt="Docker" /> <img src="./misc/images/icons/arduino-original-wordmark.svg" width="60" height="60" title="Arduino" alt="Arduino" /> <img src="./misc/images/icons/raspberrypi-original.svg" width="60" height="60" title="RaspberryPi" alt="RaspberryPi" />
+<img src="./misc/images/icons/go-original-wordmark.svg"  width="50" height="50" title="Golang" alt="Golang"/> <img src="./misc/images/icons/nodejs-original.svg"  width="50" height="50" title="Nodejs" alt="Nodejs" /><img src="./misc/images/icons/javascript-original.svg" width="50" height="50" title="Javascript" alt="Javascript" /> <img src="./misc/images/icons/typescript-original.svg" width="50" height="50" title="Typescript" alt="Typescript" /> <img src="./misc/images/icons/python-original.svg" width="50" height="50" title="Python" alt="Python" /> <img src="./misc/images/icons/php-original.svg" width="60" height="60" title="PHP" alt="PHP" /> <img src="./misc/images/icons/ubuntu-color.svg" width="50" height="50" title="Ubunto" alt="Ubunto" /> <img src="./misc/images/icons/vscode-original.svg" width="50" height="50" title="VsCode" alt="VsCode" /> <img src="./misc/images/icons/postgresql-original.svg" width="50" height="50" title="PostgreSQL" alt="PostgreSQL" /> <img src="./misc/images/icons/redis-original.svg" width="50" height="50" title="Redis" alt="Redis" /> <img src="./misc/images/icons/rabbitmq.svg" width="50" height="50" title="RabbitMQ" alt="RabbitMQ" /> <img src="./misc/images/icons/docker-original.svg" width="60" height="60" title="Docker" alt="Docker" /> <img src="./misc/images/icons/arduino-original.svg" width="60" height="60" title="Arduino" alt="Arduino" /> <img src="./misc/images/icons/raspberrypi-original.svg" width="60" height="60" title="RaspberryPi" alt="RaspberryPi" />
 
