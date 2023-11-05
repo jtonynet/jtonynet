@@ -2,7 +2,7 @@
 
 
 ### 👋🏾 Olá:
-Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Nos ultimos anos tive foco em _microsserviços_, _mensageria_ e _grande volume de dados_. Estudando como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Nos ultimos anos tive foco em _microsserviços_ e _grande volume de dados_. Estudando como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes
 
