@@ -9,6 +9,13 @@
   title="LearnIngenuity"
 />
 
+<!-- 
+<img 
+  src="./assets/images/layout/learn_ingenuity_drone_diagrams_header.png" 
+  alt="LearnIngenuity, Because in PT-BR 'Ingenuity' does not mean naivety"
+  title="LearnIngenuity"
+/>
+-->
 
 ### 👋🏾 Olá:
 Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Nos ultimos anos tive foco em _microsserviços_ e _grande volume de dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
