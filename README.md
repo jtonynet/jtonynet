@@ -30,6 +30,7 @@ Seja Bem-vindo ao meu GitHub!
 ### 🧰 Toolkit:
 
 <!-- 
+    icons by:
     https://devicon.dev/
     https://simpleicons.org/
 -->
