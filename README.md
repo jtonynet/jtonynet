@@ -10,7 +10,6 @@
 />
 
 
-
 ### 👋🏾 Olá:
 Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Nos ultimos anos tive foco em _microsserviços_ e _grande volume de dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
