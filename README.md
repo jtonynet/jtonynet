@@ -26,7 +26,11 @@ Durante a pandemia, explorei a Robótica e IoT como hobby.
 
 Seja Bem-vindo ao meu GitHub!
 
-<img src="./assets/images/avatars/me_IA_carttoon.jpg" height="195"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtonynet&show_icons=true&theme=transparent) <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtonynet&langs_count=3) -->
+<!--
+<img src="./assets/images/avatars/me_IA_carttoon.jpg" height="195"> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtonynet&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtonynet&langs_count=3) 
+-->
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jtonynet&theme=tokyo-night)](https://github.com/jtonynet/github-readme-activity-graph)
