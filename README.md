@@ -5,7 +5,7 @@
 -->
 <img 
   src="./assets/images/layout/learn_ingenuity_drone_diagrams_header.png" 
-  alt="LearnIngenuity, Because in PT-BR 'Ingenuity' does not mean naivety"
+  alt="Dois desenvolvedores negros de cabelos afro e óculos. Um de camisa preta e outro de camisa laranja, um de costas para o outro. Trabalhando em seus respectivos computadores portáteis com a seguinte frase em laranja: LearnIngenuity, sendo a letra I de Ingenuity um pequeno drone em formato de cubo e abaixo dessa frase outra em letras brancas e fundo azul que diz: Because in PT-BR 'Ingenuity' does not mean naivety. Ao fundo deles, um diagrama de projeto com vários adesivos."
   title="LearnIngenuity"
 />
 
@@ -58,5 +58,34 @@ Seja Bem-vindo ao meu GitHub!
     https://devicon.dev/
     https://simpleicons.org/
 -->
-[<img src="./assets/images/icons/go-original-wordmark.svg"  width="40" height="40" title="Golang" alt="Golang"/>](https://go.dev/) [<img src="./assets/images/icons/nodejs-original.svg"  width="40" height="40" title="Nodejs" alt="Nodejs" />](https://nodejs.org/en) [<img src="./assets/images/icons/javascript-original.svg" width="40" height="40" title="Javascript" alt="Javascript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="./assets/images/icons/typescript-original.svg" width="40" height="40" title="Typescript" alt="Typescript" />](https://www.typescriptlang.org/) [<img src="./assets/images/icons/python-original.svg" width="40" height="40" title="Python" alt="Python" />](https://www.python.org/) [<img src="./assets/images/icons/php-original.svg" width="50" height="50" title="PHP" alt="PHP" />](https://www.php.net/) [<img src="./assets/images/icons/ubuntu-color.svg" width="40" height="40" title="Ubunto" alt="Ubunto" />](https://ubuntu.com/) [<img src="./assets/images/icons/vscode-original.svg" width="40" height="40" title="VsCode" alt="VsCode" />](https://code.visualstudio.com/) [<img src="./assets/images/icons/miro.svg" width="40px" height="40px" alt="Miro" title="Miro">](https://miro.com/) [<img src="./assets/images/icons/mermaidjs.svg" width="40px" height="40px" alt="MermaidJS" title="MermaidJS">](https://mermaid.js.org/) [<img src="./assets/images/icons/postgresql-original.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" />](https://www.postgresql.org/) [<img src="./assets/images/icons/redis-original.svg" width="40" height="40" title="Redis" alt="Redis" />](https://redis.io/) [<img src="./assets/images/icons/rabbitmq.svg" width="40" height="40" title="RabbitMQ" alt="RabbitMQ" />](https://www.rabbitmq.com/) [<img src="./assets/images/icons/docker-original.svg" width="50" height="50" title="Docker" alt="Docker" />](https://www.docker.com/) [<img src="./assets/images/icons/arduino-original.svg" width="50" height="50" title="Arduino" alt="Arduino" />](https://www.arduino.cc/) [<img src="./assets/images/icons/raspberrypi-original.svg" width="40" height="40" title="RaspberryPi" alt="RaspberryPi" />](https://www.raspberrypi.org/)
+[<img src="./assets/images/icons/go-original-wordmark.svg"  width="40" height="40" title="Golang" alt="Golang"/>](https://go.dev/) [<img src="./assets/images/icons/nodejs-original.svg"  width="40" height="40" title="Nodejs" alt="Logo do Nodejs" />](https://nodejs.org/en) [<img src="./assets/images/icons/javascript-original.svg" width="40" height="40" title="Javascript" alt="Logo do Javascript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="./assets/images/icons/typescript-original.svg" width="40" height="40" title="Typescript" alt="Logo do Typescript" />](https://www.typescriptlang.org/) [<img src="./assets/images/icons/python-original.svg" width="40" height="40" title="Python" alt="Logo do Python" />](https://www.python.org/) [<img src="./assets/images/icons/php-original.svg" width="50" height="50" title="PHP" alt="Logo do PHP" />](https://www.php.net/) [<img src="./assets/images/icons/ubuntu-color.svg" width="40" height="40" title="Ubunto" alt="Logo do Ubunto" />](https://ubuntu.com/) [<img src="./assets/images/icons/vscode-original.svg" width="40" height="40" title="VsCode" alt="Logo do VsCode" />](https://code.visualstudio.com/) [<img src="./assets/images/icons/miro.svg" width="40px" height="40px" alt="Miro" title="Logo do Miro">](https://miro.com/) [<img src="./assets/images/icons/mermaidjs.svg" width="40px" height="40px" alt="Logo do MermaidJS" title="MermaidJS">](https://mermaid.js.org/) [<img src="./assets/images/icons/postgresql-original.svg" width="40" height="40" title="PostgreSQL" alt="Logo do PostgreSQL" />](https://www.postgresql.org/) [<img src="./assets/images/icons/redis-original.svg" width="40" height="40" title="Redis" alt="Logo do Redis" />](https://redis.io/) [<img src="./assets/images/icons/rabbitmq.svg" width="40" height="40" title="RabbitMQ" alt="Logo do RabbitMQ" />](https://www.rabbitmq.com/) [<img src="./assets/images/icons/docker-original.svg" width="50" height="50" title="Docker" alt="Logo do Docker" />](https://www.docker.com/) [<img src="./assets/images/icons/arduino-original.svg" width="50" height="50" title="Arduino" alt="Logo do Arduino" />](https://www.arduino.cc/) [<img src="./assets/images/icons/raspberrypi-original.svg" width="40" height="40" title="RaspberryPi" alt="Logo do RaspberryPi" />](https://www.raspberrypi.org/)
+
+---
+
+### :robot: Uso de IA:
+
+As figuras do cabeçalho desta página foram criadas com o auxílio de inteligência artificial e um mínimo de retoque e construção no Gimp [<img src="./assets/images/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Logo do Gimp" />](https://www.gimp.org/)
+
+__Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https://www.bing.com/images/create/)__
+
+<details>
+  <summary><b>Desenvolvedores</b></summary>
+"Dois desenvolvedores de sistemas de informatica negros de cabelo afro black power de barba e oculos trabalhando em seus notebooks em estilo carrton com cores chapadas fundo branco neutro que possa ser facilmente retirado"<b>(sic)</b>
+</details>
+
+<details>
+  <summary><b>Drone Ingenuity</b></summary>
+"gostaria de uma logo MAIS SIMPLIFICADA O POSSIVEL em cores azul e DETALHES laranja CHAPADAS BEM DEFINIDAS em estilo cartoon/historia em quadrinhos do ROBO AEREO  que a nasa enviou para marte, Ingenuity, basicamente um CUBO com uma UNICA E SOMENTE UMA HELICE UM UNICO ROTOR, UM UNICO MOTOR  no MEIO, NO CENTRO em fundo branco para que seja facil tornar transparente em um editor de imagem"<b>(sic)</b>
+</details>
+
+<br/>
+
+O fundo é uma sessão de Event Storming real de um dos meus projetos de estudo e pode ser encontrada no [Miro](https://miro.com/app/board/uXjVNRofMoA=/) com o objetivo de aprender e construir em público.
+
+
+IA também é utilizada em minhas pesquisas e estudos como ferramenta de apoio; no entanto, __o desenvolvimento é, sobretudo,  uma atividade criativa humana.__
+
+Sejamos engenhosos!
+
+
 
