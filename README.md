@@ -83,7 +83,7 @@ __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https:/
 O fundo é uma sessão de Event Storming real de um dos meus projetos de estudo e pode ser encontrada no [Miro](https://miro.com/app/board/uXjVNRofMoA=/) com o objetivo de aprender e construir em público.
 
 
-IA também é utilizada em minhas pesquisas e estudos como ferramenta de apoio; no entanto, __o desenvolvimento é, sobretudo,  uma atividade criativa humana.__
+IA também é utilizada em minhas pesquisas e estudos como ferramenta de apoio; no entanto, __artes e desenvolvimento são, sobretudo, atividades criativas humanas.__
 
 Sejamos engenhosos!
 
