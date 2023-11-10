@@ -70,17 +70,17 @@ __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https:/
 
 <details>
   <summary><b>Desenvolvedores</b></summary>
-"Dois desenvolvedores de sistemas de informatica negros de cabelo afro black power de barba e oculos trabalhando em seus notebooks em estilo carrton com cores chapadas fundo branco neutro que possa ser facilmente retirado"<b>(sic)</b>
+<i>"Dois desenvolvedores de sistemas de informatica negros de cabelo afro black power de barba e oculos trabalhando em seus notebooks em estilo carrton com cores chapadas fundo branco neutro que possa ser facilmente retirado"<b>(sic)</b></i>
 </details>
 
 <details>
   <summary><b>Drone Ingenuity</b></summary>
-"gostaria de uma logo MAIS SIMPLIFICADA O POSSIVEL em cores azul e DETALHES laranja CHAPADAS BEM DEFINIDAS em estilo cartoon/historia em quadrinhos do ROBO AEREO  que a nasa enviou para marte, Ingenuity, basicamente um CUBO com uma UNICA E SOMENTE UMA HELICE UM UNICO ROTOR, UM UNICO MOTOR  no MEIO, NO CENTRO em fundo branco para que seja facil tornar transparente em um editor de imagem"<b>(sic)</b>
+<i>"gostaria de uma logo MAIS SIMPLIFICADA O POSSIVEL em cores azul e DETALHES laranja CHAPADAS BEM DEFINIDAS em estilo cartoon/historia em quadrinhos do ROBO AEREO  que a nasa enviou para marte, Ingenuity, basicamente um CUBO com uma UNICA E SOMENTE UMA HELICE UM UNICO ROTOR, UM UNICO MOTOR  no MEIO, NO CENTRO em fundo branco para que seja facil tornar transparente em um editor de imagem"<b>(sic)</b></i>
 </details>
 
 <br/>
 
-O fundo é uma sessão de Event Storming real de um dos meus projetos de estudo e pode ser encontrada no [Miro](https://miro.com/app/board/uXjVNRofMoA=/) com o objetivo de aprender e construir em público.
+O fundo é uma sessão de [Event Storming real do youtube ](https://www.youtube.com/watch?v=6nEbm71Vc3w) dos meus [projetos de estudo](https://github.com/jtonynet/cine-catalogo/tree/main) e pode ser encontrada no [Miro](https://miro.com/app/board/uXjVNRofMoA=/) com o objetivo de aprender e construir em público.
 
 
 IA também é utilizada em minhas pesquisas e estudos como ferramenta de apoio; no entanto, __artes e desenvolvimento são, sobretudo, atividades criativas humanas.__
