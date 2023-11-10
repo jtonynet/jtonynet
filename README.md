@@ -85,7 +85,6 @@ O fundo é uma sessão de Event Storming real de um dos meus projetos de estudo 
 
 IA também é utilizada em minhas pesquisas e estudos como ferramenta de apoio; no entanto, __artes e desenvolvimento são, sobretudo, atividades criativas humanas.__
 
-Sejamos engenhosos!
+Contrate artistas para projetos comerciais ou mais elaborados.
 
-
-
+Aprenda Engenhosidade!
