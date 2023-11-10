@@ -85,6 +85,4 @@ O fundo é uma sessão de [Event Storming real do youtube ](https://www.youtube.
 
 IA também é utilizada em minhas pesquisas e estudos como ferramenta de apoio; no entanto, __artes e desenvolvimento são, sobretudo, atividades criativas humanas.__
 
-Contrate artistas para projetos comerciais ou mais elaborados.
-
-Aprenda Engenhosidade!
+Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhosidade!
