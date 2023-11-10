@@ -64,7 +64,10 @@ Seja Bem-vindo ao meu GitHub!
 
 ### :robot: Uso de IA:
 
-As figuras do cabeçalho desta página foram criadas com o auxílio de inteligência artificial e um mínimo de retoque e construção no Gimp [<img src="./assets/images/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Logo do Gimp" />](https://www.gimp.org/)
+O cabeçalho desta página foi criado com o auxílio de inteligência artificial e um mínimo de 
+retoque e construção no Gimp [<img src="./assets/images/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Logo do Gimp" />](https://www.gimp.org/)
+
+O fundo é uma sessão de [Event Storming do youtube ](https://www.youtube.com/watch?v=6nEbm71Vc3w) dos meus [projetos](https://github.com/jtonynet/cine-catalogo/tree/main) e pode ser encontrada no [Miro](https://miro.com/app/board/uXjVNRofMoA=/) com objetivo de aprendizado em público.
 
 __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https://www.bing.com/images/create/)__
 
@@ -79,8 +82,6 @@ __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https:/
 </details>
 
 <br/>
-
-O fundo é uma sessão de [Event Storming real do youtube ](https://www.youtube.com/watch?v=6nEbm71Vc3w) dos meus [projetos de estudo](https://github.com/jtonynet/cine-catalogo/tree/main) e pode ser encontrada no [Miro](https://miro.com/app/board/uXjVNRofMoA=/) com o objetivo de aprender e construir em público.
 
 
 IA também é utilizada em minhas pesquisas e estudos como ferramenta de apoio; no entanto, __artes e desenvolvimento são, sobretudo, atividades criativas humanas.__
