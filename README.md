@@ -67,7 +67,7 @@ Seja Bem-vindo ao meu GitHub!
 O cabeçalho desta página foi criado com o auxílio de inteligência artificial e um mínimo de 
 retoque e construção no Gimp [<img src="./assets/images/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Logo do Gimp" />](https://www.gimp.org/)
 
-O fundo é uma sessão de [Event Storming do youtube ](https://www.youtube.com/watch?v=6nEbm71Vc3w) dos meus [projetos](https://github.com/jtonynet/cine-catalogo/tree/main) e pode ser encontrada no [Miro](https://miro.com/app/board/uXjVNRofMoA=/) com objetivo de aprendizado em público.
+O fundo é uma sessão de [Event Storming do youtube ](https://www.youtube.com/watch?v=6nEbm71Vc3w) dos meus [projetos recentes](https://github.com/jtonynet/cine-catalogo/tree/main) e pode ser encontrada no [Miro](https://miro.com/app/board/uXjVNRofMoA=/) com objetivo de aprendizado em público.
 
 __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https://www.bing.com/images/create/)__
 
