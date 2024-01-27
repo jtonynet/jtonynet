@@ -1,3 +1,11 @@
+Trilha SRE-Itau: [Saiba como deixar os sistemas mais escaláveis, confiáveis e eficientes com a Engenharia de confiabilidade de Sites que teve origem na Google.](https://cursos.alura.com.br/formacao-sre)
+
+Repositórios com conteúdos desses certificados:
+- [Repositorio Treinamentos I e II Grafana, Prometheus e AlertManager](https://github.com/jtonynet/prometheus-grafana)
+
+
+---
+
 Trilha Golang: [Desenvolva aplicações e APIs com a linguagem Go.](https://cursos.alura.com.br/formacao-go)
 
 Repositórios com conteúdos desses certificados:
@@ -8,13 +16,6 @@ Repositórios com conteúdos desses certificados:
 
 ---
 
-Trilha SRE-Itau: [Saiba como deixar os sistemas mais escaláveis, confiáveis e eficientes com a Engenharia de confiabilidade de Sites que teve origem na Google.](https://cursos.alura.com.br/formacao-sre)
-
-Repositórios com conteúdos desses certificados:
-- [Repositorio Treinamentos I e II Grafana, Prometheus e AlertManager](https://github.com/jtonynet/prometheus-grafana)
-
-
----
 
 Trilha Typescript: [Formação Melhore sua experiência de desenvolvimento com TypeScript](https://www.alura.com.br/formacao-typescript)
 
