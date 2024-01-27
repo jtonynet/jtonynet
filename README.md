@@ -24,7 +24,7 @@ Explorando escrever [artigos](https://dev.to/learningenuity) como processo de do
 
 Durante a pandemia, explorei a Robótica e IoT como hobby.
 
-Seja Bem-vindo ao meu GitHub!
+Bem-vindo ao meu GitHub!
 
 <!--
 <img src="./assets/images/avatars/me_IA_carttoon.jpg" height="195"> 
