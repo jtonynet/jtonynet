@@ -43,6 +43,10 @@ https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
 
 <br/>
 
+---
+
+### 📈 Estatísticas Git
+
 <!--
 <img src="./assets/images/avatars/me_IA_carttoon.jpg" height="195"> 
 -->
