@@ -18,7 +18,7 @@
 -->
 
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá:
-Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços_ e _Grande Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços, Arquitetura, System Design e Grande Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes
 
