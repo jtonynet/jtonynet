@@ -43,7 +43,7 @@ Repositórios com conteúdos desses certificados:
 
 <br>
 
-Na trilha Python, por conta do ecossistema de um antigo empregador possuir variados microsserviços nessa linguagem, também foi ministrado treinamento presencial empresarial (nao Alura). Segue repositorio:
+Na trilha Python, por conta do ecossistema de um antigo empregador possuir variados microsserviços nessa linguagem, também foi ministrado treinamento presencial empresarial (não Alura). Segue repositórios:
 - [Python HU Avançado](https://github.com/jtonynet/hu-avancado)
 
 ---
