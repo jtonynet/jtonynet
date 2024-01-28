@@ -26,6 +26,7 @@ Repositórios com conteúdos desses certificados:
 
 Nova Trilha NodeJS [Autenticação, testes e segurança em NodeJS](https://cursos.alura.com.br/formacao-avancando-nodejs)
 
+Repositórios com conteúdos desses certificados:
 - [NodeJS](https://github.com/jtonynet/auth-test-security-study-js)
 
 ---
