@@ -5,18 +5,13 @@
 -->
 <img 
   src="./assets/images/layout/learn_ingenuity_drone_diagrams_header.png" 
-  alt="Dois desenvolvedores negros de cabelos afro e óculos. Um de camisa preta e outro de camisa laranja, um de costas para o outro. Trabalhando em seus respectivos computadores portáteis com a seguinte frase em laranja: LearnIngenuity, sendo a letra I de Ingenuity um pequeno drone em formato de cubo e abaixo dessa frase outra em letras brancas e fundo azul que diz: Because in PT-BR 'Ingenuity' does not mean naivety. Ao fundo deles, um diagrama de projeto com vários adesivos."
+  alt="Dois desenvolvedores negros de cabelos afro e óculos. Um de camisa preta e outro de camisa laranja, um de costas para o outro. Trabalhando em seus respectivos computadores portáteis com a seguinte frase em laranja ao lado: Learn Ingenuity, sendo a letra I de Ingenuity um pequeno drone em formato de cubo e abaixo dessa frase outra em letras brancas e fundo azul que diz: Because in PT-BR 'Ingenuity' does not mean naivety. Ao fundo deles, um diagrama de projeto com vários adesivos."
   title="LearnIngenuity"
 />
 
 <!-- 
-<img 
-  src="./assets/images/layout/learn_ingenuity_drone_diagrams_header.png" 
-  alt="LearnIngenuity, Because in PT-BR 'Ingenuity' does not mean naivety"
-  title="LearnIngenuity"
-/>
+https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
 -->
-
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá:
 Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços, Arquitetura, System Design e Grande Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
@@ -36,10 +31,6 @@ Bem-vindo ao meu GitHub!
 - 😄 Pronomes: _Ele, dele_
 - 🎓 Meus Cursos Livres: _[Certificados e repositórios de cursos](./certificados/alura)_
 - ⚡ Curiosidade: _Sou Aquarista e Maker nas horas vagas_
-
-<!-- 
-https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
--->
 
 <br/>
 
@@ -80,7 +71,7 @@ https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
     https://devicon.dev/
     https://simpleicons.org/
 -->
-[<img src="./assets/images/icons/go-original-wordmark.svg"  width="40" height="40" title="Golang" alt="Golang"/>](https://go.dev/) [<img src="./assets/images/icons/nodejs-original.svg"  width="40" height="40" title="Nodejs" alt="Logo do Nodejs" />](https://nodejs.org/en) [<img src="./assets/images/icons/javascript-original.svg" width="40" height="40" title="Javascript" alt="Logo do Javascript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="./assets/images/icons/typescript-original.svg" width="40" height="40" title="Typescript" alt="Logo do Typescript" />](https://www.typescriptlang.org/) [<img src="./assets/images/icons/python-original.svg" width="40" height="40" title="Python" alt="Logo do Python" />](https://www.python.org/) [<img src="./assets/images/icons/php-original.svg" width="50" height="50" title="PHP" alt="Logo do PHP" />](https://www.php.net/) [<img src="./assets/images/icons/ubuntu-color.svg" width="40" height="40" title="Ubunto" alt="Logo do Ubunto" />](https://ubuntu.com/) [<img src="./assets/images/icons/vscode-original.svg" width="40" height="40" title="VsCode" alt="Logo do VsCode" />](https://code.visualstudio.com/) [<img src="./assets/images/icons/miro.svg" width="40px" height="40px" alt="Miro" title="Logo do Miro">](https://miro.com/) [<img src="./assets/images/icons/hal.svg" width="55px" height="55px" alt="HAL" title="Logo do HAL">](https://en.wikipedia.org/wiki/Hypertext_Application_Language) [<img src="./assets/images/icons/mermaidjs.svg" width="40px" height="40px" alt="Logo do MermaidJS" title="MermaidJS">](https://mermaid.js.org/) [<img src="./assets/images/icons/postgresql-original.svg" width="40" height="40" title="PostgreSQL" alt="Logo do PostgreSQL" />](https://www.postgresql.org/) [<img src="./assets/images/icons/redis-original.svg" width="40" height="40" title="Redis" alt="Logo do Redis" />](https://redis.io/) [<img src="./assets/images/icons/rabbitmq.svg" width="40" height="40" title="RabbitMQ" alt="Logo do RabbitMQ" />](https://www.rabbitmq.com/) [<img src="./assets/images/icons/docker-original.svg" width="50" height="50" title="Docker" alt="Logo do Docker" />](https://www.docker.com/) [<img src="./assets/images/icons/arduino-original.svg" width="50" height="50" title="Arduino" alt="Logo do Arduino" />](https://www.arduino.cc/) [<img src="./assets/images/icons/raspberrypi-original.svg" width="40" height="40" title="RaspberryPi" alt="Logo do RaspberryPi" />](https://www.raspberrypi.org/)
+[<img src="./assets/images/icons/go-original-wordmark.svg"  width="40" height="40" title="Golang" alt="Golang"/>](https://go.dev/) [<img src="./assets/images/icons/nodejs-original.svg"  width="40" height="40" title="Nodejs" alt="Logo do Nodejs" />](https://nodejs.org/en) [<img src="./assets/images/icons/javascript-original.svg" width="40" height="40" title="Javascript" alt="Logo do Javascript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="./assets/images/icons/typescript-original.svg" width="40" height="40" title="Typescript" alt="Logo do Typescript" />](https://www.typescriptlang.org/) [<img src="./assets/images/icons/python-original.svg" width="40" height="40" title="Python" alt="Logo do Python" />](https://www.python.org/) [<img src="./assets/images/icons/php-original.svg" width="50" height="50" title="PHP" alt="Logo do PHP" />](https://www.php.net/) [<img src="./assets/images/icons/ubuntu-color.svg" width="40" height="40" title="Ubunto" alt="Logo do Ubunto" />](https://ubuntu.com/) [<img src="./assets/images/icons/vscode-original.svg" width="40" height="40" title="VsCode" alt="Logo do VsCode" />](https://code.visualstudio.com/) [<img src="./assets/images/icons/miro.svg" width="40px" height="40px" alt="Miro" title="Logo do Miro">](https://miro.com/) [<img src="./assets/images/icons/hal.svg" width="55px" height="55px" alt="HAL" title="Logo do HAL">](https://en.wikipedia.org/wiki/Hypertext_Application_Language) [<img src="./assets/images/icons/mermaidjs.svg" width="40px" height="40px" alt="Logo do MermaidJS" title="MermaidJS">](https://mermaid.js.org/) [<img src="./assets/images/icons/postgresql-original.svg" width="40" height="40" title="PostgreSQL" alt="Logo do PostgreSQL" />](https://www.postgresql.org/) [<img src="./assets/images/icons/mongodb.svg" width="40px" height="40px" alt="mongodb" title="mongoDB">](https://www.mongodb.com/) [<img src="./assets/images/icons/redis-original.svg" width="40" height="40" title="Redis" alt="Logo do Redis" />](https://redis.io/) [<img src="./assets/images/icons/rabbitmq.svg" width="40" height="40" title="RabbitMQ" alt="Logo do RabbitMQ" />](https://www.rabbitmq.com/) [<img src="./assets/images/icons/docker-original.svg" width="50" height="50" title="Docker" alt="Logo do Docker" />](https://www.docker.com/) [<img src="./assets/images/icons/arduino-original.svg" width="50" height="50" title="Arduino" alt="Logo do Arduino" />](https://www.arduino.cc/) [<img src="./assets/images/icons/raspberrypi-original.svg" width="40" height="40" title="RaspberryPi" alt="Logo do RaspberryPi" />](https://www.raspberrypi.org/)
 
 ---
 
