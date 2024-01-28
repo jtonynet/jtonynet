@@ -1,4 +1,4 @@
-### :boy: Cursos Recentes:
+### :boy: Repositórios Cursos Recentes:
 
 Trilha SRE-Itau: [Saiba como deixar os sistemas mais escaláveis, confiáveis e eficientes com a Engenharia de confiabilidade de Sites que teve origem na Google.](https://cursos.alura.com.br/formacao-sre)
 
@@ -33,7 +33,7 @@ Repositórios com conteúdos desses certificados:
 
 ---
 
-### :older_man: Cursos Antigos:
+### :older_man: Repositórios Cursos Antigos:
 
 Trilha Python
 Repositórios com conteúdos desses certificados:
