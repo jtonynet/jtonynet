@@ -11,7 +11,7 @@ Trilha Golang: [Desenvolva aplicações e APIs com a linguagem Go.](https://curs
 Repositórios com conteúdos desses certificados:
 - [Repositorio Curso 1](https://github.com/jtonynet/golang-course-01)
 - [Repositorio Curso 2](https://github.com/jtonynet/golang-course-02)
-- [Repositorio Curso Go API "Vanila"](https://github.com/jtonynet/api-go-rest)
+- [Repositorio Curso Go API "Vanilla"](https://github.com/jtonynet/api-go-rest)
 - [Repositorio Curso API com GIN - Com melhorias](https://github.com/jtonynet/api-gin-rest)
 
 ---
@@ -21,5 +21,11 @@ Trilha Typescript: [Formação Melhore sua experiência de desenvolvimento com T
 
 Repositórios com conteúdos desses certificados:
 - [NodeJs e Typescript](https://github.com/jtonynet/negociacoes-study-ts)
+
+---
+
+Nova Trilha NodeJS [Autenticação, testes e segurança em NodeJS](https://cursos.alura.com.br/formacao-avancando-nodejs)
+
+- [NodeJS](https://github.com/jtonynet/auth-test-security-study-js)
 
 ---
