@@ -12,3 +12,4 @@ Na trilha Python, por conta do ecossistema de um antigo empregador possuir varia
 ---
 
 :house: [Voltar ao perfil](https://github.com/jtonynet)
+🎓 [Voltar aos Certificados Alura](../)
