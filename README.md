@@ -29,12 +29,12 @@ Bem-vindo ao meu GitHub!
 <br/>
 
 - 🔭 Atualmente estou trabalhando em: _Aperfeiçoar minhas skills_
-- 🌱 Atualmente estou aprendendo: _[Observabilidade](./certificados/alura/SRE-Itau/README.md)_
+- 🌱 Atualmente estou aprendendo: _[Observabilidade](./certificados/alura/SRE-Itau)_
 - 👯 Estou procurando colaborar em: _Ajudar sua empresa a escalar_
 - 💬 Pergunte-me sobre: _Microsserviços e Escalabilidade_
 - 📫 Como entrar em contato comigo: _[Minhas Redes](#redes)_
 - 😄 Pronomes: _Ele, dele_
-- 🎓 Meus Cursos Livres: _[Certificados e repositórios de cursos](./certificados/alura/README.md)_
+- 🎓 Meus Cursos Livres: _[Certificados e repositórios de cursos](./certificados/alura)_
 - ⚡ Curiosidade: _Sou Aquarista e Maker nas horas vagas_
 
 <!-- 
