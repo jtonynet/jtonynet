@@ -3,7 +3,7 @@
 Trilha SRE-Itau: [Saiba como deixar os sistemas mais escaláveis, confiáveis e eficientes com a Engenharia de confiabilidade de Sites que teve origem na Google.](https://cursos.alura.com.br/formacao-sre)
 
 Repositórios com conteúdos desses certificados:
-- [Repositorio Treinamentos I e II Grafana, Prometheus e AlertManager](https://github.com/jtonynet/prometheus-grafana)
+- [Repositorio SRE Treinamentos I e II Grafana, Prometheus e AlertManager](https://github.com/jtonynet/prometheus-grafana)
 
 
 ---
@@ -60,3 +60,7 @@ Trilha Javascript
 Repositórios com conteúdos desses certificados:
 - [Front-End Negociações ecma2015](https://github.com/jtonynet/jtony-ecma2015)
 - [Javascript es6js](https://github.com/jtonynet/jtony-casa-do-codigo-es6js)
+
+---
+
+:house: [Voltar ao perfil](https://github.com/jtonynet)

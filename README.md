@@ -18,13 +18,30 @@
 -->
 
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá:
-Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Nos ultimos anos tive foco em _microsserviços_ e _grande volume de dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços_ e _Grande Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes
 
-Durante a pandemia, explorei a Robótica e IoT como hobby.
+Durante a pandemia, me dediquei a Robótica e IoT como hobby.
 
 Bem-vindo ao meu GitHub!
+
+<br/>
+
+- 🔭 Atualmente estou trabalhando em: _Aperfeiçoar minhas skills_
+- 🌱 Atualmente estou aprendendo: _[Observabilidade](./certificados/alura/SRE-Itau/README.md)_
+- 👯 Estou procurando colaborar em: _Ajudar sua empresa a escalar_
+- 💬 Pergunte-me sobre: _Microsserviços e Escalabilidade_
+- 📫 Como entrar em contato comigo: _[Minhas Redes](#redes)_
+- 😄 Pronomes: _Ele, dele_
+- 🎓 Meus Cursos Livres: _[Certificados e repositórios de cursos](./certificados/alura/README.md)_
+- ⚡ Curiosidade: _Sou Aquarista e Maker nas horas vagas_
+
+<!-- 
+https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
+-->
+
+<br/>
 
 <!--
 <img src="./assets/images/avatars/me_IA_carttoon.jpg" height="195"> 
@@ -43,7 +60,7 @@ Bem-vindo ao meu GitHub!
 ---
 
 ### 🕸️ Redes:
-
+<a id="redes"></a>
 <!-- 
     https://dev.to/envoy_/150-badges-for-github-pnk
 -->
