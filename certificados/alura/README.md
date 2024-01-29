@@ -14,8 +14,8 @@ Com isso, busco uma documentação adequada dos meus processos de estudo.
 ##### Trilha SRE-Itau: [Saiba como deixar os sistemas mais escaláveis, confiáveis e eficientes com a Engenharia de confiabilidade de Sites que teve origem na Google.](https://cursos.alura.com.br/formacao-sre)
 
 Repositórios com conteúdos desses certificados:
-- [Repositório SRE Treinamentos I e II Grafana, Prometheus e AlertManager](https://github.com/jtonynet/prometheus-grafana)
-- __EM ANDAMENTO:__ [Repositório SRE Treinamento III Logs & Grafana Loki](https://github.com/jtonynet/observability-logs)
+- [Repositório SRE 1 - Treinamentos I e II Grafana, Prometheus e AlertManager](https://github.com/jtonynet/prometheus-grafana)
+- __EM ANDAMENTO:__ [Repositório SRE 2 - Treinamento III Logs & Grafana Loki](https://github.com/jtonynet/observability-logs)
 
 <br/>
 
