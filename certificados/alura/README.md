@@ -14,17 +14,18 @@ Com isso, busco uma documentação adequada dos meus processos de estudo.
 ##### Trilha SRE-Itau: [Saiba como deixar os sistemas mais escaláveis, confiáveis e eficientes com a Engenharia de confiabilidade de Sites que teve origem na Google.](https://cursos.alura.com.br/formacao-sre)
 
 Repositórios com conteúdos desses certificados:
-- [Repositorio SRE Treinamentos I e II Grafana, Prometheus e AlertManager](https://github.com/jtonynet/prometheus-grafana)
+- [Repositório SRE Treinamentos I e II Grafana, Prometheus e AlertManager](https://github.com/jtonynet/prometheus-grafana)
+- __EM ANDAMENTO:__ [Repositório SRE Treinamento III Logs & Grafana Loki](https://github.com/jtonynet/observability-logs)
 
 <br/>
 
 ##### Trilha Golang: [Desenvolva aplicações e APIs com a linguagem Go.](https://cursos.alura.com.br/formacao-go)
 
 Repositórios com conteúdos desses certificados:
-- [Repositorio Curso 1](https://github.com/jtonynet/golang-course-01)
-- [Repositorio Curso 2](https://github.com/jtonynet/golang-course-02)
-- [Repositorio Curso Go API "Vanilla"](https://github.com/jtonynet/api-go-rest)
-- [Repositorio Curso API com GIN - Com melhorias <br/>(Cache Defensivo Redis, Filas RabbitMQ, Teste de carga/escalabilidade horizontal com Gatling)](https://github.com/jtonynet/api-gin-rest)
+- [Repositório Curso 1](https://github.com/jtonynet/golang-course-01)
+- [Repositório Curso 2](https://github.com/jtonynet/golang-course-02)
+- [Repositório Curso Go API "Vanilla"](https://github.com/jtonynet/api-go-rest)
+- [Repositório Curso API com GIN - Com melhorias <br/>(Cache Defensivo Redis, Filas RabbitMQ, Teste de carga/escalabilidade horizontal com Gatling)](https://github.com/jtonynet/api-gin-rest)
 
 <br/>
 
