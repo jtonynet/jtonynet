@@ -1,3 +1,5 @@
+<img src="header.png">
+
 Trilha: [Formação Melhore sua experiência de desenvolvimento com TypeScript](https://www.alura.com.br/formacao-typescript)
 
 Repositórios com conteúdos desses certificados:
