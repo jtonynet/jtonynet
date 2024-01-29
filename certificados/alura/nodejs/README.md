@@ -1,3 +1,5 @@
+<img src="header.png">
+
 Nova Trilha NodeJS [Autenticação, testes e segurança em NodeJS](https://cursos.alura.com.br/formacao-avancando-nodejs)
 
 Repositórios com conteúdos desses certificados:
