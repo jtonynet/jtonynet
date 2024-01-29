@@ -24,7 +24,7 @@ Repositórios com conteúdos desses certificados:
 - [Repositorio Curso 1](https://github.com/jtonynet/golang-course-01)
 - [Repositorio Curso 2](https://github.com/jtonynet/golang-course-02)
 - [Repositorio Curso Go API "Vanilla"](https://github.com/jtonynet/api-go-rest)
-- [Repositorio Curso API com GIN - Com melhorias (Cache Defensivo Redis e Filas RabbitMQ)](https://github.com/jtonynet/api-gin-rest)
+- [Repositorio Curso API com GIN - Com melhorias <br/>(Cache Defensivo Redis, Filas RabbitMQ, Teste de carga/escalabilidade horizontal com Gatling)](https://github.com/jtonynet/api-gin-rest)
 
 <br/>
 
