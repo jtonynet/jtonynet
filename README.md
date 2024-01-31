@@ -13,7 +13,7 @@
 https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
 -->
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá:
-Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços, Arquitetura, System Design e Grande Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços e Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes
 
@@ -30,6 +30,7 @@ Bem-vindo ao meu GitHub!
 - 📫 Como entrar em contato comigo: _[Minhas Redes](#redes)_
 - 😄 Pronomes: _Ele, dele_
 - 🎓 Meus Cursos Livres: _[Certificados e repositórios de cursos](./certificados/alura)_
+<!-- 📚 Minhas Leituras: _[Livros recentes]()_ -->
 - ⚡ Curiosidade: _Sou Aquarista e Maker nas horas vagas_
 
 <br/>
