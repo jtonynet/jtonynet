@@ -43,6 +43,15 @@ Repositórios com conteúdos desses certificados:
 
 ---
 
+### 💡 INOVAÇÃO & GESTÃO
+
+Certificados sem Repositórios pois nao sao focados em linguagens, ferramentas ou arquiteturas
+
+##### Tech Lead [Desenvolvendo competências de liderança técnica para impulsionar equipes](https://cursos.alura.com.br/formacao-tech-lead)
+- [Certificados trilha Tech Lead](./tech-lead/)
+
+---
+
 ### :older_man: Repositórios de Cursos Antigos:
 
 ##### Trilha Python
