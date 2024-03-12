@@ -39,16 +39,16 @@ Certificados e Repositórios focados em Linguagens, Técnicas, Ferramentas ou Ar
 ### :boy: Repositórios de Cursos Recentes:
 
 ##### Trilha SRE-Itau (Observabilidade): [Saiba como deixar os sistemas mais escaláveis, confiáveis e eficientes com a Engenharia de confiabilidade de Sites que teve origem na Google.](https://cursos.alura.com.br/formacao-sre)
-
-Repositórios com conteúdos desses certificados:
+[Certificados trilha SRE](./SRE-Itau/)
+Repositórios com conteúdos desses certificados
 - [Repositório SRE 1 - Treinamentos I e II Grafana, Prometheus e AlertManager](https://github.com/jtonynet/prometheus-grafana)
 - [Repositório SRE 2 - Treinamento III Logs & Grafana Loki](https://github.com/jtonynet/observability-logs)
 
 <br/>
 
 ##### Trilha Golang: [Desenvolva aplicações e APIs com a linguagem Go.](https://cursos.alura.com.br/formacao-go)
-
-Repositórios com conteúdos desses certificados:
+[Certificados trilha Golang](./golang/)
+Repositórios com conteúdos desses certificados
 - [Repositório Curso 1](https://github.com/jtonynet/golang-course-01)
 - [Repositório Curso 2](https://github.com/jtonynet/golang-course-02)
 - [Repositório Curso Go API "Vanilla"](https://github.com/jtonynet/api-go-rest)
@@ -57,46 +57,63 @@ Repositórios com conteúdos desses certificados:
 <br/>
 
 ##### Trilha Typescript: [Formação Melhore sua experiência de desenvolvimento com TypeScript](https://www.alura.com.br/formacao-typescript)
-
-Repositórios com conteúdos desses certificados:
-- [NodeJs e Typescript](https://github.com/jtonynet/negociacoes-study-ts)
+[Certificados trilha Typescript](./typescript/)
+Repositórios com conteúdos desses certificados
+- [Repositório Curso NodeJs e Typescript](https://github.com/jtonynet/negociacoes-study-ts)
 
 <br/>
 
-##### Nova Trilha NodeJS [Autenticação, testes e segurança em NodeJS](https://cursos.alura.com.br/formacao-avancando-nodejs)
-
+##### Nova Trilha NodeJS: [Autenticação, testes e segurança em NodeJS](https://cursos.alura.com.br/formacao-avancando-nodejs)
+[Certificados trilha NodeJS](./nodejs/)
 Repositórios com conteúdos desses certificados:
-- [NodeJS](https://github.com/jtonynet/auth-test-security-study-js)
+- [Repositório Curso NodeJS](https://github.com/jtonynet/auth-test-security-study-js)
 
 <br/>
 <br/>
 
 ### :older_man: Repositórios de Cursos Antigos:
 
-##### Trilha Python
-Repositórios com conteúdos desses certificados:
-- [Python Design Patterns I](https://github.com/jtonynet/python-design-patterns)
-- [Python Design Patterns II](https://github.com/jtonynet/python-design-patterns-2)
-- [Python Desenvolvimento Django](https://github.com/jtonynet/connectedin)
+##### Trilha Python:
+[Certificados trilha Python](./python/)
+Repositórios com conteúdos desses certificados
+- [Repositório Curso Python Design Patterns I](https://github.com/jtonynet/python-design-patterns)
+- [Repositório Curso Python Design Patterns II](https://github.com/jtonynet/python-design-patterns-2)
+- [Repositório Curso Python Desenvolvimento Django](https://github.com/jtonynet/connectedin)
 
 
 Na trilha Python, por conta do ecossistema de um antigo empregador possuir variados microsserviços nessa linguagem, também foi ministrado treinamento presencial empresarial (não Alura). Segue repositórios:
-- [Python HU Avançado](https://github.com/jtonynet/hu-avancado)
+- [Repositório Curso Python HU Avançado](https://github.com/jtonynet/hu-avancado)
 
 <br/>
 
-##### Trilha Javascript Angular
-Repositórios com conteúdos desses certificados:
-- [Angular](https://github.com/jtonynet/jtony-study-angular)
-- [Angular 2 - AluraPic](https://github.com/jtonynet/jtony-angular2-alurapic)
-- [Angular Blog](https://github.com/jtonynet/jtony-angular-blog)
+##### Trilha Javascript Angular:
+Repositórios com conteúdos desses certificados
+- [Repositório Curso Angular](https://github.com/jtonynet/jtony-study-angular)
+- [Repositório Curso Angular 2 - AluraPic](https://github.com/jtonynet/jtony-angular2-alurapic)
+- [Repositório Curso Angular Blog](https://github.com/jtonynet/jtony-angular-blog)
 
 <br/>
 
-##### Trilha Javascript
-Repositórios com conteúdos desses certificados:
-- [Front-End Negociações ecma2015](https://github.com/jtonynet/jtony-ecma2015)
-- [Javascript es6js](https://github.com/jtonynet/jtony-casa-do-codigo-es6js)
+##### Trilha Javascript:
+[Certificados trilha Javascript](./javascript/)
+Repositórios com conteúdos desses certificados
+- [Repositório CursoFront-End Negociações ecma2015](https://github.com/jtonynet/jtony-ecma2015)
+- [Repositório CursoJavascript es6js](https://github.com/jtonynet/jtony-casa-do-codigo-es6js)
+
+
+
+<br/>
+
+##### Trilha PHP:
+Repositórios com certificados
+- [Certificados trilha PHP](./PHP/)
+
+<br/>
+
+##### Trilha Redes:
+Repositórios com certificados, usei como apoio a Matéria na graduação
+- [Certificados trilha Redes](./redes/)
+
 
 ---
 
