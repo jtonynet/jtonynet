@@ -13,7 +13,7 @@ Com isso, busco uma documentação adequada dos meus processos de estudo.
 
 ## 💡 INOVAÇÃO & GESTÃO (soft-skills):
 
-Certificados sem Repositórios pois não são focados em Linguagens, Ferramentas ou Arquiteturas
+Certificados sem Repositórios pois não são focados em Programação, Técnicas & Arquiteturas
 
 <br/>
 
@@ -32,7 +32,7 @@ Certificados sem Repositórios pois não são focados em Linguagens, Ferramentas
 
 ## 👨‍💻 PROGRAMAÇÃO, TÉCNICAS & ARQUITETURAS (hard-skills):
 
-Certificados e Repositórios focados em Linguagens, Técnicas, Ferramentas ou Arquiteturas
+Certificados e Repositórios focados em Programação, Técnicas & Arquiteturas
 
 <br/>
 
