@@ -30,7 +30,7 @@ Bem-vindo ao meu GitHub!
 - 📫 Como entrar em contato comigo: _[Minhas Redes](#redes)_
 - 😄 Pronomes: _Ele, dele_
 - 🎓 Meus Cursos Livres: _[Certificados e repositórios de cursos](./certificados/alura)_
-<!-- 📚 Minhas Leituras: _[Livros recentes]()_ -->
+<!-- 📚 Minhas Leituras: _[Resenhas de Livros]()_ -->
 - ⚡ Curiosidade: _Sou Aquarista e Maker nas horas vagas_
 
 <br/>

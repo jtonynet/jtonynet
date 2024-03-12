@@ -1,17 +1,44 @@
-### :book: Sobre:
+## :book: SOBRE:
 Dentro de cada pasta deste diretório, estão os arquivos PDFs dos certificados dos cursos concluídos na plataforma de ensino __[Alura](https://www.alura.com.br/)__.
 
-Utilizo esses cursos como introdução ou breve atualização em temas relacionados ao desenvolvimento. Quando necessário aprofundar-me em questões, busco materiais complementares, como mergulhar na documentação, ler livros, artigos e fazer outros cursos mais avançados. Esses, por sua vez, geram novos estudos e outros repositórios.
+Utilizo esses cursos como introdução ou breve atualização em temas relacionados ao Desenvolvimento, Inovação e Gestão. Quando necessário aprofundar-me em questões, busco materiais complementares, como mergulhar na documentação, ler livros, artigos e fazer outros cursos mais avançados. Esses, por sua vez, geram novos estudos e outros repositórios.
 
 Nem todos os certificados têm repositórios com materiais desenvolvidos durante os cursos. Apenas os mais recentes possuem arquivos `README.md`, mantendo a essência de proporcionar uma boa experiência para desenvolvedores interessados em seus conteúdos.
 
 Com isso, busco uma documentação adequada dos meus processos de estudo.
 
+`Lifelong learning`!
+
 ---
+
+## 💡 INOVAÇÃO & GESTÃO (soft-skills):
+
+Certificados sem Repositórios pois não são focados em Linguagens, Ferramentas ou Arquiteturas
+
+<br/>
+
+##### Tech Lead: [Desenvolvendo competências de liderança técnica para impulsionar equipes](https://cursos.alura.com.br/formacao-tech-lead)
+- [Certificados trilha Tech Lead](./tech-lead/)
+
+<!--
+<br/>
+
+##### Comunicação: [Desenvolva a capacidade de expressar suas ideias com clareza](https://cursos.alura.com.br/formacao-comunicacao)
+- [Certificados trilha Comunicação](./comunicacao/)
+
+-->
+
+---
+
+## 👨‍💻 PROGRAMAÇÃO, TÉCNICAS & ARQUITETURAS (hard-skills):
+
+Certificados e Repositórios focados em Linguagens, Técnicas, Ferramentas ou Arquiteturas
+
+<br/>
 
 ### :boy: Repositórios de Cursos Recentes:
 
-##### Trilha SRE-Itau: [Saiba como deixar os sistemas mais escaláveis, confiáveis e eficientes com a Engenharia de confiabilidade de Sites que teve origem na Google.](https://cursos.alura.com.br/formacao-sre)
+##### Trilha SRE-Itau (Observabilidade): [Saiba como deixar os sistemas mais escaláveis, confiáveis e eficientes com a Engenharia de confiabilidade de Sites que teve origem na Google.](https://cursos.alura.com.br/formacao-sre)
 
 Repositórios com conteúdos desses certificados:
 - [Repositório SRE 1 - Treinamentos I e II Grafana, Prometheus e AlertManager](https://github.com/jtonynet/prometheus-grafana)
@@ -41,16 +68,8 @@ Repositórios com conteúdos desses certificados:
 Repositórios com conteúdos desses certificados:
 - [NodeJS](https://github.com/jtonynet/auth-test-security-study-js)
 
----
-
-### 💡 INOVAÇÃO & GESTÃO
-
-Certificados sem Repositórios pois nao sao focados em linguagens, ferramentas ou arquiteturas
-
-##### Tech Lead [Desenvolvendo competências de liderança técnica para impulsionar equipes](https://cursos.alura.com.br/formacao-tech-lead)
-- [Certificados trilha Tech Lead](./tech-lead/)
-
----
+<br/>
+<br/>
 
 ### :older_man: Repositórios de Cursos Antigos:
 
