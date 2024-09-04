@@ -57,7 +57,7 @@ Repositórios com conteúdos desses certificados
 <br/>
 
 ##### Trilha PHP/Laravel [Aprenda a utilizar o framework Laravel](https://www.alura.com.br/formacao-laravel)
-[Certificados trilha Laravel](./php/2024/laravel) que por conta de side projects recentes precisei me atualizar na linguagem e framework e utilizei essa trilha como ponto de partida
+[Certificados trilha Laravel](./PHP/2024/laravel) que por conta de side projects recentes precisei me atualizar na linguagem e framework e utilizei essa trilha como ponto de partida
 
 - [Repositório trilha Laravel](https://github.com/jtonynet/php-laravel-series)
 
