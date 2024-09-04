@@ -24,7 +24,7 @@ Bem-vindo ao meu GitHub!
 <br/>
 
 - 🔭 Atualmente estou trabalhando em: _Aperfeiçoar minhas skills_
-- 🌱 Atualmente estou aprendendo: _[Observabilidade](./certificados/alura/SRE-Itau)_ e Boas Praticas
+- 🌱 Atualmente estou aprendendo: _[Observabilidade](./certificados/alura/SRE-Itau)_ e Boas Práticas
 - 👯 Estou procurando colaborar em: _Ajudar sua empresa a escalar_
 - 💬 Pergunte-me sobre: _Microsserviços_
 - 📫 Como entrar em contato comigo: _[Minhas Redes](#redes)_
