@@ -56,6 +56,13 @@ Repositórios com conteúdos desses certificados
 
 <br/>
 
+##### Trilha PHP/Laravel [Aprenda a utilizar o framework Laravel](https://www.alura.com.br/formacao-laravel)
+[Certificados trilha Laravel](./php/2024/laravel) que por conta de side projects recentes precisei me atualizar na linguagem e framework e utilizei essa trilha como ponto de partida
+
+- [Repositório trilha Laravel](https://github.com/jtonynet/php-laravel-series)
+
+<br/>
+
 ##### Trilha Typescript: [Formação Melhore sua experiência de desenvolvimento com TypeScript](https://www.alura.com.br/formacao-typescript)
 [Certificados trilha Typescript](./typescript/)
 Repositórios com conteúdos desses certificados
@@ -106,7 +113,7 @@ Repositórios com conteúdos desses certificados
 
 ##### Trilha PHP:
 Repositórios com certificados
-- [Certificados trilha PHP](./PHP/)
+- [Certificados trilha PHP](./PHP/2017)
 
 <br/>
 
