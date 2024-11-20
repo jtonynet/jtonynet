@@ -3,7 +3,7 @@ Dentro de cada pasta deste diretório, estão os arquivos PDFs dos certificados 
 
 Utilizo esses cursos como introdução ou breve atualização em temas relacionados ao Desenvolvimento, Inovação e Gestão. Quando necessário aprofundar-me em questões, busco materiais complementares, como mergulhar na documentação, ler livros, artigos e fazer outros cursos mais avançados. Esses, por sua vez, geram novos estudos e outros repositórios.
 
-Nem todos os certificados têm repositórios com materiais desenvolvidos durante os cursos. Apenas os mais recentes possuem arquivos `README.md`, mantendo a essência de proporcionar uma boa experiência para desenvolvedores interessados em seus conteúdos.
+Nem todos os certificados têm repositórios com materiais desenvolvidos durante os cursos. Apenas os mais recentes possuem arquivos `README.md`, mantendo a essência de proporcionar uma boa experiência para qualquer pessoa interessada em seus conteúdos.
 
 Com isso, busco uma documentação adequada dos meus processos de estudo.
 
