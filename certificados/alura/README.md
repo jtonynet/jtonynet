@@ -1,4 +1,4 @@
-## :book: SOBRE:
+## 📖 SOBRE:
 Dentro de cada pasta deste diretório, estão os arquivos PDFs dos certificados dos cursos concluídos na plataforma de ensino __[Alura](https://www.alura.com.br/)__.
 
 Utilizo esses cursos como introdução ou breve atualização em temas relacionados ao Desenvolvimento, Inovação e Gestão. Quando necessário aprofundar-me em questões, busco materiais complementares, como mergulhar na documentação, ler livros, artigos e fazer outros cursos mais avançados. Esses, por sua vez, geram novos estudos e outros repositórios.
@@ -78,7 +78,7 @@ Repositórios com conteúdos desses certificados:
 <br/>
 <br/>
 
-### :older_man: Repositórios de Cursos Antigos:
+### 👴 Repositórios de Cursos Antigos:
 
 ##### Trilha Python:
 [Certificados trilha Python](./python/)

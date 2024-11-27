@@ -76,7 +76,7 @@ Bem-vindo ao meu GitHub!
 
 ---
 
-### :robot: Uso de IA:
+### 🤖 Uso de IA:
 
 O cabeçalho desta página foi criado com o auxílio de inteligência artificial e um mínimo de 
 retoque e construção no Gimp [<img src="./assets/images/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Logo do Gimp" />](https://www.gimp.org/)
@@ -87,7 +87,7 @@ __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https:/
 
 <details>
   <summary><b>Desenvolvedores</b></summary>
-<i>"Dois desenvolvedores de sistemas de informatica negros de cabelo afro black power de barba e oculos trabalhando em seus notebooks em estilo carrton com cores chapadas fundo branco neutro que possa ser facilmente retirado"<b>(sic)</b></i>
+<i>"Dois desenvolvedores de sistemas de informatica negros de cabelo afro black power de barba e oculos trabalhando em seus notebooks em estilo cartoon com cores chapadas fundo branco neutro que possa ser facilmente retirado"<b>(sic)</b></i>
 </details>
 
 <details>
@@ -101,3 +101,37 @@ __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https:/
 IA também é utilizada em minhas pesquisas e estudos como ferramenta de apoio; no entanto, __artes e desenvolvimento são, sobretudo, atividades criativas humanas.__
 
 Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhosidade!
+
+---
+
+### 🌟 Projetos de Destaque
+
+
+<a href="https://github.com/jtonynet/go-payments-api">
+
+| Go Payments API                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png"> |
+
+</a>
+
+ Desafio de `Autorizador de Pagamentos` de benefícios com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
+Em `Arquitetura Hexagonal` com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` e o serviço `Processor` (o processador de pagamentos) para aumentar a segurança.
+
+- `Memory Lock Pessimista` com `Redis`  
+- `pub/sub` através de `Redis Keyspace Notification` (outras filas foram desconsideradas por questões de `latência adicional`) para comunicar `unlocks`
+- `PostgreSQL` com modelagem inspirada em `eventos` visando evitar `Inconsistência eventual`
+- `GitHub Actions` para `CI`  
+
+
+
+<br/>
+
+---
+
+<br/>
+
+> | _"Lifelong Learning & Prosper"_ |
+> | ------------------------------- |
+> | _Mrs. Spock, maybe_   🖖🏾🚀       |
+
