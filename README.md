@@ -40,7 +40,7 @@ Bem-vindo ao meu GitHub!
 
 <br/>
 
-[⤴️ de volta ao header](#header)
+[⤴️ de volta ao menu](#header)
 
 ---
 
@@ -55,7 +55,7 @@ Bem-vindo ao meu GitHub!
 
 <br/>
 
-[⤴️ de volta ao header](#header)
+[⤴️ de volta ao menu](#header)
 
 ---
 
@@ -76,7 +76,7 @@ Bem-vindo ao meu GitHub!
 
 <br/>
 
-[⤴️ de volta ao header](#header)
+[⤴️ de volta ao menu](#header)
 
 ---
 
@@ -92,7 +92,7 @@ Bem-vindo ao meu GitHub!
 
 <br/>
 
-[⤴️ de volta ao header](#header)
+[⤴️ de volta ao menu](#header)
 
 ---
 
@@ -127,7 +127,7 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 
 <br/>
 
-[⤴️ de volta ao header](#header)
+[⤴️ de volta ao menu](#header)
 
 ---
 
@@ -225,7 +225,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 <br/>
 
-[⤴️ de volta ao header](#header)
+[⤴️ de volta ao menu](#header)
 
 ---
 
