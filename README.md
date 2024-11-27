@@ -108,14 +108,14 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 
 Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, meus projetos recentes, desenvolvidos com base em desafios práticos e estudos.
 
-<a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
-
+> <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
+>
 > | Go Payments API                                                                                                  |
 > | ---------------------------------------------------------------------------------------------------------------- |
 > | <img src="https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png"> |
-
-</a>
-
+>
+> </a>
+>
 > Desafio de `Autorizador de Pagamentos` de benefícios com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
 > Em `Arquitetura Hexagonal` com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` e o serviço `Processor` (o processador de pagamentos) por segurança.
 > 
@@ -128,14 +128,14 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <hr/>
 <br/>
 
-<a href="./certificados/alura/SRE-Itau">
-
+> <a href="./certificados/alura/SRE-Itau">
+> 
 > | SRE Observability Training                           |
 > | -----------------------------------------------------|
 > | <img src="./certificados/alura/SRE-Itau/header.png"> |
-
-</a>
-
+> 
+> </a>
+> 
 > Estudo de `Observabilidade e SRE` com foco em `logs estruturados`, `monitoramento` e `alertas` para sistemas distribuídos. Implementado integração a ferramentas de observabilidade em uma aplicação previamente construida.
 > 
 > - `Grafana` e `Prometheus` para `dashboards` e `monitoramento de métricas`  
