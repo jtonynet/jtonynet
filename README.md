@@ -116,10 +116,10 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 </a>
 
  Desafio de `Autorizador de Pagamentos` de benefícios com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
-Em `Arquitetura Hexagonal` com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` e o serviço `Processor` (o processador de pagamentos) para aumentar a segurança.
+Em `Arquitetura Hexagonal` com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` e o serviço `Processor` (o processador de pagamentos) por segurança.
 
 - `Memory Lock Pessimista` com `Redis`  
-- `Unlocks` através de `Pub/Sub` com `Redis Keyspace Notification` (outras filas foram desconsideradas por questões de `Latência Adicional`) para comunicar 
+- `Unlocks` através de `Pub/Sub` com `Redis Keyspace Notification` (outras filas foram desconsideradas devido `Latência Adicional`) para comunicar processos concorrentes posivelmente travados.
 - `PostgreSQL` com modelagem inspirada em `Eventos` visando evitar `Inconsistência eventual`
 - `GitHub Actions` para `CI`  
 
