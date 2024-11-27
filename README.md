@@ -110,9 +110,9 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
 
-| Go Payments API                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png" width="70%"> |
+| Go Payments API                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png"> |
 
 </a>
 
