@@ -130,5 +130,5 @@ Em `Arquitetura Hexagonal` com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço
 
 >  _"Lifelong Learning & Prosper"_
 > <br/> 
->  _Mrs. Spock, maybe_   🖖🏾🚀       
+>  _Mr. Spock, maybe_   🖖🏾🚀       
 
