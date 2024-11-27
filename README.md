@@ -126,9 +126,6 @@ Em `Arquitetura Hexagonal` com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço
 
 
 <br/>
-
----
-
 <br/>
 
 >  _"Lifelong Learning & Prosper"_
