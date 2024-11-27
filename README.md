@@ -119,11 +119,9 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 Em `Arquitetura Hexagonal` com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` e o serviço `Processor` (o processador de pagamentos) para aumentar a segurança.
 
 - `Memory Lock Pessimista` com `Redis`  
-- `pub/sub` através de `Redis Keyspace Notification` (outras filas foram desconsideradas por questões de `latência adicional`) para comunicar `unlocks`
-- `PostgreSQL` com modelagem inspirada em `eventos` visando evitar `Inconsistência eventual`
+- `Unlocks` através de `Pub/Sub` com `Redis Keyspace Notification` (outras filas foram desconsideradas por questões de `Latência Adicional`) para comunicar 
+- `PostgreSQL` com modelagem inspirada em `Eventos` visando evitar `Inconsistência eventual`
 - `GitHub Actions` para `CI`  
-
-
 
 <br/>
 <br/>
