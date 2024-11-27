@@ -234,13 +234,16 @@ Todo projeto envolve trade-offs e dívidas técnicas. No entanto, é bem-sucedid
 
 <br/>
 
+<a href="#footer">
+<img src="./assets/images/layout/drone_footer.png" />
+</a>
+
+<br/>
+
 >  _"Lifelong Learning & Prosper"_
 > <br/> 
 >  _Mr. Spock, maybe_   🖖🏾🚀
 
-<a href="#footer">
-<img src="./assets/images/layout/drone_footer.png" />
-</a>
 
 <!-- img src="./assets/images/layout/learn_ingenuity_drone_footer.png" / -->
 
