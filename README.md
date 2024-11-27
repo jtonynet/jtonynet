@@ -134,11 +134,12 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 
 Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, meus projetos pessoais e treinamentos recentes, desenvolvidos com base em desafios práticos e estudos.
 
+
 > <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
 >
 > | Go Payments API                                      |
 > | -----------------------------------------------------|
-> | <img src="https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png"> |
+> | [![header](https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png)](https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header) |
 >
 > </a>
 >
@@ -158,7 +159,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > 
 > | SRE Observability Training                           |
 > | -----------------------------------------------------|
-> | <img src="./certificados/alura/SRE-Itau/header.png"> |
+> | [![header](./certificados/alura/SRE-Itau/header.png)](./certificados/alura/SRE-Itau) |
 > 
 > </a>
 > 
