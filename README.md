@@ -104,9 +104,9 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 
 ---
 
-### 🌟 Projetos de Destaque:
+### 🌟 Desafios e Estudos de Destaque:
 
-Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, meus projetos recentes, desenvolvidos com base em desafios práticos e estudos.
+Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, meus projetos pessoais e treinamentos recentes, desenvolvidos com base em desafios práticos e estudos.
 
 > <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
 >
