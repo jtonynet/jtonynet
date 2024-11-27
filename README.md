@@ -236,6 +236,7 @@ Todo projeto envolve trade-offs e dívidas técnicas. No entanto, é bem-sucedid
 
 <a href="#footer">
 <img src="./assets/images/layout/drone_footer.png" />
+<!-- img src="./assets/images/layout/learn_ingenuity_drone_footer.png" / -->
 </a>
 
 <br/>
