@@ -11,7 +11,7 @@
 />
 </a>
 
-[![header](https://img.shields.io/badge/⤴️_header-001a2d?style=for-the-badge)](#header)[![Olá](https://img.shields.io/badge/👋_Ola-001a2d?style=for-the-badge)](#hello) [![Redes](https://img.shields.io/badge/🕸️_Redes-001a2d?style=for-the-badge)](#contacts) [![Estatísticas Git](https://img.shields.io/badge/📈_Estatísticas_Git-001a2d?style=for-the-badge)](#git_statistics) [![Caixa de Ferramentas](https://img.shields.io/badge/🧰_Caixa_de_Ferramentas-001a2d?style=for-the-badge)](#toolkit) [![Uso de IA](https://img.shields.io/badge/🤖_Uso_de_IA-001a2d?style=for-the-badge)](#ia) [![Desafios e Estudos de Destaque](https://img.shields.io/badge/🌟_Desafios_e_Estudos-001a2d?style=for-the-badge)](#challanges_and_studies)
+[![header](https://img.shields.io/badge/⤴️_header-001a2d?style=for-the-badge)](#header) [![Olá](https://img.shields.io/badge/👋_Ola-001a2d?style=for-the-badge)](#hello) [![Redes](https://img.shields.io/badge/🕸️_Redes-001a2d?style=for-the-badge)](#contacts) [![Estatísticas Git](https://img.shields.io/badge/📈_Estatísticas_Git-001a2d?style=for-the-badge)](#git_statistics) [![Caixa de Ferramentas](https://img.shields.io/badge/🧰_Caixa_de_Ferramentas-001a2d?style=for-the-badge)](#toolkit) [![Uso de IA](https://img.shields.io/badge/🤖_Uso_de_IA-001a2d?style=for-the-badge)](#ia) [![Desafios e Estudos de Destaque](https://img.shields.io/badge/🌟_Desafios_e_Estudos-001a2d?style=for-the-badge)](#challanges_and_studies)
 
 ---
 
