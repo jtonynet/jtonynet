@@ -243,10 +243,3 @@ Todo projeto envolve trade-offs e dívidas técnicas. No entanto, é bem-sucedid
 >  _"Lifelong Learning & Prosper"_
 > <br/> 
 >  _Mr. Spock, maybe_   🖖🏾🚀
-
-
-<!-- img src="./assets/images/layout/learn_ingenuity_drone_footer.png" / -->
-
-<br/>
-
-[⤴️ de volta ao header](#header)
