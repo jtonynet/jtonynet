@@ -110,8 +110,8 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 > <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
 >
-> | Go Payments API                                                                                                  |
-> | ---------------------------------------------------------------------------------------------------------------- |
+> | Go Payments API                                      |
+> | -----------------------------------------------------|
 > | <img src="https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png"> |
 >
 > </a>
@@ -146,10 +146,61 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <hr/>
 <br/>
 
+<!--
+> 
+> | Go Hexagonal Calculator                              |
+> | -----------------------------------------------------|
+> | <img src="./assets/images/layout/futuros_projetos/header_go_hexagonal_calculator.png"> |
+>
+> Repositório puramente didático, baseado na `Tech Excellence Conference` (achei esse nome bastante humilde e modesto <img src="./assets/images/layout/emoji-smiley.gif" width="30px" height="30px">), de `22/11/2024`. Onde `Alistair Cockburn` apresentou um exemplo de `Calculadora em Java` para ilustrar sua abordagem `hexagonal`.
+> 
+> Aqui se encontra uma possível implementação dos conceitos apresentados na conferência em uma aplicação `Golang` visando aperfeiçoamento e treinamento.
+
+
+<br/>
+<hr/>
+<br/>
+
+> 
+> | Go Med Planner                                       |
+> | -----------------------------------------------------|
+> | <img src="./assets/images/layout/futuros_projetos/header_go_med_planner.png"> |
+> 
+
+<br/>
+<hr/>
+<br/>
+
+> 
+> | Go Pique Nique (Banking e Autorizador de Pagamento)  |
+> | -----------------------------------------------------|
+> | <img src="./assets/images/layout/futuros_projetos/header_go_pique_nique.png"> |
+> 
+
+<br/>
+<hr/>
+<br/>
+
+> 
+> | Go Turn Based Challange                              |
+> | -----------------------------------------------------|
+> | <img src="./assets/images/layout/futuros_projetos/header_go_turn_based_challange.png"> |
+> 
+
+<br/>
+<hr/>
+<br/>
+-->
+
+
 Todo projeto envolve trade-offs e dívidas técnicas. No entanto, é bem-sucedido quando atinge seus objetivos, seja impulsionando resultados de negócio ou promovendo melhorias contínuas e aprendizado durante sua _Jornada_.
 
 <br/>
 
 >  _"Lifelong Learning & Prosper"_
 > <br/> 
->  _Mr. Spock, maybe_   🖖🏾🚀       
+>  _Mr. Spock, maybe_   🖖🏾🚀
+
+
+<img src="./assets/images/layout/drone_footer.png" />
+<!-- img src="./assets/images/layout/learn_ingenuity_drone_footer.png" / -->
