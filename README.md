@@ -110,20 +110,40 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
 
-| Go Payments API                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png"> |
+> | Go Payments API                                                                                                  |
+> | ---------------------------------------------------------------------------------------------------------------- |
+> | <img src="https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png"> |
 
 </a>
 
- Desafio de `Autorizador de Pagamentos` de benefícios com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
-Em `Arquitetura Hexagonal` com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` e o serviço `Processor` (o processador de pagamentos) por segurança.
+> Desafio de `Autorizador de Pagamentos` de benefícios com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
+> Em `Arquitetura Hexagonal` com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` e o serviço `Processor` (o processador de pagamentos) por segurança.
+> 
+> - `Memory Lock Pessimista` com `Redis`  
+> - `Unlocks` através de `Pub/Sub` com `Redis Keyspace Notification` (outras `Abordagens` e `Filas` foram desconsideradas devido `Latência Adicional`)
+> - `PostgreSQL` modelado inspirado em `Event Sourcing` para garantir `Consistência`
+> - `GitHub Actions` para `CI` 
 
-- `Memory Lock Pessimista` com `Redis`  
-- `Unlocks` através de `Pub/Sub` com `Redis Keyspace Notification` (outras `Abordagens` e `Filas` foram desconsideradas devido `Latência Adicional`)
-- `PostgreSQL` modelado inspirado em `Event Sourcing` para garantir `Consistência`
-- `GitHub Actions` para `CI`  
+<br/>
+<hr/>
+<br/>
 
+<a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
+
+> | SRE Observability Training                           |
+> | -----------------------------------------------------|
+> | <img src="./certificados/alura/SRE-Itau/header.png"> |
+
+</a>
+
+> Estudo de `Observabilidade e SRE` com foco em `logs estruturados`, `monitoramento` e `alertas` para sistemas distribuídos. Implementado integração a ferramentas de observabilidade em uma aplicação previamente construida.
+> 
+> - `Grafana` e `Prometheus` para `dashboards` e `monitoramento de métricas`  
+> - `Grafana Loki` para `centralização de logs`  
+<!-- - `Jaeger` e `OpenTelemetry` para `tracing distribuído`  -->
+
+<br/>
+<hr/>
 <br/>
 
 Todo projeto envolve trade-offs e dívidas técnicas. No entanto, é bem-sucedido quando atinge seus objetivos, seja impulsionando resultados de negócio ou promovendo melhorias contínuas e aprendizado durante sua _Jornada_.
