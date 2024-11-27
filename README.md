@@ -128,7 +128,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <hr/>
 <br/>
 
-<a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
+<a href="./certificados/alura/SRE-Itau">
 
 > | SRE Observability Training                           |
 > | -----------------------------------------------------|
