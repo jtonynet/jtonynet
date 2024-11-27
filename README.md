@@ -104,10 +104,11 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 
 ---
 
-### 🌟 Projetos de Destaque
+### 🌟 Projetos de Destaque:
 
+Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, meus projetos recentes, desenvolvidos com base em desafios práticos e estudos.
 
-<a href="https://github.com/jtonynet/go-payments-api">
+<a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
 
 | Go Payments API                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- |
@@ -119,14 +120,16 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 Em `Arquitetura Hexagonal` com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` e o serviço `Processor` (o processador de pagamentos) por segurança.
 
 - `Memory Lock Pessimista` com `Redis`  
-- `Unlocks` através de `Pub/Sub` com `Redis Keyspace Notification` (outras filas foram desconsideradas devido `Latência Adicional`) para comunicar processos concorrentes posivelmente travados.
-- `PostgreSQL` com modelagem inspirada em `Eventos` visando evitar `Inconsistência eventual`
+- `Unlocks` através de `Pub/Sub` com `Redis Keyspace Notification` (outras `Abordagens` e `Filas` foram desconsideradas devido `Latência Adicional`)
+- `PostgreSQL` modelado inspirado em `Event Sourcing` para garantir `Consistência`
 - `GitHub Actions` para `CI`  
 
 <br/>
+
+Todo projeto envolve trade-offs e dívidas técnicas. No entanto, é bem-sucedido quando atinge seus objetivos, seja impulsionando resultados de negócio ou promovendo melhorias contínuas e aprendizado durante sua _Jornada_.
+
 <br/>
 
 >  _"Lifelong Learning & Prosper"_
 > <br/> 
 >  _Mr. Spock, maybe_   🖖🏾🚀       
-
