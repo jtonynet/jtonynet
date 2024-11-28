@@ -20,7 +20,7 @@
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá:
 Olá, eu sou o Zé! Desenvolvedor com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços e Grande Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
-Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes
+<!-- Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes -->
 
 Durante a pandemia, me dediquei a Robótica e IoT como hobby.
 
@@ -107,12 +107,6 @@ retoque e construção no Gimp [<img src="./assets/images/icons/gimp.svg" width=
 
 __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https://www.bing.com/images/create/)__
 
-<!--
-<details>
-  <summary><b>Desenvolvedores</b></summary>
-<i>"Dois desenvolvedores de sistemas de informatica negros de cabelo afro black power de barba e oculos trabalhando em seus notebooks em estilo cartoon com cores chapadas fundo branco neutro que possa ser facilmente retirado"<b>(sic)</b></i>
-</details>
--->
 
 <details>
   <summary><b>Drone Ingenuity</b></summary>
@@ -140,7 +134,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 > <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
 >
-> | Go Payments API                                      |
+> | Go Payments API (A Hexagonal Approach)              |
 > | -----------------------------------------------------|
 > | [![header](https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png)](https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header) |
 >
@@ -172,7 +166,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > - `Grafana Loki` para `centralização de logs`  
 <!-- - `Jaeger` e `OpenTelemetry` para `tracing distribuído`  -->
 
-<!--
+<!-- 
 
 <br/>
 <hr/>
@@ -183,18 +177,27 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > | -----------------------------------------------------|
 > | <img src="./assets/images/layout/futuros_projetos/header_go_hexagonal_calculator.png"> |
 >
-> Repositório puramente didático, baseado na `Tech Excellence Conference` (achei esse nome bastante humilde e modesto <img src="./assets/images/layout/emoji-smiley.gif" width="30px" height="30px">), de `22/11/2024`. Onde `Alistair Cockburn` apresentou um exemplo de `Calculadora em Java` para ilustrar sua abordagem `hexagonal`.
+> Repositório puramente didático, baseado na `Tech Excellence Conference` de `22/11/2024`. Onde `Alistair Cockburn` apresentou um exemplo de `Calculadora em Java` para ilustrar sua abordagem `hexagonal`.
 > 
 > Aqui se encontra uma possível implementação dos conceitos apresentados na conferência em uma aplicação `Golang` visando aperfeiçoamento e treinamento.
-
 
 <br/>
 <hr/>
 <br/>
 
 > 
-> | Go Med Planner                                       |
-> | -----------------------------------------------------|
+> | Go Crypto Shredder (A LGPD/GDPR Database Anonymizer Approach) |
+> | --------------------------------------------------------------|
+> | <img src="./assets/images/layout/futuros_projetos/header_go_crypto_shredder.png"> |
+> 
+
+<br/>
+<hr/>
+<br/>
+
+> 
+> | Go Med Planner (A Three Tier, DDD and TDD Approach)    |
+> | -------------------------------------------------------|
 > | <img src="./assets/images/layout/futuros_projetos/header_go_med_planner.png"> |
 > 
 
@@ -203,7 +206,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <br/>
 
 > 
-> | Go Pique Nique (Banking e Autorizador de Pagamento)  |
+> | Go Pique Nique (A Hexagonal Banking Authorizer)      |
 > | -----------------------------------------------------|
 > | <img src="./assets/images/layout/futuros_projetos/header_go_pique_nique.png"> |
 > 
@@ -213,14 +216,15 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <br/>
 
 > 
-> | Go Turn Based Challange                              |
-> | -----------------------------------------------------|
+> | Go Turn Based Challange (A Study of Logic and Algorithms Based on RPG)                 |
+> | ---------------------------------------------------------------------------------------|
 > | <img src="./assets/images/layout/futuros_projetos/header_go_turn_based_challange.png"> |
 > 
 
 <br/>
 <hr/>
 <br/>
+
 -->
 
 <br/>
@@ -233,13 +237,10 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 Todo projeto envolve trade-offs e dívidas técnicas. No entanto, é bem-sucedido quando atinge seus objetivos, seja impulsionando resultados de negócio ou promovendo melhorias contínuas e aprendizado durante sua _Jornada_.
 
-<!-- Sejamos _ingênuos_ a ponto de acreditar que podemos mudar o mundo através da _engenhosidade_ de nosso estudo e trabalho. -->
-
 <br/>
 
 <a href="#footer">
 <img src="./assets/images/layout/drone_footer.png" />
-<!-- img src="./assets/images/layout/learn_ingenuity_drone_footer.png" / -->
 </a>
 
 <br/>
