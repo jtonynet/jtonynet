@@ -140,8 +140,8 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 >
 > </a>
 >
-> Desafio de `Autorizador de Pagamentos` de benefícios com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
-> Em `Arquitetura Hexagonal` com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` e o serviço `Processor` (o processador de pagamentos) por segurança.
+> Desafio de `Autorizador de Pagamentos` de benefícios em `Arquitetura Hexagonal` com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
+> Construído com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` ("aberto" ao mundo, o ponto de entrada) e o serviço `Processor` ("fechado" ao mundo, o processador de pagamentos) por segurança.
 > 
 > - `Memory Lock Pessimista` com `Redis`  
 > - `Unlocks` através de `Pub/Sub` com `Redis Keyspace Notification` (outras `Abordagens` e `Filas` foram desconsideradas devido `Latência Adicional`)
