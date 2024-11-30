@@ -132,6 +132,7 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, meus projetos pessoais e treinamentos recentes, desenvolvidos com base em desafios práticos e estudos.
 
 
+> <center>
 > <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
 >
 > | Go Payments API (A Hexagonal Approach)              |
@@ -139,6 +140,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > | [![header](https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png)](https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header) |
 >
 > </a>
+> </center>
 >
 > Desafio de `Autorizador de Pagamentos` de benefícios em `Arquitetura Hexagonal` com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
 > Construído com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` ("aberto" ao mundo, o ponto de entrada) e o serviço `Processor` ("fechado" ao mundo, o processador de pagamentos) por segurança.
@@ -152,6 +154,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <hr/>
 <br/>
 
+> <center>
 > <a href="./certificados/alura/SRE-Itau">
 > 
 > | SRE Observability Training                           |
@@ -159,73 +162,93 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > | [![header](./certificados/alura/SRE-Itau/header.png)](./certificados/alura/SRE-Itau) |
 > 
 > </a>
-> 
+> </center>
+>
 > Estudo de `Observabilidade e SRE` com foco em `logs estruturados`, `monitoramento` e `alertas` para sistemas distribuídos. Implementado integração a ferramentas de observabilidade em uma aplicação previamente construida.
 > 
 > - `Grafana` e `Prometheus` para `dashboards` e `monitoramento de métricas`  
 > - `Grafana Loki` para `centralização de logs`  
 <!-- - `Jaeger` e `OpenTelemetry` para `tracing distribuído`  -->
 
-<!-- 
+<!-- -->
 
 <br/>
 <hr/>
 <br/>
 
+
+
+> <center>
 > 
 > | Go Hexagonal Calculator                              |
 > | -----------------------------------------------------|
 > | <img src="./assets/images/layout/future_projects/header_go_hexagonal_calculator.png"> |
+> </center>
 >
 > Repositório puramente didático, baseado na `Tech Excellence Conference` de `22/11/2024`. Onde `Alistair Cockburn` apresentou um exemplo de `Calculadora em Java` para ilustrar sua abordagem `hexagonal`.
 > 
 > Aqui se encontra uma possível implementação dos conceitos apresentados na conferência em uma aplicação `Golang` visando aperfeiçoamento e treinamento.
 
+
+
 <br/>
 <hr/>
 <br/>
+
+<center>
 
 > 
 > | Go Crypto Shredder (A LGPD/GDPR Database Anonymizer Approach) |
 > | --------------------------------------------------------------|
 > | <img src="./assets/images/layout/future_projects/header_go_crypto_shredder.png"> |
-> 
+
+</center>
 
 <br/>
 <hr/>
 <br/>
+
+<center>
 
 > 
 > | Go Med Planner (REST API Three Tier with DDD and TDD Approach)    |
 > | ------------------------------------------------------------------|
 > | <img src="./assets/images/layout/future_projects/header_go_med_planner.png"> |
-> 
+>
+
+</center>
 
 <br/>
 <hr/>
 <br/>
+
+<center>
 
 > 
 > | Go Pique Nique (A Hexagonal Banking Authorizer)      |
 > | -----------------------------------------------------|
 > | <img src="./assets/images/layout/future_projects/header_go_pique_nique.png"> |
-> 
+
+</center>
 
 <br/>
 <hr/>
 <br/>
+
+<center>
 
 > 
 > | Go Turn Based Challange (A Study of Logic and Algorithms Based on RPG)                 |
 > | ---------------------------------------------------------------------------------------|
 > | <img src="./assets/images/layout/future_projects/header_go_turn_based_challange.png"> |
-> 
+
+</center>
 
 <br/>
 <hr/>
 <br/>
 
--->
+<!-- -->
 
 <br/>
 
@@ -237,12 +260,14 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 Todo projeto envolve trade-offs e dívidas técnicas. No entanto, é bem-sucedido quando atinge seus objetivos, seja impulsionando resultados de negócio ou promovendo melhorias contínuas e aprendizado durante sua _Jornada_.
 
-<a href="#footer">
-<img src="./assets/images/layout/footer_drone_bg_hexagonal.png" />
-</a>
-
-<br/>
-
 >  _"Lifelong Learning & Prosper"_
 > <br/> 
 >  _Mr. Spock, maybe_   🖖🏾🚀
+
+<a href="#footer">
+<center>
+  <img src="./assets/images/layout/footer_drone_bg_hexagonal.png" />
+</center>
+</a>
+
+
