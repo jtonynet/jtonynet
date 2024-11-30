@@ -175,8 +175,6 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <hr/>
 <br/>
 
-
-
 > <center>
 > 
 > | Go Hexagonal Calculator                              |
@@ -187,8 +185,6 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > Repositório puramente didático, baseado na `Tech Excellence Conference` de `22/11/2024`. Onde `Alistair Cockburn` apresentou um exemplo de `Calculadora em Java` para ilustrar sua abordagem `hexagonal`.
 > 
 > Aqui se encontra uma possível implementação dos conceitos apresentados na conferência em uma aplicação `Golang` visando aperfeiçoamento e treinamento.
-
-
 
 <br/>
 <hr/>
