@@ -1,5 +1,4 @@
 <a id="header"></a>
-# José Antonio Ribeiro
 
 <center>
 
