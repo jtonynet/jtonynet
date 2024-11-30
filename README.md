@@ -237,8 +237,6 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 Todo projeto envolve trade-offs e dívidas técnicas. No entanto, é bem-sucedido quando atinge seus objetivos, seja impulsionando resultados de negócio ou promovendo melhorias contínuas e aprendizado durante sua _Jornada_.
 
-<br/>
-
 <a href="#footer">
 <img src="./assets/images/layout/footer_drone_bg_hexagonal.png" />
 </a>
