@@ -132,8 +132,7 @@ Repositórios com certificados, usei como apoio a Matéria na graduação
 <br/>
 <br/>
 <br/>
-
----
+<br/>
 
 🏠 [Voltar ao perfil](https://github.com/jtonynet)
 
