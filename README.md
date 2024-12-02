@@ -17,7 +17,7 @@
 
 <a id="hello"></a>
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá:
-Olá, eu sou o __&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13">[ "Zé", Desenvolvedor ](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)__ com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços e Grande Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá, eu sou o __&nbsp;[<img src="./assets/images/icons/linkedin_blue_link.svg" width="13"> "Zé", Desenvolvedor ](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)__ com mais de 15 anos de experiência e apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços e Grande Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 <!-- Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes -->
 
