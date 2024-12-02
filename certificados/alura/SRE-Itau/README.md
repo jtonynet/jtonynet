@@ -21,8 +21,6 @@ Repositórios com conteúdos desses certificados:
 
 ---
 
-<br/>
-
 🏠 [Voltar ao perfil](https://github.com/jtonynet) 🎓 [Voltar aos Certificados Alura](../)
 
 ---
