@@ -25,6 +25,9 @@ Repositórios com conteúdos desses certificados:
 
 <a id="footer"></a>
 
+>  _"Lifelong Learning & Prosper"_
+> <br/> 
+>  _Mr. Spock, maybe_   🖖🏾🚀
 
 <center>
 <a href="#footer">

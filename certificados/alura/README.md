@@ -140,6 +140,9 @@ Repositórios com certificados, usei como apoio a Matéria na graduação
 
 <a id="footer"></a>
 
+>  _"Lifelong Learning & Prosper"_
+> <br/> 
+>  _Mr. Spock, maybe_   🖖🏾🚀
 
 <center>
 <a href="#footer">
