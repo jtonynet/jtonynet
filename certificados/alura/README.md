@@ -107,8 +107,6 @@ Repositórios com conteúdos desses certificados
 - [Repositório CursoFront-End Negociações ecma2015](https://github.com/jtonynet/jtony-ecma2015)
 - [Repositório CursoJavascript es6js](https://github.com/jtonynet/jtony-casa-do-codigo-es6js)
 
-
-
 <br/>
 
 ##### Trilha PHP:
@@ -121,7 +119,12 @@ Repositórios com certificados
 Repositórios com certificados, usei como apoio a Matéria na graduação
 - [Certificados trilha Redes](./redes/)
 
+<br/>
 
 ---
 
-:house: [Voltar ao perfil](https://github.com/jtonynet)
+<br/>
+
+🏠 [Voltar ao perfil](https://github.com/jtonynet)
+
+<img src="./../../assets/images/layout/footer_learn_ingenuity_bg_hexagonal.png">

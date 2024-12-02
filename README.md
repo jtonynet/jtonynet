@@ -169,8 +169,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > - `Grafana Loki` para `centralização de logs`  
 <!-- - `Jaeger` e `OpenTelemetry` para `tracing distribuído`  -->
 
-<!--
-
+<!-- 
 <br/>
 <hr/>
 <br/>
@@ -243,7 +242,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <hr/>
 <br/>
 
- -->
+  -->
 
 <br/>
 

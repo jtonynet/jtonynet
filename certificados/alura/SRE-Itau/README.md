@@ -6,7 +6,12 @@ Repositórios com conteúdos desses certificados:
 - [Repositório SRE 1 - Treinamentos I e II Grafana, Prometheus e AlertManager](https://github.com/jtonynet/prometheus-grafana)
 - [Repositório SRE 2 - Treinamento III Logs & Grafana Loki](https://github.com/jtonynet/observability-logs)
 
+<br/>
+
 ---
 
-:house: [Voltar ao perfil](https://github.com/jtonynet)
-🎓 [Voltar aos Certificados Alura](../)
+<br/>
+
+🏠 [Voltar ao perfil](https://github.com/jtonynet) 🎓 [Voltar aos Certificados Alura](../)
+
+<img src="./../../../assets/images/layout/footer_learn_ingenuity_bg_hexagonal.png">
