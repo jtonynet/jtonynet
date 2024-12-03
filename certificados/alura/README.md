@@ -2,11 +2,11 @@
 
 
 
-<center>
+<div align="center">
 <a href="#header">
     <img src="header.png">
 </a>
-</center>
+</div>
 
 ## 📖 SOBRE:
 Dentro de cada pasta deste diretório, estão os arquivos PDFs dos certificados dos cursos concluídos na plataforma de ensino __[Alura](https://www.alura.com.br/)__.
@@ -144,8 +144,8 @@ Repositórios com certificados, usei como apoio a Matéria na graduação
 > <br/> 
 >  _Mr. Spock, maybe_   🖖🏾🚀
 
-<center>
+<div align="center">
 <a href="#footer">
     <img src="./../../assets/images/layout/footer_learn_ingenuity_bg_hexagonal.png">
 </a>
-</center>
+</div>

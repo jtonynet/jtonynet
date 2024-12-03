@@ -2,11 +2,11 @@
 
 
 
-<center>
+<div align="center">
 <a href="#header">
     <img src="header.png">
 </a>
-</center>
+</div>
 
 Trilha: [Saiba como deixar os sistemas mais escaláveis, confiáveis e eficientes com a Engenharia de confiabilidade de Sites que teve origem na Google.](https://cursos.alura.com.br/formacao-sre)
 
@@ -29,8 +29,8 @@ Repositórios com conteúdos desses certificados:
 > <br/> 
 >  _Mr. Spock, maybe_   🖖🏾🚀
 
-<center>
+<div align="center">
 <a href="#footer">
     <img src="./../../../assets/images/layout/footer_learn_ingenuity_bg_hexagonal.png">
 </a>
-</center>
+</div>
