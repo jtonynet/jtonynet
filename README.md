@@ -143,10 +143,10 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > Desafio de `Autorizador de Pagamentos` de benefícios em `Arquitetura Hexagonal` com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
 > Construído com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` ("aberto" ao mundo, o ponto de entrada) e o serviço `Processor` ("fechado" ao mundo, o processador de pagamentos) por segurança.
 > 
-> - `Memory Lock Pessimista` com `Redis`  
-> - `Unlocks` através de `Pub/Sub` com `Redis Keyspace Notification` (outras `Abordagens` e `Filas` foram desconsideradas devido `Latência Adicional`)
+> - `Redis` para `Memory Lock Pessimista`
+> - `Redis Keyspace Notification` como `Pub/Sub` para `Unlocks` (outras `Abordagens` e `Filas` foram desconsideradas devido `Latência Adicional`)
 > - `PostgreSQL` modelado inspirado em `Event Sourcing` para garantir `Consistência`
-> - `GitHub Actions` para `CI` 
+> - `CI` com `GitHub Actions` 
 
 <br/>
 <hr/>
