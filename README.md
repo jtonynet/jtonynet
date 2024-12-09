@@ -16,7 +16,7 @@
 
 <a id="hello"></a>
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá:
-Olá, eu sou o __&nbsp;[<img src="./assets/images/icons/linkedin_blue_link.svg" width="13"> "Zé", Desenvolvedor](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)__ <!--com mais de 15 anos de experiência e --> apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços e Grande Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá, eu sou o __&nbsp;[<img src="./assets/images/icons/linkedin_blue_link.svg" width="13"> "Zé", Desenvolvedor](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)__ <!--com mais de 15 anos de experiência e --> curioso e apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços e Grande Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 <!-- Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes -->
 
@@ -129,6 +129,11 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 
 Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, meus projetos pessoais e treinamentos recentes, desenvolvidos com base em desafios práticos e estudos.
 
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+#### ⚔️ Desafios:
 
 > <div align="center">
 > <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
@@ -136,21 +141,81 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > | Go Payments API (A Hexagonal Approach)              |
 > | -----------------------------------------------------|
 > | [![header](https://raw.githubusercontent.com/jtonynet/go-payments-api/main/docs/assets/images/layout/header.png)](https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header) |
->
+> 
 > </a>
 > </div>
 >
-> Desafio de `Autorizador de Pagamentos` de benefícios em `Arquitetura Hexagonal` com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
-> Construído com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` ("aberto" ao mundo, o ponto de entrada) e o serviço `Processor` ("fechado" ao mundo, o processador de pagamentos) por segurança.
+> [![Badge Status](https://img.shields.io/badge/STATUS-REABERTO-green)](https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header) [![Github Project](https://img.shields.io/badge/PROJECT%20VIEW-KANBAN-green?logo=github&logoColor=white)](https://github.com/users/jtonynet/projects/7/views/1)  [![Badge GitHubActions](https://github.com/jtonynet/go-payments-api/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/jtonynet/go-payments-api/actions) 
 > 
-> - `Redis` para `Memory Lock Pessimista`
-> - `Redis Keyspace Notification` como `Pub/Sub` para `Unlocks` (outras `Abordagens` e `Filas` foram desconsideradas devido `Latência Adicional`)
+> [![Go Version](https://img.shields.io/badge/GO-1.23.2-blue?logo=go&logoColor=white)](https://go.dev/)
+>
+> Desafio de `Autorizador de Pagamentos` de benefícios em `Arquitetura Hexagonal` com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
+> Construído com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço "`REST`" `http` ("aberto" ao mundo, o ponto de entrada) e o serviço `Processor` ("fechado" ao mundo, o processador de pagamentos) por segurança.
+>
+> __Principais Tecnologias e abordagens:__
+> - `Arquitetura Hexagonal`
+> - `TDD`, `DDD`, `SOLID`, `ADRs`
+> - `Diagram as code` com `Mermaid.js` e `Miro`
+> - `Dockerized` Solução com uso de containers
+> - `gRPC` e `http` entre `Microsservices`
 > - `PostgreSQL` modelado inspirado em `Event Sourcing` para garantir `Consistência`
 > - `CI` com `GitHub Actions` 
+> - `Redis` para `Memory Lock Pessimista`
+> - `Redis Keyspace Notification` como `Pub/Sub` para `Unlocks` (outras Abordagens como `Filas` foram desconsideradas devido `Latência Adicional`)
+> - `Performance/Load Test Dockerized` com `Gatling` (WIP)
+> 
+
+<!--
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+> <div align="center">
+> 
+> | Go Med Planner (REST API Three Tier with DDD and TDD Approach)    |
+> | ------------------------------------------------------------------|
+> | <img src="./assets/images/layout/future_projects/header_go_med_planner.png"> |
+> </div>
+>
+> Desafio ...
+
+</center>
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+
+> <div align="center">
+> 
+> | Go Pique Nique (A Hexagonal Banking Authorizer)      |
+> | -----------------------------------------------------|
+> | <img src="./assets/images/layout/future_projects/header_go_pique_nique.png"> |
+> </div>
+>
+> Desafio ...
+
+</center>
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+> <div align="center">
+> 
+> | Go Turn Based Challange (A Study of Logic and Algorithms Based on RPG)                 |
+> | ---------------------------------------------------------------------------------------|
+> | <img src="./assets/images/layout/future_projects/header_go_turn_based_challange.png"> |
+> </div>
+>
+> Desafio ...
+-->
 
 <br/>
 <hr/>
 <br/>
+
+#### 📚 Estudos e Imersões:
 
 > <div align="center">
 > <a href="./certificados/alura/SRE-Itau">
@@ -162,15 +227,44 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > </a>
 > </div>
 >
-> Estudo de `Observabilidade e SRE` com foco em `logs estruturados`, `monitoramento` e `alertas` para sistemas distribuídos. Implementado integração a ferramentas de observabilidade em uma aplicação previamente construida.
-> 
+> [![Badge Status](https://img.shields.io/badge/STATUS-ENCERRADO-blue)](./certificados/alura/SRE-Itau)
+>
+> Repositório puramente didático, baseado no curso  `Observabilidade e SRE` com foco em `logs estruturados`, `monitoramento` e `alertas` para sistemas distribuídos. Implementado integração a ferramentas de observabilidade em uma aplicação previamente construida.
+>
+> __Principais Tecnologias e abordagens:__
 > - `Grafana` e `Prometheus` para `dashboards` e `monitoramento de métricas`  
 > - `Grafana Loki` para `centralização de logs`  
 <!-- - `Jaeger` e `OpenTelemetry` para `tracing distribuído`  -->
 
-<!-- 
+<!-- -->
 <br/>
-<hr/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+> <center>
+> 
+> | Auto Tracking FullCycle Immersion                    |
+> | -----------------------------------------------------|
+> | <img src="./assets/images/layout/future_projects/header_imersion_auto_tracking.png"> |
+> </center>
+>
+> [![Badge Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-green)](#header)
+>
+> [![Go Version](https://img.shields.io/badge/GO-1.23.2-blue?logo=go&logoColor=white)](https://go.dev/) [![Node.js Version](https://img.shields.io/badge/Node.js-20.17.0-blue?logo=Node.js&logoColor=white)](https://nodejs.org/) [![TypeScript Version](https://img.shields.io/badge/TypeScript-5.6-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+>
+> Repositório puramente didático, baseado na `Imersão Full Stack && Full Cycle` iniciada em `09/12/2024`. Desenvolvendo Um sistema de rastreamento de veículos em tempo real utilizando microsserviços.
+>
+> __Principais Tecnologias e abordagens:__
+> - `Nest.js`
+> - `Next.js` no Front com a `API` do `GoogleMaps`
+> - `Go`
+> - `Apache Kafka` 
+> - `Dockerized` Solução com uso de containers
+<!-- -->
+
+<!--
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
 > <center>
@@ -185,7 +279,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > Aqui se encontra uma possível implementação dos conceitos apresentados na conferência em uma aplicação `Golang` visando aperfeiçoamento e treinamento.
 
 <br/>
-<hr/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
 <center>
@@ -198,50 +292,10 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 </center>
 
 <br/>
-<hr/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
-<center>
-
-> 
-> | Go Med Planner (REST API Three Tier with DDD and TDD Approach)    |
-> | ------------------------------------------------------------------|
-> | <img src="./assets/images/layout/future_projects/header_go_med_planner.png"> |
->
-
-</center>
-
-<br/>
-<hr/>
-<br/>
-
-<center>
-
-> 
-> | Go Pique Nique (A Hexagonal Banking Authorizer)      |
-> | -----------------------------------------------------|
-> | <img src="./assets/images/layout/future_projects/header_go_pique_nique.png"> |
-
-</center>
-
-<br/>
-<hr/>
-<br/>
-
-<center>
-
-> 
-> | Go Turn Based Challange (A Study of Logic and Algorithms Based on RPG)                 |
-> | ---------------------------------------------------------------------------------------|
-> | <img src="./assets/images/layout/future_projects/header_go_turn_based_challange.png"> |
-
-</center>
-
-<br/>
-<hr/>
-<br/>
-
-  -->
+-->
 
 <br/>
 
