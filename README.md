@@ -236,7 +236,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > - `Grafana Loki` para `centralização de logs`  
 <!-- - `Jaeger` e `OpenTelemetry` para `tracing distribuído`  -->
 
-<!-- -->
+<!-- 
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
@@ -260,7 +260,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > - `Go`
 > - `Apache Kafka` 
 > - `Dockerized` Solução com uso de containers
-<!-- -->
+ -->
 
 <!--
 <br/>
