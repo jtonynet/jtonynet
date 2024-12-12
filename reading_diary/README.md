@@ -34,6 +34,7 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
+<br/>
 
 <div align="center">
 
@@ -121,6 +122,11 @@ Mais resenhas em breve ...
 Livros focados em linguagens, tecnologias e ferramentas específicas, assim como suas aplicações práticas e desafios diários. Geralmente, apresentam exemplos e projetos didáticos que auxiliam na compreensão quando usados com as documentações oficiais.
 
 Com o avanço das versões das ferramentas e linguagens, alguns livros não resistem ao _"teste do tempo"_. Porém, a documentação disponível permite atualizações quando necessário. Todo conhecimento amplia nossas capacidades, e nenhuma página lida é em vão.
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+<br/>
 
 <div align="center">
 
