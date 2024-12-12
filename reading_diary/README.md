@@ -14,7 +14,9 @@ APENAS tres Livros empilhados , em estilo cartoon com fundo branco sem muitos de
 [![Arquitetura & Abordagens](https://img.shields.io/badge/🧠_Arquitetura_&_Abordagens-001a2d?style=for-the-badge)](#architecture) [![Linguagens](https://img.shields.io/badge/👨‍💻_linguagens-001a2d?style=for-the-badge)](#languages)
 </div>
 
-Aqui se encontram breves resenhas das minhas __Leituras Técnicas Mais Recentes__ que fundamentam muitas das soluções aplicadas nos repositórios __&nbsp;[<img src='./../assets/images/icons/github_blue_link.svg' width='13'> Do Meu Perfil]()__. É uma amostra do que me é relevante e de leitura altamente recomendada.
+## 📖 SOBRE:
+
+Aqui se encontram breves resenhas das minhas __Leituras Técnicas Mais Recentes__ que fundamentam muitas das soluções aplicadas nos repositórios __&nbsp;[<img src='./../assets/images/icons/github_blue_link.svg' width='13'> do meu perfil](https://github.com/jtonynet)__. É uma amostra do que me é relevante e de leitura altamente recomendada para profissionais interessados em arquitetura e abordagens modernas.
 
 Existe uma discussão sobre quão rápido os livros técnicos ficam defasados de acordo com os avanços das tecnologias e metodologias. Contudo, os livros de __Arquitetura & Abordagens__ tendem a ser mais resilientes e resistir ao _"teste do tempo"_ na maioria das vezes. No entanto, pouquíssimas coisas são _"à prova de futuro"_.
 
@@ -25,10 +27,13 @@ Existe uma discussão sobre quão rápido os livros técnicos ficam defasados de
 
 <a id="architecture"></a>
 
-### 🧠 Arquitetura & Abordagens
+## 🧠 Arquitetura & Abordagens
 
 Livros focados em técnicas estruturais e seus usos em projetos. Eles podem recomendar linguagens, ferramentas ou tecnologias específicas, mas suas abordagens são agnósticas em relação a essas.
 
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
 
 <div align="center">
 
@@ -48,16 +53,16 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
 <details>
   <summary><b><u>Breve Resenha:</u></b></summary>
     <p>
-    Susan Fowler, para além de seu período no Uber, tem o grande mérito de ter abordado o tema da <b>Disponibilidade</b> com uma visão completamente alinhada ao contexto dos microsserviços. Esse tema é de extrema importância para todos os cargos que compõem as equipes de tecnologia e negócios em um mundo onde os serviços são predominantemente digitais.
+     Susan Fowler, para além de seu período no Uber, tem o grande mérito de ter abordado o tema da <b>Disponibilidade</b> com uma visão completamente alinhada ao contexto dos microsserviços. Esse tema é de extrema importância para todos os cargos que compõem as equipes de tecnologia e negócios em um mundo onde os serviços são predominantemente digitais.
     </p>
     <p>
-    A escalabilidade horizontal (em hyperescala), com a qual empresas bem-sucedidas em seus negócios na rede precisam lidar durante seu crescimento, não deve comprometer a confiabilidade das transações com as quais o sistema precisa lidar. Ao longo dos anos, a abordagem que parece ter se adaptado melhor para garantir essa confiabilidade em escala, embora não seja simples, são os microsserviços.
+      A escalabilidade horizontal (em hyperescala), com a qual empresas bem-sucedidas em seus negócios na rede precisam lidar durante seu crescimento, não deve comprometer a confiabilidade das transações com as quais o sistema precisa lidar. Ao longo dos anos, a abordagem que parece ter se adaptado melhor para garantir essa confiabilidade em escala, embora não seja simples, são os microsserviços.
     </p>
     <p>
-    Ela não se prende a tecnologias específicas, não cita ferramentas de forma incisiva, mas sim abordagens que visam atender aos requisitos dessa lista de verificação. Uma vez que a lista está preenchida, em sua visão, temos o que ela chama de "Microsserviços Prontos Para Produção."
+      Ela não se prende a tecnologias específicas, não cita ferramentas de forma incisiva, mas sim abordagens que visam atender aos requisitos dessa lista de verificação. Uma vez que a lista está preenchida, em sua visão, temos o que ela chama de "Microsserviços Prontos Para Produção."
     <p>
     <p>
-    Nos sete capítulos da obra, a Engenheira de Confiabilidade discute os princípios que a nortearam na criação de uma lista de verificação que visa garantir que esses microsserviços suportem cargas de utilização pesadas, mesmo sob condições adversas, e não apenas isso, mas também sejam testáveis e de fácil manutenção.
+      Nos sete capítulos da obra, a Engenheira de Confiabilidade discute os princípios que a nortearam na criação de uma lista de verificação que visa garantir que esses microsserviços suportem cargas de utilização pesadas, mesmo sob condições adversas, e não apenas isso, mas também sejam testáveis e de fácil manutenção.
     </p>
 </details>
 
@@ -83,13 +88,13 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
 <details>
   <summary><b><u>Breve Resenha:</u></b></summary>
     <p>
-    Gostaria de ter lido essa obra no período de lançamento. Teria sido MUITO útil em diversos desafios que enfrentei ao longo da minha jornada. O livro é denso e repleto de conceitos bem fundamentados. Li-o após o livro de Susan Fowler, e percebo que Newman apresenta uma visão mais abrangente sobre os tópicos que permeiam o tema de microsserviços, baseada em seus anos de experiência. Isso fica ainda mais evidente nesta segunda edição revisada.
+     Gostaria de ter lido essa obra no período de lançamento. Teria sido MUITO útil em diversos desafios que enfrentei ao longo da minha jornada. O livro é denso e repleto de conceitos bem fundamentados. Li-o após o livro de Susan Fowler, e percebo que Newman apresenta uma visão mais abrangente sobre os tópicos que permeiam o tema de microsserviços, baseada em seus anos de experiência. Isso fica ainda mais evidente nesta segunda edição revisada.
     </p>
     <p>
-    Partindo do princípio de que arquitetura não é uma corrida com obstáculos (embora muitas vezes pareça), Newman ressalta que monólitos são geralmente a decisão mais acertada até que problemas de escala, comuns ao crescimento de um negócio, comecem a surgir. Ele deixa claro que microsserviços não são a opção "padrão" nem um objetivo em si, mas sim uma estratégia para alcançar software disponível e escalável. Você não "vence" uma corrida simplesmente adotando esse padrão arquitetural.
+      Partindo do princípio de que arquitetura não é uma corrida com obstáculos (embora muitas vezes pareça), Newman ressalta que monólitos são geralmente a decisão mais acertada até que problemas de escala, comuns ao crescimento de um negócio, comecem a surgir. Ele deixa claro que microsserviços não são a opção "padrão" nem um objetivo em si, mas sim uma estratégia para alcançar software disponível e escalável. Você não "vence" uma corrida simplesmente adotando esse padrão arquitetural.
     </p>
     <p>
-    Com base nessa visão, o livro explora os conceitos de maneira abrangente, sugerindo ferramentas e abordagens que o autor adotou ao longo de sua carreira.
+      Com base nessa visão, o livro explora os conceitos de maneira abrangente, sugerindo ferramentas e abordagens que o autor adotou ao longo de sua carreira.
     </p>
 </details>
 
@@ -110,7 +115,44 @@ Mais resenhas em breve ...
 
 <br/>
 
-### 👨‍💻 Linguagens
+## 👨‍💻 Linguagens
+
+Livros focados em linguagens, tecnologias e ferramentas específicas, assim como suas aplicações práticas e desafios diários. Geralmente, apresentam exemplos e projetos didáticos que auxiliam na compreensão quando usados com as documentações oficiais.
+
+Com o avanço das versões das ferramentas e linguagens, alguns livros não resistem ao _"teste do tempo"_. Porém, a documentação disponível permite atualizações quando necessário. Todo conhecimento amplia nossas capacidades, e nenhuma página lida é em vão.
+
+<div align="center">
+
+| Test-Driven Development in Go                                                                                                                                                                        |                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [![Image description](./assets/book_covers/tech/test_driven_development_in_go.jpg)](https://www.amazon.com.br/Test-Driven-Development-practical-idiomatic-real-world-ebook/dp/B0B8SY6G96/ref=sr_1_1) | Um livro abrangente que aborda as principais tecnicas e libs para aumentar a qualidade de codigos escritos em Go. |
+
+</div>
+
+<font size="5px"> ★★★☆☆ </font>
+
+> **TDD in Go:**
+> _Explore Go testing techniques and leverage TDD to deliver and **maintain microservices architecture**, including contract, end-to-end, and unit testing_
+>
+> _Fonte: [Test-Driven Development in Go](https://www.amazon.com.br/Test-Driven-Development-practical-idiomatic-real-world-ebook/dp/B0B8SY6G96/ref=sr_1_1)_
+
+<details>
+  <summary><b><u>Breve Resenha:</u></b></summary>
+  <p>
+      Uma vez compreendidas as particularidades da concisa, porém poderosa, biblioteca padrão do GoLang, torna-se necessário elevar a qualidade dos softwares construídos com ela. <i>Kent Beck</i> já nos alertava sobre o excesso de confiança dos desenvolvedores em sua obra seminal sobre <b>TDD</b>, destacando como tornar o software altamente testável aumenta a segurança e reduz a carga cognitiva do desenvolvedor, auxiliando nesse aumento de qualidade.
+  </p>
+  <p>
+      O livro aborda desde exemplos práticos básicos, como testes em uma calculadora, seguindo uma abordagem passo a passo (didática que aprecio bastante), até uma aplicação simples de gerenciamento de livros. Ele explora ferramentas modernas para testes de unidade, integração, end-to-end e até mesmo de comportamento (<b>BDD</b>), de maneira direta e acessível. Entretanto, o repositório do livro deixa a desejar, pois em muitos casos, já apresenta as soluções dos desafios, em vez de entregar um software sem testes e permitir que o leitor implemente suas próprias soluções.
+  </p>
+  <p>
+      É uma obra útil e abrangente, que cobre tópicos complexos, como testes em cenários de concorrência. Ideal para quem deseja aumentar a qualidade de seus códigos em Go.
+  </p>
+</details>
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
 
 <div align="center">
 
@@ -125,15 +167,15 @@ Mais resenhas em breve ...
 > **GoLang:**
 > _Go é uma linguagem de programação de código aberto que facilita a criação de softwares simples, confiáveis e eficientes._
 >
-> _Fonte: [go.dev](https://go.dev/) citado no prefacio de [A Linguagem de Programação Go](https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464/ref=sr_1_1)_
+> _Fonte: [go.dev](https://go.dev/) citado no prefácio de [A Linguagem de Programação Go](https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464/ref=sr_1_1)_
 
 <details>
   <summary><b><u>Breve Resenha:</u></b></summary>
     <p>
-    Um dos livros introdutórios mais recomendados para a linguagem Go, embora já com algum tempo desde seu lançamento, continua relevante devido à didática adotada. Meu primeiro contato com essa obra ocorreu na GopherCon 2018, quando o adquiri, e sua leitura, em conjunto com a documentação da linguagem, foi extremamente agradável.
+      Um dos livros introdutórios mais recomendados para a linguagem Go, embora já com algum tempo desde seu lançamento, continua relevante devido à didática adotada. Meu primeiro contato com essa obra ocorreu na GopherCon 2018, quando o adquiri, e sua leitura, em conjunto com a documentação da linguagem, foi extremamente agradável.
     </p>
     <p>
-    Executei alguns de seus <a href="https://github.com/jtonynet/go-book-exercises">Exemplos Práticos</a>, que, em conjunto com suas explicações, elucidam as bibliotecas padrão da linguagem. No geral, é um material que continua relevante, mas, devido à sua idade e ao fato de não apresentar um projeto de ponta a ponta (meu estilo favorito de aprender uma linguagem), "perdeu uma estrela no meu ranking pessoal de leituras técnicas."
+      Executei alguns de seus <a href="https://github.com/jtonynet/go-book-exercises">Exemplos Práticos</a>, que, em conjunto com suas explicações, elucidam as bibliotecas padrão da linguagem. No geral, é um material que continua relevante, mas, devido à sua idade e ao fato de não apresentar um projeto de ponta a ponta (meu estilo favorito de aprender uma linguagem), "perdeu uma estrela no meu ranking pessoal de leituras técnicas."
     </p>
 
 </details>
@@ -141,6 +183,7 @@ Mais resenhas em breve ...
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
+
 
 Mais resenhas em breve ...
 
