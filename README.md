@@ -27,13 +27,13 @@ Bem-vindo ao meu GitHub!
 <br/>
 
 - 🔭 Atualmente estou trabalhando em: _Aperfeiçoar minhas skills_
-- 🌱 Atualmente estou aprendendo: _[Observabilidade](./certificados/alura/SRE-Itau)_ e Boas Práticas
+- 🌱 Atualmente estou aprendendo: _[Observabilidade](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura/SRE-Itau#header)_ e Boas Práticas
 - 👯 Estou procurando colaborar em: _Ajudar sua empresa a escalar_
 - 💬 Pergunte-me sobre: _Microsserviços_
 - 📫 Como entrar em _[Contato Comigo](#contacts)_
 - 😄 Pronomes: _Ele, dele_
-- 🎓 Meus _[Certificados e Cursos](./certificados/alura)_
-- 📚 Minhas _[Leituras Recentes](./reading_diary)_
+- 🎓 Meus _[Certificados e Cursos](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura#header)_
+- 📚 Minhas _[Leituras Recentes](https://github.com/jtonynet/jtonynet/tree/main/reading_diary#header)_
 - ⚡ Curiosidade: _Sou Aquarista e Maker nas horas vagas_
 
 <br/>
