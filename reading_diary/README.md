@@ -67,7 +67,7 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
-
+</br>
 
 <div align="center">
 
@@ -159,7 +159,7 @@ Com o avanço das versões das ferramentas e linguagens, alguns livros não resi
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
-
+<br/>
 
 <div align="center">
 
@@ -190,7 +190,7 @@ Com o avanço das versões das ferramentas e linguagens, alguns livros não resi
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
-
+<br/>
 
 Mais resenhas em breve ...
 
