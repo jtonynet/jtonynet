@@ -37,6 +37,39 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
 
 <div align="center">
 
+| Criando Microsserviços                                                                                                                                                          |                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![# Criando Microsserviços – 2ª Edição](./assets/book_covers/tech/Criando_Microsservicos.jpg)](https://www.amazon.com.br/gp/product/B09WF2MVT8/ref=dbs_a_def_rwt_bibl_vppi_i0) | __Altamente Recomendado__ Abrangente e esclarecedor, especialmente para profissionais com alguma experiência. Serve como uma forte referência bibliográfica. |
+
+</DIV>
+
+<font size="5px"> ★★★★★ </font>
+
+> **Microsserviço**
+> _Serviços que podem ser lançados de forma independente, modelados com base no serviço de negócios._
+>
+> _Fonte: Livro [Criando Microsserviços](https://www.amazon.com.br/gp/product/B09WF2MVT8/ref=dbs_a_def_rwt_bibl_vppi_i0)_
+
+<details>
+  <summary><b><u>Breve Resenha:</u></b></summary>
+    <p>
+     Gostaria de ter lido essa obra no período de lançamento. Teria sido MUITO útil em diversos desafios que enfrentei ao longo da minha jornada. O livro é denso e repleto de conceitos bem fundamentados. Li-o após o livro de Susan Fowler, e percebo que Newman apresenta uma visão mais abrangente sobre os tópicos que permeiam o tema de microsserviços, baseada em seus anos de experiência. Isso fica ainda mais evidente nesta segunda edição revisada.
+    </p>
+    <p>
+      Partindo do princípio de que arquitetura não é uma corrida com obstáculos (embora muitas vezes pareça), Newman ressalta que monólitos são geralmente a decisão mais acertada até que problemas de escala, comuns ao crescimento de um negócio, comecem a surgir. Ele deixa claro que microsserviços não são a opção "padrão" nem um objetivo em si, mas sim uma estratégia para alcançar software disponível e escalável. Você não "vence" uma corrida simplesmente adotando esse padrão arquitetural.
+    </p>
+    <p>
+      Com base nessa visão, o livro explora os conceitos de maneira abrangente, sugerindo ferramentas e abordagens que o autor adotou ao longo de sua carreira.
+    </p>
+</details>
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+
+<div align="center">
+
 | Microsserviços Prontos para Produção                                                                                                                                                                  |                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [![Image description](./assets/book_covers/tech/microsservicos_prontos_para_producao_.jpg)](https://www.amazon.com.br/Microsservi%C3%A7os-Prontos-Para-Produ%C3%A7%C3%A3o-Padronizados/dp/8575226215) | Este livro fez parte de um estudo mais profundo em System Design que realizei, servindo como uma forte referência bibliográfica |
@@ -63,38 +96,6 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
     <p>
     <p>
       Nos sete capítulos da obra, a Engenheira de Confiabilidade discute os princípios que a nortearam na criação de uma lista de verificação que visa garantir que esses microsserviços suportem cargas de utilização pesadas, mesmo sob condições adversas, e não apenas isso, mas também sejam testáveis e de fácil manutenção.
-    </p>
-</details>
-
-<br/>
-<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
-<br/>
-
-<div align="center">
-
-| Criando Microsserviços                                                                                                                                                          |                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [![# Criando Microsserviços – 2ª Edição](./assets/book_covers/tech/Criando_Microsservicos.jpg)](https://www.amazon.com.br/gp/product/B09WF2MVT8/ref=dbs_a_def_rwt_bibl_vppi_i0) | __Altamente Recomendado__ e assim como o anterior me serve como forte referência bibliográfica |
-
-</DIV>
-
-<font size="5px"> ★★★★★ </font>
-
-> **Microsserviço**
-> _Serviços que podem ser lançados de forma independente, modelados com base no serviço de negócios._
->
-> _Fonte: Livro [Criando Microsserviços](https://www.amazon.com.br/gp/product/B09WF2MVT8/ref=dbs_a_def_rwt_bibl_vppi_i0)_
-
-<details>
-  <summary><b><u>Breve Resenha:</u></b></summary>
-    <p>
-     Gostaria de ter lido essa obra no período de lançamento. Teria sido MUITO útil em diversos desafios que enfrentei ao longo da minha jornada. O livro é denso e repleto de conceitos bem fundamentados. Li-o após o livro de Susan Fowler, e percebo que Newman apresenta uma visão mais abrangente sobre os tópicos que permeiam o tema de microsserviços, baseada em seus anos de experiência. Isso fica ainda mais evidente nesta segunda edição revisada.
-    </p>
-    <p>
-      Partindo do princípio de que arquitetura não é uma corrida com obstáculos (embora muitas vezes pareça), Newman ressalta que monólitos são geralmente a decisão mais acertada até que problemas de escala, comuns ao crescimento de um negócio, comecem a surgir. Ele deixa claro que microsserviços não são a opção "padrão" nem um objetivo em si, mas sim uma estratégia para alcançar software disponível e escalável. Você não "vence" uma corrida simplesmente adotando esse padrão arquitetural.
-    </p>
-    <p>
-      Com base nessa visão, o livro explora os conceitos de maneira abrangente, sugerindo ferramentas e abordagens que o autor adotou ao longo de sua carreira.
     </p>
 </details>
 
