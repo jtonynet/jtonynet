@@ -30,7 +30,7 @@ Bem-vindo ao meu GitHub!
 - 🌱 Atualmente estou aprendendo: _[Observabilidade](./certificados/alura/SRE-Itau)_ e Boas Práticas
 - 👯 Estou procurando colaborar em: _Ajudar sua empresa a escalar_
 - 💬 Pergunte-me sobre: _Microsserviços_
-- 📫 Como entrar em _[Contato Comigo](#redes)_
+- 📫 Como entrar em _[Contato Comigo](#contacts)_
 - 😄 Pronomes: _Ele, dele_
 - 🎓 Meus _[Certificados e Cursos](./certificados/alura)_
 - 📚 Minhas _[Leituras Recentes](./reading_diary)_
