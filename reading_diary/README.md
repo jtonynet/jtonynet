@@ -114,9 +114,9 @@ Mais resenhas em breve ...
 
 <div align="center">
 
-| A Linguagem de Programação Go                                                                                                                                                                 |                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [![Image description](./assets/book_covers/tech/a_linguagem_de_programacao_go.jpg)](https://www.amazon.com.br/Microsservi%C3%A7os-Prontos-Para-Produ%C3%A7%C3%A3o-Padronizados/dp/8575226215) | Este livro fez parte de um estudo mais profundo em System Design que realizei, servindo como uma forte referência bibliográfica |
+| A Linguagem de Programação Go                                                                                                                                                                 |                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![Image description](./assets/book_covers/tech/a_linguagem_de_programacao_go.jpg)](https://www.amazon.com.br/Microsservi%C3%A7os-Prontos-Para-Produ%C3%A7%C3%A3o-Padronizados/dp/8575226215) | Um dos melhores livros sobre GoLang, embora um pouco defasado atualmente. Durante a leitura, era impossível não lembrar das antigas "Bíblias" de programação. No entanto, por sua didática, ainda vale a pena ler. |
 
 </div>
 
