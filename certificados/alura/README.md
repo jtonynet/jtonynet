@@ -17,7 +17,7 @@ Nem todos os certificados têm repositórios com materiais desenvolvidos durante
 
 Com isso, busco uma documentação adequada dos meus processos de estudo.
 
-`Lifelong learning`!
+`Lifelong learning!`
 
 ---
 

@@ -30,10 +30,10 @@ Bem-vindo ao meu GitHub!
 - 🌱 Atualmente estou aprendendo: _[Observabilidade](./certificados/alura/SRE-Itau)_ e Boas Práticas
 - 👯 Estou procurando colaborar em: _Ajudar sua empresa a escalar_
 - 💬 Pergunte-me sobre: _Microsserviços_
-- 📫 Como entrar em contato comigo: _[Minhas Redes](#redes)_
+- 📫 Como entrar em _[Contato Comigo](#redes)_
 - 😄 Pronomes: _Ele, dele_
-- 🎓 Meus Cursos Livres: _[Certificados e repositórios de cursos](./certificados/alura)_
-<!-- 📚 Minhas Leituras: _[Resenhas de Livros]()_ -->
+- 🎓 Meus _[Certificados e Cursos](./certificados/alura)_
+- 📚 Minhas _[Leituras Recentes]()_
 - ⚡ Curiosidade: _Sou Aquarista e Maker nas horas vagas_
 
 <br/>
@@ -215,7 +215,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <hr/>
 <br/>
 
-#### 📚 Estudos e Imersões:
+#### 📑 Estudos e Imersões:
 
 > <div align="center">
 > <a href="./certificados/alura/SRE-Itau">
