@@ -33,7 +33,7 @@ Bem-vindo ao meu GitHub!
 - 📫 Como entrar em _[Contato Comigo](#redes)_
 - 😄 Pronomes: _Ele, dele_
 - 🎓 Meus _[Certificados e Cursos](./certificados/alura)_
-- 📚 Minhas _[Leituras Recentes]()_
+- 📚 Minhas _[Leituras Recentes](./reading_diary)_
 - ⚡ Curiosidade: _Sou Aquarista e Maker nas horas vagas_
 
 <br/>
