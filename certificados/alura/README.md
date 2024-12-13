@@ -6,6 +6,8 @@
 <a href="#header">
     <img src="header.png">
 </a>
+
+[![💡 INOVAÇÃO & GESTÃO](https://img.shields.io/badge/💡_INOVAÇÃO_&_GESTÃO-001a2d?style=for-the-badge)](#inovation) [![ 👨🏿‍💻 PROGRAMAÇÃO, TÉCNICAS & ARQUITETURAS](https://img.shields.io/badge/👨🏿‍💻_PROGRAMAÇÃO,_TÉCNICAS_&_ARQUITETURAS-001a2d?style=for-the-badge)](#technics)
 </div>
 
 ## 📖 SOBRE:
@@ -21,6 +23,9 @@ Com isso, busco uma documentação adequada dos meus processos de estudo.
 
 ---
 
+<br/>
+
+<a id="inovation"></a>
 ## 💡 INOVAÇÃO & GESTÃO (soft-skills):
 
 Certificados sem Repositórios pois não são focados em Programação, Técnicas & Arquiteturas
@@ -30,23 +35,31 @@ Certificados sem Repositórios pois não são focados em Programação, Técnica
 ##### Tech Lead: [Desenvolvendo competências de liderança técnica para impulsionar equipes](https://cursos.alura.com.br/formacao-tech-lead)
 - [Certificados trilha Tech Lead](./tech-lead/)
 
-<!--
 <br/>
 
+<!--
 ##### Comunicação: [Desenvolva a capacidade de expressar suas ideias com clareza](https://cursos.alura.com.br/formacao-comunicacao)
 - [Certificados trilha Comunicação](./comunicacao/)
 
+<br/>
 -->
+
+<br/>
+
+[⤴️ de volta ao menu](#header) - 🏠 [Voltar ao perfil](https://github.com/jtonynet)
 
 ---
 
-## 👨‍💻 PROGRAMAÇÃO, TÉCNICAS & ARQUITETURAS (hard-skills):
+<br/>
+
+<a id="technics"></a>
+## 👨🏿‍💻 PROGRAMAÇÃO, TÉCNICAS & ARQUITETURAS (hard-skills):
 
 Certificados e Repositórios focados em Programação, Técnicas & Arquiteturas
 
 <br/>
 
-### :boy: Repositórios de Cursos Recentes:
+### 👦🏿 Repositórios de Cursos Recentes:
 
 ##### Trilha SRE-Itau (Observabilidade): [Saiba como deixar os sistemas mais escaláveis, confiáveis e eficientes com a Engenharia de confiabilidade de Sites que teve origem na Google.](https://cursos.alura.com.br/formacao-sre)
 [Certificados trilha SRE](./SRE-Itau/)
@@ -67,7 +80,7 @@ Repositórios com conteúdos desses certificados
 <br/>
 
 ##### Trilha PHP/Laravel [Aprenda a utilizar o framework Laravel](https://www.alura.com.br/formacao-laravel)
-[Certificados trilha Laravel](./PHP/2024/laravel) que por conta de `side projects` recentes, precisei me atualizar na linguagem e framework e utilizei essa trilha como ponto de partida
+[Certificados trilha Laravel](./PHP/2024/laravel) por conta de `side projects` recentes, precisei me atualizar na linguagem e framework e utilizei essa trilha como ponto de partida
 
 - [Repositório trilha Laravel](https://github.com/jtonynet/php-laravel-series)
 
@@ -86,9 +99,11 @@ Repositórios com conteúdos desses certificados:
 - [Repositório Curso NodeJS](https://github.com/jtonynet/auth-test-security-study-js)
 
 <br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
 <br/>
 
-### 👴 Repositórios de Cursos Antigos:
+### 👴🏿 Repositórios de Cursos Antigos:
 
 ##### Trilha Python:
 [Certificados trilha Python](./python/)
@@ -134,7 +149,7 @@ Repositórios com certificados, usei como apoio a Matéria na graduação
 <br/>
 <br/>
 
-🏠 [Voltar ao perfil](https://github.com/jtonynet)
+[⤴️ de volta ao menu](#header) - 🏠 [Voltar ao perfil](https://github.com/jtonynet)
 
 ---
 

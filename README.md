@@ -15,26 +15,33 @@
 ---
 
 <a id="hello"></a>
-### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá:
-Olá, eu sou o __&nbsp;[<img src="./assets/images/icons/linkedin_blue_link.svg" width="13"> "Zé", Desenvolvedor](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)__ <!--com mais de 15 anos de experiência e --> curioso e apaixonado por resolver problemas usando tecnologia. Leitor constante de livros e artigos. Nos últimos anos tive foco em _Microsserviços e Grande Volume de Dados_. Curioso e estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
+### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá Mundo:
+<!--
+[<img src="./assets/images/icons/linkedin_blue_link.svg" width="13"> 
+ -->
+Olá Mundo, eu sou o __&nbsp;<img src="./assets/images/icons/black-panther-icon.png" alt="Perfil no LinkedIn:" title="Perfil no LinkedIn:" width="20">&nbsp;["Zé" (ou "Tony", a depender de onde e quando você me conheceu), Desenvolvedor](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)__ <!--com mais de 15 anos de experiência e -->, curioso e apaixonado por __resolver problemas de pessoas usando tecnologia__. Leitor constante de livros e artigos. Nos últimos anos tive foco em __Microsserviços e Grande Volume de Dados__. Estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 <!-- Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes -->
 
-Durante a pandemia, me dediquei a Robótica e IoT como hobby.
+Durante a pandemia, me dediquei a __&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub sobre:' title='Repositório GitHub sobre:'>[ Robótica e IoT como hobby](https://github.com/jtonynet/autogo)__.
 
 Bem-vindo ao meu GitHub!
 
 <br/>
 
-- 🔭 Atualmente estou trabalhando em: _Aperfeiçoar minhas skills_
+- 🔭 Atualmente estou trabalhando em: _Aperfeiçoar minhas Skills_
 - 🌱 Atualmente estou aprendendo: _[Observabilidade](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura/SRE-Itau#header)_ e Boas Práticas
-- 👯 Estou procurando colaborar em: _Ajudar sua empresa a escalar_
+- 👯 Estou procurando colaborar em: _Ajudar sua empresa a Escalar_
 - 💬 Pergunte-me sobre: _Microsserviços_
 - 📫 Como entrar em _[Contato Comigo](#contacts)_
 - 😄 Pronomes: _Ele, dele_
 - 🎓 Meus _[Certificados e Cursos](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura#header)_
 - 📚 Minhas _[Leituras Recentes](https://github.com/jtonynet/jtonynet/tree/main/reading_diary#header)_
 - ⚡ Curiosidade: _Sou Aquarista e Maker nas horas vagas_
+
+<br/>
+
+`Lifelong learning!`
 
 <br/>
 

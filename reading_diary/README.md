@@ -11,12 +11,12 @@ APENAS tres Livros empilhados , em estilo cartoon com fundo branco sem muitos de
     <img src="./assets/images/layout/header.png">
 </a>
 
-[![Arquitetura & Abordagens](https://img.shields.io/badge/🧠_Arquitetura_&_Abordagens-001a2d?style=for-the-badge)](#architecture) [![Linguagens](https://img.shields.io/badge/👨‍💻_linguagens-001a2d?style=for-the-badge)](#languages)
+[![Arquitetura & Abordagens](https://img.shields.io/badge/🧠_Arquitetura_&_Abordagens-001a2d?style=for-the-badge)](#architecture) [![Linguagens](https://img.shields.io/badge/👨🏿‍💻_linguagens-001a2d?style=for-the-badge)](#languages)
 </div>
 
 ## 📖 SOBRE:
 
-Aqui se encontram breves resenhas das minhas __Leituras Técnicas Mais Recentes__ que fundamentam muitas das soluções aplicadas nos repositórios __&nbsp;[<img src='./../assets/images/icons/github_blue_link.svg' width='13'> do meu perfil](https://github.com/jtonynet)__. É uma amostra do que me é relevante e de leitura altamente recomendada para profissionais interessados em arquitetura e abordagens modernas.
+Aqui se encontram breves resenhas das minhas __Leituras Técnicas Mais Recentes__ que fundamentam muitas das soluções aplicadas nos repositórios __[do meu perfil no](https://github.com/jtonynet)&nbsp;<img src='./../assets/images/icons/github_blue_link.svg' width='13' alt="GitHub" title="GitHub">__. É uma amostra do que me é relevante e de leitura altamente recomendada para profissionais interessados em arquitetura e abordagens modernas.
 
 Existe uma discussão sobre quão rápido os livros técnicos ficam defasados de acordo com os avanços das tecnologias e metodologias. Contudo, os livros de __Arquitetura & Abordagens__ tendem a ser mais resilientes e resistir ao _"teste do tempo"_ na maioria das vezes. No entanto, pouquíssimas coisas são _"à prova de futuro"_.
 
@@ -53,11 +53,12 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
 
 <details>
   <summary><b><u>Breve Resenha:</u></b></summary>
+    <br/>
     <p>
-     Gostaria de ter lido essa obra no período de lançamento. Teria sido MUITO útil em diversos desafios que enfrentei ao longo da minha jornada. O livro é denso e repleto de conceitos bem fundamentados. Li-o após o livro de Susan Fowler, e percebo que Newman apresenta uma visão mais abrangente sobre os tópicos que permeiam o tema de microsserviços, baseada em seus anos de experiência. Isso fica ainda mais evidente nesta segunda edição revisada.
+     Gostaria de ter lido essa obra no período de lançamento. Teria sido MUITO útil em diversos desafios que enfrentei ao longo da minha jornada. O livro é denso e repleto de conceitos bem fundamentados. Li-o após o livro de <i>Susan Fowler</i>, e percebo que <a href="https://samnewman.io/"><i>Newman</i></a> apresenta uma visão mais abrangente sobre os tópicos que permeiam o tema de microsserviços, baseada em seus anos de experiência. Isso fica ainda mais evidente nesta segunda edição revisada.
     </p>
     <p>
-      Partindo do princípio de que arquitetura não é uma corrida com obstáculos (embora muitas vezes pareça), Newman ressalta que monólitos são geralmente a decisão mais acertada até que problemas de escala, comuns ao crescimento de um negócio, comecem a surgir. Ele deixa claro que microsserviços não são a opção "padrão" nem um objetivo em si, mas sim uma estratégia para alcançar software disponível e escalável. Você não "vence" uma corrida simplesmente adotando esse padrão arquitetural.
+      Partindo do princípio de que arquitetura não é uma corrida com obstáculos (embora muitas vezes pareça), <a href="https://samnewman.io/"><i>Newman</a></i> ressalta que monólitos são geralmente a decisão mais acertada até que problemas de escala, comuns ao crescimento de um negócio, comecem a surgir. Ele deixa claro que microsserviços não são a opção "padrão" nem um objetivo em si, mas sim uma estratégia para alcançar software disponível e escalável. Você não "vence" uma corrida simplesmente adotando esse padrão arquitetural.
     </p>
     <p>
       Com base nessa visão, o livro explora os conceitos de maneira abrangente, sugerindo ferramentas e abordagens que o autor adotou ao longo de sua carreira.
@@ -80,14 +81,15 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
 <font size="5px"> ★★★☆☆ </font>
 
 > **Microsserviço:**
-> _Pequena aplicação, executa uma única tarefa e o faz com eficiência._
+> Pequena aplicação, executa uma única tarefa e o faz com eficiência.
 >
-> _Fonte: Livro [Microsserviços Prontos para Produção](https://www.amazon.com.br/Microsservi%C3%A7os-Prontos-Para-Produ%C3%A7%C3%A3o-Padronizados/dp/8575226215)_
+> Fonte: Livro [Microsserviços Prontos para Produção](https://www.amazon.com.br/Microsservi%C3%A7os-Prontos-Para-Produ%C3%A7%C3%A3o-Padronizados/dp/8575226215)
 
 <details>
   <summary><b><u>Breve Resenha:</u></b></summary>
+    <br/>
     <p>
-     Susan Fowler, para além de seu período no Uber, tem o grande mérito de ter abordado o tema da <b>Disponibilidade</b> com uma visão completamente alinhada ao contexto dos microsserviços. Esse tema é de extrema importância para todos os cargos que compõem as equipes de tecnologia e negócios em um mundo onde os serviços são predominantemente digitais.
+     <a href="https://en.wikipedia.org/wiki/Susan_Rigetti"><i>Susan Fowler</i></a> (Hoje <i>Rigetti</i>, sem parentesco com outro <a href="https://martinfowler.com/"><i>Fowler</i></a> famoso), para além de seu período no Uber, tem o grande mérito de ter abordado o tema da <b>Disponibilidade</b> com uma visão completamente alinhada ao contexto dos microsserviços. Esse tema é de extrema importância para todos os cargos que compõem as equipes de tecnologia e negócios em um mundo onde os serviços são predominantemente digitais.
     </p>
     <p>
       A escalabilidade horizontal (em hyperescala), com a qual empresas bem-sucedidas em seus negócios na rede precisam lidar durante seu crescimento, não deve comprometer a confiabilidade das transações com as quais o sistema precisa lidar. Ao longo dos anos, a abordagem que parece ter se adaptado melhor para garantir essa confiabilidade em escala, embora não seja simples, são os microsserviços.
@@ -117,7 +119,7 @@ Mais resenhas em breve ...
 
 <br/>
 
-## 👨‍💻 Linguagens
+## 👨🏿‍💻 Linguagens
 
 Livros focados em linguagens, tecnologias e ferramentas específicas, assim como suas aplicações práticas e desafios diários. Geralmente, apresentam exemplos e projetos didáticos que auxiliam na compreensão quando usados com as documentações oficiais.
 
@@ -145,6 +147,7 @@ Com o avanço das versões das ferramentas e linguagens, alguns livros não resi
 
 <details>
   <summary><b><u>Breve Resenha:</u></b></summary>
+  <br/>
   <p>
       Uma vez compreendidas as particularidades da concisa, porém poderosa, biblioteca padrão do GoLang, torna-se necessário elevar a qualidade dos softwares construídos com ela. <i>Kent Beck</i> já nos alertava sobre o excesso de confiança dos desenvolvedores em sua obra seminal sobre <b>TDD</b>, destacando como tornar o software altamente testável aumenta a segurança e reduz a carga cognitiva do desenvolvedor, auxiliando nesse aumento de qualidade.
   </p>
@@ -178,6 +181,7 @@ Com o avanço das versões das ferramentas e linguagens, alguns livros não resi
 
 <details>
   <summary><b><u>Breve Resenha:</u></b></summary>
+    <br/>
     <p>
       Um dos livros introdutórios mais recomendados para a linguagem Go, embora já com algum tempo desde seu lançamento, continua relevante devido à didática adotada. Meu primeiro contato com essa obra ocorreu na GopherCon 2018, quando o adquiri, e sua leitura, em conjunto com a documentação da linguagem, foi extremamente agradável.
     </p>
