@@ -16,7 +16,7 @@ APENAS tres Livros empilhados , em estilo cartoon com fundo branco sem muitos de
 
 ## 📖 SOBRE:
 
-Aqui se encontram breves resenhas das minhas __Leituras Técnicas Mais Recentes__ que fundamentam muitas das soluções aplicadas nos repositórios __[do meu perfil no](https://github.com/jtonynet)&nbsp;<img src='./../assets/images/icons/github_blue_link.svg' width='13' alt="GitHub" title="GitHub">__. É uma amostra do que me é relevante e de leitura altamente recomendada para profissionais interessados em arquitetura e abordagens modernas.
+Aqui se encontram breves resenhas das minhas __Leituras Técnicas Mais Recentes__ que fundamentam muitas das soluções aplicadas nos repositórios __[do meu perfil](https://github.com/jtonynet)&nbsp;<img src='./../assets/images/icons/github_blue_link.svg' width='13' alt="no GitHub" title="no GitHub">__. É uma amostra do que me é relevante e de leitura altamente recomendada para profissionais interessados em arquitetura e abordagens modernas.
 
 Existe uma discussão sobre quão rápido os livros técnicos ficam defasados de acordo com os avanços das tecnologias e metodologias. Contudo, os livros de __Arquitetura & Abordagens__ tendem a ser mais resilientes e resistir ao _"teste do tempo"_ na maioria das vezes. No entanto, pouquíssimas coisas são _"à prova de futuro"_.
 
@@ -55,10 +55,10 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
   <summary><b><u>Breve Resenha:</u></b></summary>
     <br/>
     <p>
-     Gostaria de ter lido essa obra no período de lançamento. Teria sido MUITO útil em diversos desafios que enfrentei ao longo da minha jornada. O livro é denso e repleto de conceitos bem fundamentados. Li-o após o livro de <i>Susan Fowler</i>, e percebo que <a href="https://samnewman.io/"><i>Newman</i></a> apresenta uma visão mais abrangente sobre os tópicos que permeiam o tema de microsserviços, baseada em seus anos de experiência. Isso fica ainda mais evidente nesta segunda edição revisada.
+     Gostaria de ter lido essa obra no período de lançamento de sua <a href="https://www.amazon.com.br/Building-Microservices-Sam-Newman/dp/1491950358">primeira edição</a> (em 17 de março 2015). Teria sido <b>MUITO ÚTIL</b> em diversos desafios que enfrentei ao longo da minha jornada. O livro é denso e repleto de conceitos bem fundamentados. Li-o após o livro de <i>Susan Fowler</i> ("Microsserviços Prontos para Produção" - resenha abaixo) , e percebo que <a href="https://samnewman.io/"><i>Newman</i></a> apresenta uma visão mais abrangente sobre os tópicos que permeiam o tema de microsserviços, baseada em seus anos de experiência. Isso fica ainda mais evidente nesta segunda edição revisada.
     </p>
     <p>
-      Partindo do princípio de que arquitetura não é uma corrida com obstáculos (embora muitas vezes pareça), <a href="https://samnewman.io/"><i>Newman</a></i> ressalta que monólitos são geralmente a decisão mais acertada até que problemas de escala, comuns ao crescimento de um negócio, comecem a surgir. Ele deixa claro que microsserviços não são a opção "padrão" nem um objetivo em si, mas sim uma estratégia para alcançar software disponível e escalável. Você não "vence" uma corrida simplesmente adotando esse padrão arquitetural.
+      Partindo do princípio de que arquitetura não é uma corrida com obstáculos (embora muitas vezes pareça), <a href="https://samnewman.io/"><i>Newman</a></i> ressalta que monólitos são geralmente a decisão mais acertada até que problemas de escala, comuns ao crescimento de um negócio, comecem a surgir. Ele deixa claro que microsserviços não são a opção "padrão" nem um "objetivo" em si, mas sim uma estratégia para alcançar software disponível e escalável. Você não "vence" uma corrida simplesmente adotando esse padrão arquitetural.
     </p>
     <p>
       Com base nessa visão, o livro explora os conceitos de maneira abrangente, sugerindo ferramentas e abordagens que o autor adotou ao longo de sua carreira.
@@ -89,17 +89,22 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
   <summary><b><u>Breve Resenha:</u></b></summary>
     <br/>
     <p>
-     <a href="https://en.wikipedia.org/wiki/Susan_Rigetti"><i>Susan Fowler</i></a> (Hoje <i>Rigetti</i>, sem parentesco com outro <a href="https://martinfowler.com/"><i>Fowler</i></a> famoso), para além de seu período no Uber, tem o grande mérito de ter abordado o tema da <b>Disponibilidade</b> com uma visão completamente alinhada ao contexto dos microsserviços. Esse tema é de extrema importância para todos os cargos que compõem as equipes de tecnologia e negócios em um mundo onde os serviços são predominantemente digitais.
+     <a href="https://www.susanjfowler.com/ "><i>Susan Fowler</i></a> (Hoje <i>Rigetti</i>, sem parentesco com <a href="https://martinfowler.com/">outro <i>Fowler</i> famoso</a>), tem o grande mérito de ter abordado o tema da <b>Disponibilidade</b> com uma visão completamente alinhada ao contexto dos microsserviços. Esse tema é de extrema importância para todos os cargos que compõem as equipes de tecnologia e negócios em um mundo onde os serviços são predominantemente digitais.
     </p>
     <p>
       A escalabilidade horizontal (em hyperescala), com a qual empresas bem-sucedidas em seus negócios na rede precisam lidar durante seu crescimento, não deve comprometer a confiabilidade das transações com as quais o sistema precisa lidar. Ao longo dos anos, a abordagem que parece ter se adaptado melhor para garantir essa confiabilidade em escala, embora não seja simples, são os microsserviços.
     </p>
     <p>
-      Ela não se prende a tecnologias específicas, não cita ferramentas de forma incisiva, mas sim abordagens que visam atender aos requisitos dessa lista de verificação. Uma vez que a lista está preenchida, em sua visão, temos o que ela chama de "Microsserviços Prontos Para Produção."
+      Nos sete capítulos da obra, a Engenheira de Confiabilidade discute os princípios que a nortearam na criação de uma lista de verificação que visa garantir que esses microsserviços suportem cargas de utilização pesadas, mesmo sob condições adversas, e não apenas isso, mas também sejam testáveis e de fácil manutenção.<br/>Ela não se prende a tecnologias específicas, não cita ferramentas de forma incisiva, mas sim abordagens que visam atender aos requisitos dessa lista de verificação. Uma vez que a lista está preenchida, em sua visão, temos o que ela chama de "Microsserviços Prontos Para Produção."
     <p>
     <p>
-      Nos sete capítulos da obra, a Engenheira de Confiabilidade discute os princípios que a nortearam na criação de uma lista de verificação que visa garantir que esses microsserviços suportem cargas de utilização pesadas, mesmo sob condições adversas, e não apenas isso, mas também sejam testáveis e de fácil manutenção.
+      <i>*A autora, apesar de jovem, possui um <a href="https://en.wikipedia.org/wiki/Susan_Rigetti">histórico mais  relevante</a> (o que não influenciou em nada a leitura dessa obra, mas em muito a indústria) no campo de Desenvolvimento de Software. Para desenvolvedores interessados em equidade de gênero e respeito</i>.
     </p>
+    <p>
+      <b>Sejamos todos melhores!</b>
+    </p>
+
+
 </details>
 
 <br/>
@@ -149,7 +154,7 @@ Com o avanço das versões das ferramentas e linguagens, alguns livros não resi
   <summary><b><u>Breve Resenha:</u></b></summary>
   <br/>
   <p>
-      Uma vez compreendidas as particularidades da concisa, porém poderosa, biblioteca padrão do GoLang, torna-se necessário elevar a qualidade dos softwares construídos com ela. <i>Kent Beck</i> já nos alertava sobre o excesso de confiança dos desenvolvedores em sua obra seminal sobre <b>TDD</b>, destacando como tornar o software altamente testável aumenta a segurança e reduz a carga cognitiva do desenvolvedor, auxiliando nesse aumento de qualidade.
+      Uma vez compreendidas as particularidades da concisa, porém poderosa, biblioteca padrão do <b>GoLang</b>, torna-se necessário elevar a qualidade dos softwares construídos com ela. <a href="https://en.wikipedia.org/wiki/Kent_Beck"><i>Kent Beck</i></a> já nos alertava sobre o excesso de confiança dos desenvolvedores em sua <a href="https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes/dp/857780724X/ref=sr_1_1">obra seminal sobre <b>TDD</b></a>, destacando como tornar o software altamente testável aumenta a segurança e reduz a carga cognitiva do desenvolvedor, auxiliando nesse aumento de qualidade.
   </p>
   <p>
       O livro aborda desde exemplos práticos básicos, como testes em uma calculadora, seguindo uma abordagem passo a passo (didática que aprecio bastante), até uma aplicação simples de gerenciamento de livros. Ele explora ferramentas modernas para testes de unidade, integração, end-to-end e até mesmo de comportamento (<b>BDD</b>), de maneira direta e acessível. Entretanto, o repositório do livro deixa a desejar, pois em muitos casos, já apresenta as soluções dos desafios, em vez de entregar um software sem testes e permitir que o leitor implemente suas próprias soluções.

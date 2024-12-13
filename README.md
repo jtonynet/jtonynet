@@ -19,7 +19,7 @@
 <!--
 [<img src="./assets/images/icons/linkedin_blue_link.svg" width="13"> 
  -->
-Olá Mundo, eu sou o __&nbsp;<img src="./assets/images/icons/black-panther-icon.png" alt="Perfil no LinkedIn:" title="Perfil no LinkedIn:" width="20">&nbsp;["Zé" (ou "Tony", a depender de onde e quando você me conheceu), Desenvolvedor](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)__ <!--com mais de 15 anos de experiência e -->, curioso e apaixonado por __resolver problemas de pessoas usando tecnologia__. Leitor constante de livros e artigos. Nos últimos anos tive foco em __Microsserviços e Grande Volume de Dados__. Estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá Mundo, eu sou o __&nbsp;<img src="./assets/images/icons/black-panther-icon.png" alt="Perfil no LinkedIn:" title="Perfil no LinkedIn:" width="20">&nbsp;["Zé" (ou "Tony", depende de onde/quando nos conhecemos), Desenvolvedor](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)__ <!--com mais de 15 anos de experiência e -->, curioso e apaixonado por __resolver problemas de pessoas usando tecnologia__. Leitor constante de livros e artigos. Nos últimos anos tive foco em __Microsserviços e Grande Volume de Dados__. Estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 <!-- Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes -->
 
