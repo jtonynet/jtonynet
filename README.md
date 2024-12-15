@@ -8,7 +8,7 @@
   <img src="./assets/images/layout/header_learn_ingenuity_github_logos.png" /> 
 </a>
 
-[![Olá](https://img.shields.io/badge/👋_Ola-001a2d?style=for-the-badge)](#hello) [![Redes](https://img.shields.io/badge/🕸️_Redes-001a2d?style=for-the-badge)](#contacts) [![Estatísticas Git](https://img.shields.io/badge/📈_Estatísticas_Git-001a2d?style=for-the-badge)](#git_statistics) [![Toolkit](https://img.shields.io/badge/🧰_Toolkit-001a2d?style=for-the-badge)](#toolkit) [![Uso de IA](https://img.shields.io/badge/🤖_Uso_de_IA-001a2d?style=for-the-badge)](#ia) [![Desafios e Estudos de Destaque](https://img.shields.io/badge/🌟_Desafios-001a2d?style=for-the-badge)](#challanges_and_studies)
+[![Olá](https://img.shields.io/badge/👋_Ola-001a2d?style=for-the-badge)](#hello) [![Redes](https://img.shields.io/badge/🕸️_Redes-001a2d?style=for-the-badge)](#contacts) [![Estatísticas Git](https://img.shields.io/badge/📈_Estatísticas_Git-001a2d?style=for-the-badge)](#git_statistics) [![Toolkit](https://img.shields.io/badge/🧰_Toolkit-001a2d?style=for-the-badge)](#toolkit) [![Uso de IA](https://img.shields.io/badge/🤖_Uso_de_IA-001a2d?style=for-the-badge)](#ia) [![Desafios e Estudos de Destaque](https://img.shields.io/badge/🌟_Desafios-001a2d?style=for-the-badge)](#challange--s_and_studies)
 
 </div>
 
@@ -16,14 +16,12 @@
 
 <a id="hello"></a>
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá Mundo:
-<!--
-[<img src="./assets/images/icons/linkedin_blue_link.svg" width="13"> 
- -->
-Olá Mundo, eu sou o __&nbsp;<img src="./assets/images/icons/black-panther-icon.png" alt="Perfil no LinkedIn:" title="Perfil no LinkedIn:" width="20">&nbsp;["Zé"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)__ (ou "Tony", depende de onde/quando nos conhecemos), Desenvolvedor <!--com mais de 15 anos de experiência e -->, curioso e apaixonado por __resolver problemas de pessoas usando tecnologia__. Leitor constante de livros e artigos. Nos últimos anos tive foco em __Microsserviços e Grande Volume de Dados__. Estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
+
+Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn:" title="Perfil no LinkedIn:">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)_, (depende de onde nos conhecemos <img src="./assets/images/icons/black-panther-icon.png" alt="black-panther Perfil no LinkedIn:" title="Black Panther" width="20">), desenvolvedor <!--com mais de 15 anos de experiência e -->, curioso e apaixonado por __resolver problemas de pessoas usando tecnologia__. Leitor constante de livros e artigos. Nos últimos anos tive foco em __Microsserviços e Grande Volume de Dados__. Estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 <!-- Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes -->
 
-Durante a pandemia, me dediquei a __&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub sobre:' title='Repositório GitHub sobre:'>[ Robótica e IoT como hobby](https://github.com/jtonynet/autogo)__.
+Durante a pandemia, me dediquei a _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub sobre:' title='Repositório GitHub sobre:'>[ Robótica básica e IoT como hobby](https://github.com/jtonynet/autogo)_.
 
 Bem-vindo ao meu GitHub!
 
