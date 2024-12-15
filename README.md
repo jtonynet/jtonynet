@@ -17,15 +17,14 @@
 <a id="hello"></a>
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá Mundo:
 
-Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn:" title="Perfil no LinkedIn:">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)_, (depende de onde nos conhecemos <img src="./assets/images/icons/black-panther-icon.png" alt="black-panther Perfil no LinkedIn:" title="Black Panther" width="20">), desenvolvedor <!--com mais de 15 anos de experiência e -->, curioso e apaixonado por __resolver problemas de pessoas usando tecnologia__. Leitor constante de livros e artigos. Nos últimos anos tive foco em __Microsserviços e Grande Volume de Dados__. Estudando sobre como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn" title="Perfil no LinkedIn">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)_, (depende de onde nos conhecemos <img src="./assets/images/icons/black-panther-icon.png" alt="Black Panther" title="Black Panther" width="20">), desenvolvedor, curioso e apaixonado por __resolver problemas de pessoas usando tecnologia__. Sou leitor constante de livros e artigos e consumidor habitual de conteúdos que me enriquecem de maneira pessoal e profissional (vídeos e podcasts). Nos últimos anos, meu foco tem sido em __Microsserviços e Grande Volume de Dados__, além de estudar como a IA e novas tecnologias impactam o mercado e a sociedade.
 
-<!-- Explorando escrever [artigos](https://dev.to/learningenuity) como processo de documentação dos meus experimentos e leituras constantes -->
-
-Durante a pandemia, me dediquei a _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub sobre:' title='Repositório GitHub sobre:'>[ Robótica básica e IoT como hobby](https://github.com/jtonynet/autogo)_.
+Durante a pandemia, me dediquei a _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>[ Robótica básica e IoT como hobby](https://github.com/jtonynet/autogo)_.
 
 Bem-vindo ao meu GitHub!
 
 <br/>
+
 
 - 🔭 Atualmente estou trabalhando em: _Aperfeiçoar minhas Skills_
 - 🌱 Atualmente estou aprendendo: _[Observabilidade](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura/SRE-Itau#header)_ e Boas Práticas

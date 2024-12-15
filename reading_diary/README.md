@@ -16,7 +16,7 @@ APENAS tres Livros empilhados , em estilo cartoon com fundo branco sem muitos de
 
 ## 📖 SOBRE:
 
-Aqui se encontram breves resenhas das minhas __Leituras Técnicas Mais Recentes__ que fundamentam muitas das soluções aplicadas nos repositórios __[do meu perfil](https://github.com/jtonynet)&nbsp;<img src='./../assets/images/icons/github_blue_link.svg' width='13' alt="no GitHub" title="no GitHub">__. É uma amostra do que me é relevante e de leitura altamente recomendada para profissionais interessados em arquitetura e abordagens modernas.
+Aqui se encontram breves resenhas das minhas __Leituras Técnicas Mais Recentes__ que fundamentam muitas das soluções aplicadas nos repositórios _[do meu perfil](https://github.com/jtonynet)&nbsp;<img src='./../assets/images/icons/github_blue_link.svg' width='13' alt="no GitHub" title="no GitHub">_. É uma amostra do que me é relevante e de leitura altamente recomendada para profissionais interessados em arquitetura e abordagens modernas.
 
 Existe uma discussão sobre quão rápido os livros técnicos ficam defasados de acordo com os avanços das tecnologias e metodologias. Contudo, os livros de __Arquitetura & Abordagens__ tendem a ser mais resilientes e resistir ao _"teste do tempo"_ na maioria das vezes. No entanto, pouquíssimas coisas são _"à prova de futuro"_.
 
@@ -81,7 +81,7 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
 <font size="5px"> ★★★☆☆ </font>
 
 > **Microsserviço:**
-> Pequena aplicação, executa uma única tarefa e o faz com eficiência.
+> _Pequena aplicação, executa uma única tarefa e o faz com eficiência._
 >
 > Fonte: Livro [Microsserviços Prontos para Produção](https://www.amazon.com.br/Microsservi%C3%A7os-Prontos-Para-Produ%C3%A7%C3%A3o-Padronizados/dp/8575226215)
 
@@ -89,14 +89,14 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
   <summary><b><u>Breve Resenha:</u></b></summary>
     <br/>
     <p>
-     <a href="https://www.susanjfowler.com/ "><i>Susan Fowler</i></a> (Hoje <i>Rigetti</i>, sem parentesco com <a href="https://martinfowler.com/">outro <i>Fowler</i> famoso</a>), tem o grande mérito de ter abordado o tema da <b>Disponibilidade</b> com uma visão completamente alinhada ao contexto dos microsserviços. Esse tema é de extrema importância para todos os cargos que compõem as equipes de tecnologia e negócios em um mundo onde os serviços são predominantemente digitais.
+     <a href="https://www.susanjfowler.com/"><i>Susan Fowler</i></a> (Hoje <i>Rigetti</i>, sem parentesco com <a href="https://martinfowler.com/">outro <i>Fowler</i> famoso</a>), tem o grande mérito de ter abordado o tema da <b>Disponibilidade</b> com uma visão completamente alinhada ao contexto dos microsserviços. Esse tema é de extrema importância para todos os cargos que compõem as equipes de tecnologia e negócios em um mundo onde os serviços são predominantemente digitais.
     </p>
     <p>
       A escalabilidade horizontal (em hyperescala), com a qual empresas bem-sucedidas em seus negócios na rede precisam lidar durante seu crescimento, não deve comprometer a confiabilidade das transações com as quais o sistema precisa lidar. Ao longo dos anos, a abordagem que parece ter se adaptado melhor para garantir essa confiabilidade em escala, embora não seja simples, são os microsserviços.
     </p>
     <p>
       Nos sete capítulos da obra, a Engenheira de Confiabilidade discute os princípios que a nortearam na criação de uma lista de verificação que visa garantir que esses microsserviços suportem cargas de utilização pesadas, mesmo sob condições adversas, e não apenas isso, mas também sejam testáveis e de fácil manutenção.<br/>Ela não se prende a tecnologias específicas, não cita ferramentas de forma incisiva, mas sim abordagens que visam atender aos requisitos dessa lista de verificação. Uma vez que a lista está preenchida, em sua visão, temos o que ela chama de "Microsserviços Prontos Para Produção."
-    <p>
+    </p>
     <p>
       <i>*A autora, apesar de jovem, possui um <a href="https://en.wikipedia.org/wiki/Susan_Rigetti">histórico mais  relevante</a> (o que não influenciou em nada a leitura dessa obra, mas em muito a indústria) no campo de Desenvolvimento de Software. Para desenvolvedores interessados em equidade de gênero e respeito</i>.
     </p>
@@ -105,6 +105,43 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
     </p>
 
 
+</details>
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+
+<div align="center">
+
+| Arquitetura Limpa: o Guia do Artesão Para Estrutura e Design de Software                                                                                                      |                                                                                                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Image description](./assets/book_covers/tech/arquitetura_limpa.jpg)](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606/ref=sr_1_1) | Por conta do peso do autor para a indústria, esse é praticamente um clássico instantâneo, expandindo os conceitos apresentados em obras anteriores de <a href="https://en.wikipedia.org/wiki/Robert_C._Martin"><i>Robert C. Martin ou Uncle Bob</i></a>. |
+
+</div>
+
+<font size="5px"> ★★★☆☆ </font>
+
+> **Arquitetura:**
+> _A arquitetura de um sistema de software é a forma dada a esse sistema por seus criadores. Essa forma se dá na divisão desse sistema em componentes, na organização desses componentes e nos modos como esses componentes se comunicam entre si._
+>
+> Fonte: Livro [Arquitetura Limpa](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606/ref=sr_1_1)
+
+<details>
+  <summary><b><u>Breve Resenha:</u></b></summary>
+    <br/>
+    <p>
+      <a href="http://cleancoder.com/products"><i>Uncle Bob</i></a>, possui um histórico relevante, sendo um dos signatários originais do <a href="https://agilemanifesto.org/iso/ptbr/manifesto.html"><i>Manifesto Ágil</i></a>. Ele é amplamente conhecido por suas <a href="https://www.amazon.com.br/stores/Robert-C.-Martin/author/B000APG87E?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true"><i>Abordagens Limpas</i></a> para o desenvolvimento de software. Contudo, a obra é o foco aqui, não o autor. Os primeiros capítulos do livro concentram-se quase exclusivamente nos princípios <i>SOLID</i> e em como sua adoção auxilia na criação de um código limpo, coeso e altamente manutenível.
+    </p>
+    <p>
+      No entanto, <i>Arquitetura Limpa</i> não se limita a <i>SOLID</i>. O autor explora temas como organização de componentes, separação de responsabilidades, camadas de abstração e as regras de dependência, abordando como essas decisões impactam o ciclo de vida do software. Ele argumenta que a arquitetura ideal deve suportar mudanças com o mínimo de impacto, algo que os princípios <i>SOLID</i> ajudam a alcançar.
+    </p>
+    <p>
+      Esses capítulos fornecem ao leitor um excelente panorama para a aplicação desses princípios. Talvez novatos encontrem certa dificuldade e só consigam compreender plenamente esses conceitos ao se depararem com problemas que, além de permitirem, <i>exigem</i> esse tipo de solução padronizada, amplamente difundida hoje, de forma acertada, como boas práticas.
+    </p>
+    <p>
+      Polêmicas sobre o autor à parte, é impossível não recomendar a leitura desta obra (e também do <a href="https://www.amazon.com.br/C%C3%B3digo-Limpo-Robert-C-Martin-ebook/dp/B085Q2K632"><i>Código Limpo</i></a>), com a ressalva de que, a depender da linguagem utilizada e do nível profissional do leitor, muitas de suas recomendações podem ser incompreendidas ou não fazer sentido. Somente hoje, alguns de seus conceitos fazem total sentido para mim. Dominar <i>SOLID, KISS, DRY</i> e outros princípios tornará seu código mais manutenível, legível e, claro, <i>Limpo</i>.
+    </p>
 </details>
 
 <br/>
@@ -154,7 +191,7 @@ Com o avanço das versões das ferramentas e linguagens, alguns livros não resi
   <summary><b><u>Breve Resenha:</u></b></summary>
   <br/>
   <p>
-      Uma vez compreendidas as particularidades da concisa, porém poderosa, biblioteca padrão do <b>GoLang</b>, torna-se necessário elevar a qualidade dos softwares construídos com ela. <a href="https://en.wikipedia.org/wiki/Kent_Beck"><i>Kent Beck</i></a> já nos alertava sobre o excesso de confiança dos desenvolvedores em sua <a href="https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes/dp/857780724X/ref=sr_1_1">obra seminal sobre <b>TDD</b></a>, destacando como tornar o software altamente testável aumenta a segurança e reduz a carga cognitiva do desenvolvedor, auxiliando nesse aumento de qualidade.
+      Uma vez compreendidas as particularidades da concisa, porém poderosa, biblioteca padrão do <b>GoLang</b>, torna-se necessário elevar a qualidade dos softwares construídos com ela. <a href="https://en.wikipedia.org/wiki/Kent_Beck"><i>Kent Beck</i></a> já nos alertava sobre o excesso de confiança dos desenvolvedores em sua <a href="https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes/dp/857780724X/ref=sr_1_1"><i>obra seminal sobre TDD</i></a>, destacando como tornar o software altamente testável aumenta a segurança e reduz a carga cognitiva do desenvolvedor, auxiliando nesse aumento de qualidade.
   </p>
   <p>
       O livro aborda desde exemplos práticos básicos, como testes em uma calculadora, seguindo uma abordagem passo a passo (didática que aprecio bastante), até uma aplicação simples de gerenciamento de livros. Ele explora ferramentas modernas para testes de unidade, integração, end-to-end e até mesmo de comportamento (<b>BDD</b>), de maneira direta e acessível. Entretanto, o repositório do livro deixa a desejar, pois em muitos casos, já apresenta as soluções dos desafios, em vez de entregar um software sem testes e permitir que o leitor implemente suas próprias soluções.
