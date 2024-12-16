@@ -17,7 +17,7 @@
 <a id="hello"></a>
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá Mundo:
 
-Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn" title="Perfil no LinkedIn">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)_, (depende de onde nos conhecemos <img src="./assets/images/icons/black-panther-icon.png" alt="Black Panther" title="Black Panther" width="20">), desenvolvedor, curioso e apaixonado por __resolver Problemas de Pessoas usando Tecnologia__. Sou leitor constante de livros e artigos e consumidor habitual de conteúdos que me enriquecem de maneira pessoal e profissional (vídeos e podcasts). Nos últimos anos, meu foco tem sido em __Microsserviços e Grande Volume de Dados__, além de estudar como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn" title="Perfil no LinkedIn">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)_, (depende de onde nos conhecemos <img src="./assets/images/icons/black-panther-icon.png" alt="Black Panther" title="Black Panther" width="20">), desenvolvedor, curioso e apaixonado por __resolver Problemas de Pessoas usando Tecnologia__. Sou leitor constante de livros e artigos e consumidor habitual de conteúdos que me e nriqueçam de maneira pessoal e profissional (vídeos e podcasts). Nos últimos anos, meu foco tem sido em __Microsserviços e Grande Volume de Dados__, além de estudar como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 Durante a pandemia, me dediquei a _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>[ Robótica básica e IoT como hobby](https://github.com/jtonynet/autogo)_.
 
@@ -176,6 +176,21 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 > <div align="center">
 > 
+> | Go Pique Nique (A Hexagonal Banking Authorizer)      |
+> | -----------------------------------------------------|
+> | <img src="./assets/images/layout/future_projects/header_go_pique_nique.png"> |
+> </div>
+>
+> Desafio ...
+
+</center>
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+> <div align="center">
+> 
 > | Go Med Planner (REST API Three Tier with DDD and TDD Approach)    |
 > | ------------------------------------------------------------------|
 > | <img src="./assets/images/layout/future_projects/header_go_med_planner.png"> |
@@ -189,21 +204,6 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
-
-> <div align="center">
-> 
-> | Go Pique Nique (A Hexagonal Banking Authorizer)      |
-> | -----------------------------------------------------|
-> | <img src="./assets/images/layout/future_projects/header_go_pique_nique.png"> |
-> </div>
->
-> Desafio ...
-
-</center>
-
-<br/>
-<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
-<br/>
 
 > <div align="center">
 > 
@@ -245,12 +245,14 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
-> <center>
+> <div align="center">
+> <a href="https://github.com/jtonynet/immersion-auto-tracking?tab=readme-ov-file#header"> 
 > 
 > | Auto Tracking FullCycle Immersion                    |
 > | -----------------------------------------------------|
 > | <img src="./assets/images/layout/future_projects/header_imersion_auto_tracking.png"> |
-> </center>
+> </a>
+> </div>
 >
 > [![Badge Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-green)](#header)
 >
@@ -264,9 +266,8 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > - `Go`
 > - `Apache Kafka` 
 > - `Dockerized` Solução com uso de containers
- -->
 
-<!--
+
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
