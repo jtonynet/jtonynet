@@ -19,21 +19,19 @@
 
 Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn" title="Perfil no LinkedIn">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)_, (depende de onde nos conhecemos), desenvolvedor, curioso e apaixonado por __resolver Problemas de Pessoas usando Tecnologia__. Sou leitor constante de livros e artigos e consumidor habitual de conteúdos que me enriqueçam de maneira pessoal e profissional (e.g., vídeos, podcasts...). Nos últimos anos, meu foco tem sido em __Microsserviços e Grande Volume de Dados__, além de estudar como a IA e novas tecnologias impactam o mercado e a sociedade.
 
-Durante a pandemia, me dediquei a _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>[ Robótica básica e IoT como hobby](https://github.com/jtonynet/autogo)_.
 
 Bem-vindo ao meu GitHub!
 
-<br/>
-
 
 - 🔭 Atualmente estou trabalhando em: _Aperfeiçoar minhas Skills_
-- 🌱 Atualmente estou aprendendo: _[Observabilidade](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura/SRE-Itau#header)_ e Boas Práticas
+- 🌱 Atualmente estou aprendendo: _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Observabilidade](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura/SRE-Itau#header)_ e Boas Práticas
 - 👯 Estou procurando colaborar em: _Ajudar sua empresa a Escalar_
 - 💬 Pergunte-me sobre: _Microsserviços_
-- 📫 Como entrar em _[Contato Comigo](#contacts)_
+- 📫 Como entrar em _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Contato Comigo](#contacts)_
 - 😄 Pronomes: _Ele, dele_
-- 🎓 Meus _[Certificados e Cursos](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura#header)_
-- 📚 Minhas _[Leituras Recentes](https://github.com/jtonynet/jtonynet/tree/main/reading_diary#header)_
+- 🎓 Meus _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Certificados e Cursos](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura#header)_
+- 📚 Minhas _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Leituras Recentes](https://github.com/jtonynet/jtonynet/tree/main/reading_diary#header)_
+- 🦾 Durante a pandemia, me dediquei a _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>[ Robótica básica e IoT como hobby](https://github.com/jtonynet/autogo)_.
 - ⚡ Curiosidade: _Sou Aquarista e Maker nas horas vagas_
 
 <br/>
