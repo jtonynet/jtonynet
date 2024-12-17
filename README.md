@@ -8,7 +8,7 @@
   <img src="./assets/images/layout/header_learn_ingenuity_github_logos.png" /> 
 </a>
 
-[![Olá](https://img.shields.io/badge/👋_Ola-001a2d?style=for-the-badge)](#hello) [![Redes](https://img.shields.io/badge/🕸️_Redes-001a2d?style=for-the-badge)](#contacts) [![Estatísticas Git](https://img.shields.io/badge/📈_Estatísticas_Git-001a2d?style=for-the-badge)](#git_statistics) [![Toolkit](https://img.shields.io/badge/🧰_Toolkit-001a2d?style=for-the-badge)](#toolkit) [![Uso de IA](https://img.shields.io/badge/🤖_Uso_de_IA-001a2d?style=for-the-badge)](#ia) [![Desafios e Estudos de Destaque](https://img.shields.io/badge/🌟_Desafios-001a2d?style=for-the-badge)](#challange--s_and_studies)
+[![Olá](https://img.shields.io/badge/👋_Ola-001a2d?style=for-the-badge)](#hello) [![Redes](https://img.shields.io/badge/🕸️_Redes-001a2d?style=for-the-badge)](#contacts) [![Estatísticas Git](https://img.shields.io/badge/📈_Estatísticas_Git-001a2d?style=for-the-badge)](#git_statistics) [![Toolkit](https://img.shields.io/badge/🧰_Toolkit-001a2d?style=for-the-badge)](#toolkit) [![Uso de IA](https://img.shields.io/badge/🤖_Uso_de_IA-001a2d?style=for-the-badge)](#ia) [![Desafios e Estudos de Destaque](https://img.shields.io/badge/🌟_Desafios-001a2d?style=for-the-badge)](#challanges_and_studies)
 
 </div>
 
@@ -17,7 +17,7 @@
 <a id="hello"></a>
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá Mundo:
 
-Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn" title="Perfil no LinkedIn">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)_, (depende de onde nos conhecemos <img src="./assets/images/icons/black-panther-icon.png" alt="Black Panther" title="Black Panther" width="20">), desenvolvedor, curioso e apaixonado por __resolver Problemas de Pessoas usando Tecnologia__. Sou leitor constante de livros e artigos e consumidor habitual de conteúdos que me enriqueçam de maneira pessoal e profissional (e.g., vídeos, podcasts...). Nos últimos anos, meu foco tem sido em __Microsserviços e Grande Volume de Dados__, além de estudar como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn" title="Perfil no LinkedIn">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)_, (depende de onde nos conhecemos), desenvolvedor, curioso e apaixonado por __resolver Problemas de Pessoas usando Tecnologia__. Sou leitor constante de livros e artigos e consumidor habitual de conteúdos que me enriqueçam de maneira pessoal e profissional (e.g., vídeos, podcasts...). Nos últimos anos, meu foco tem sido em __Microsserviços e Grande Volume de Dados__, além de estudar como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 Durante a pandemia, me dediquei a _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>[ Robótica básica e IoT como hobby](https://github.com/jtonynet/autogo)_.
 
@@ -39,6 +39,8 @@ Bem-vindo ao meu GitHub!
 <br/>
 
 `Lifelong learning!`
+
+<img src="./assets/images/icons/black-panther-icon.png" alt="Black Panther - Wakanda Forever" title="Black Panther - Wakanda Forever" width="20">
 
 <br/>
 
@@ -204,7 +206,6 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
-
 > <div align="center">
 > 
 > | Go Turn Based Challange (A Study of Logic and Algorithms Based on RPG)                 |
@@ -248,8 +249,8 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > <div align="center">
 > <a href="https://github.com/jtonynet/immersion-auto-tracking?tab=readme-ov-file#header"> 
 > 
-> | Auto Tracking FullCycle Immersion                    |
-> | -----------------------------------------------------|
+> | Auto Tracking FullCycle Immersion (Go, Typescript, Apache Kafka)                     |
+> | -------------------------------------------------------------------------------------|
 > | <img src="./assets/images/layout/future_projects/header_imersion_auto_tracking.png"> |
 > </a>
 > </div>
@@ -261,12 +262,15 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > Repositório puramente didático, baseado na `Imersão Full Stack && Full Cycle` iniciada em `09/12/2024`. Desenvolvendo Um sistema de rastreamento de veículos em tempo real utilizando microsserviços.
 >
 > __Principais Tecnologias e abordagens:__
-> - `Nest.js`
-> - `Next.js` no Front com a `API` do `GoogleMaps`
-> - `Go`
 > - `Apache Kafka` 
-> - `Dockerized` Solução com uso de containers
+> - `Go`
+> - `Typescript`
+> - `Nest.js`
+> - `Next.js` 
+> - `Websockets`
+> - `GoogleMaps API`
 
+<br/>
 
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
@@ -309,6 +313,8 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 ---
 
 <a id="footer"></a>
+
+<br/>
 
 Todo projeto envolve trade-offs e dívidas técnicas. No entanto, é bem-sucedido quando atinge seus objetivos, seja impulsionando resultados de negócio ou promovendo melhorias contínuas e aprendizado durante sua _Jornada_.
 
