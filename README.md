@@ -27,7 +27,7 @@ Bem-vindo ao meu GitHub!
 
 
 - 🔭 Atualmente estou trabalhando em: _Aperfeiçoar minhas Skills_
-- 🌱 Atualmente estou aprendendo: _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Observabilidade](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura/SRE-Itau#header)_ e Boas Práticas
+- 🌱 Atualmente estou aprendendo: _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Observabilidade](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura/SRE-Itau#header)_ e _Event Driven Architecture_
 - 👯 Estou procurando colaborar em: _Ajudar sua empresa a Escalar_
 - 💬 Pergunte-me sobre: _Microsserviços_
 - 📫 Como entrar em _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Contato Comigo](#contacts)_
