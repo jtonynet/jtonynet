@@ -1,5 +1,7 @@
+<!--
 Lang: [`🇧🇷 PT-BR`] - [🇺🇸 EN](./README_en.md) 
-<!--Languages:  - [`🇺🇸 EN`] - [🇧🇷 PT-BR](./README.md) -->
+Languages:  - [`🇺🇸 EN`] - [🇧🇷 PT-BR](./README.md) 
+-->
 
 <a id="header"></a>
 
