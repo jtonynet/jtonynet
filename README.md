@@ -1,3 +1,6 @@
+Lang: [`🇧🇷 PT-BR`] - [🇺🇸 EN](./README_en.md) 
+<!--Languages:  - [`🇺🇸 EN`] - [🇧🇷 PT-BR](./README.md) -->
+
 <a id="header"></a>
 
 <div align="center">
@@ -38,11 +41,11 @@ Bem-vindo ao meu GitHub!
 
 `Lifelong learning!`
 
+<a href="#header">
 <img src="./assets/images/icons/black-panther-icon.png" alt="Black Panther - Wakanda Forever" title="Black Panther - Wakanda Forever" width="20">
+</a>
 
 <br/>
-
-[⤴️ de volta ao menu](#header)
 
 ---
 
@@ -63,10 +66,6 @@ Bem-vindo ao meu GitHub!
 
 <a id="git_statistics"></a>
 ### 📈 Estatísticas Git:
-
-<!--
-<img src="./assets/images/avatars/me_IA_carttoon.jpg" height="195"> 
--->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtonynet&show_icons=true&theme=transparent) 
 
@@ -105,10 +104,7 @@ Bem-vindo ao meu GitHub!
 O cabeçalho desta página foi criado com o auxílio de inteligência artificial e um mínimo de 
 retoque e construção no Gimp [<img src="./assets/images/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Logo do Gimp" />](https://www.gimp.org/)
 
-<!-- O fundo é uma sessão de [Event Storming do youtube ](https://www.youtube.com/watch?v=6nEbm71Vc3w) dos meus [projetos recentes](https://github.com/jtonynet/cine-catalogo/tree/main) e pode ser encontrada no [Miro](https://miro.com/app/board/uXjVNRofMoA=/) com objetivo de aprendizado em público. -->
-
 __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https://www.bing.com/images/create/)__
-
 
 <details>
   <summary><b>Drone Ingenuity</b></summary>
@@ -153,37 +149,54 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > 
 > [![Go Version](https://img.shields.io/badge/GO-1.23.2-blue?logo=go&logoColor=white)](https://go.dev/)
 >
-> Desafio de `Autorizador de Pagamentos` de benefícios em `Arquitetura Hexagonal` com `SLA de 100ms` por request e `controle de concorrência` com baixa possibilidade de colisão. 
-> Construído com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço "`REST`" `http` ("aberto" ao mundo, o ponto de entrada) e o serviço `Processor` ("fechado" ao mundo, o processador de pagamentos) por segurança.
+> Desafio de `Payment Authorizer` de benefícios em `Hexagonal Architecture` com `100ms SLA` por request e controle de concorrência com baixa possibilidade de colisão. 
+> Construído com `Gin` e `Gorm`, protocolo `gRPC` entre o serviço `REST` `HTTP` ("aberto" ao mundo, o ponto de entrada) e o serviço `Processor` ("fechado" ao mundo, o processador de pagamentos) por segurança.
 >
 > __Principais Tecnologias e abordagens:__
-> - `Arquitetura Hexagonal`
+> - `Hexagonal Architecture`
+> - `TDD`, `DDD`, `SOLID`, `ADRs`
+> - `REST` `HTTP` e `gRPC` entre `Microsservices`
+> - `Dockerized` Solução com uso de containers
+> - `PostgreSQL` modelado inspirado em `Event Sourcing` garantindo `Consistency`
+> -  `Concurrent Programming`
+> - `Redis` para `Pessimistic Memory Lock`
+> - `Redis Keyspace Notification` como `Pub/Sub` para `Unlocks` <br/>(`Robust Queues` foram desconsideradas devido `Additional Latency`)
+> - `CI` com `GitHub Actions` 
+> - `Performance/Load Test Dockerized` com `Gatling`
+> - `Observability` com `Prometheus` e `Grafana` com `RED Metrics` (WIP)
+> - `Diagram as code` com `Mermaid.js` e `Miro`
+
+<!--
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+> <div align="center">
+> <a href="https://github.com/jtonynet/go-pique-nique?tab=readme-ov-file#header">
+> 
+> | Go Pique Nique (Event Driven & Hexagonal Banking)    |
+> | -----------------------------------------------------|
+> | <img src="https://raw.githubusercontent.com/jtonynet/go-pique-nique/main/docs/assets/images/layout/header.png"> |
+> 
+> </a>
+> </div>
+>
+> 
+> Desafio de `Banking` `REST` Simplificado em `Event Driven Architecture` e `Hexagonal Architecture`. Elaborado com `Event Storming`,
+> construído com `Gin`, `Gorm` e `RabbitMQ` como serviço de `Mensageria`.
+>
+> __Principais Tecnologias e abordagens:__
+> - `Event Storming`
+> - `Event Driven Architecture`
+> - `Hexagonal Architecture`
+> - `RabbitMQ` para `Mensageria Assíncrona`
 > - `TDD`, `DDD`, `SOLID`, `ADRs`
 > - `Diagram as code` com `Mermaid.js` e `Miro`
 > - `Dockerized` Solução com uso de containers
-> - `gRPC` e `http` entre `Microsservices`
-> - `PostgreSQL` modelado inspirado em `Event Sourcing` para garantir `Consistência`
+> - `PostgreSQL` modelado em `Event Sourcing` para garantir `Consistência`
 > - `CI` com `GitHub Actions` 
-> - `Redis` para `Memory Lock Pessimista`
-> - `Redis Keyspace Notification` como `Pub/Sub` para `Unlocks` (outras Abordagens como `Filas` foram desconsideradas devido `Latência Adicional`)
-> - `Performance/Load Test Dockerized` com `Gatling` (WIP)
-> 
 
-<!--
-<br/>
-<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
-<br/>
-
-> <div align="center">
-> 
-> | Go Pique Nique (A Hexagonal Banking Authorizer)      |
-> | -----------------------------------------------------|
-> | <img src="./assets/images/layout/future_projects/header_go_pique_nique.png"> |
-> </div>
->
-> Desafio ...
-
-</center>
 
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
@@ -191,7 +204,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 > <div align="center">
 > 
-> | Go Med Planner (REST API Three Tier with DDD and TDD Approach)    |
+> | Go Med Planner (RESTful API Three Tier with DDD and TDD Approach)    |
 > | ------------------------------------------------------------------|
 > | <img src="./assets/images/layout/future_projects/header_go_med_planner.png"> |
 > </div>
@@ -240,6 +253,23 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <!-- - `Jaeger` e `OpenTelemetry` para `tracing distribuído`  -->
 
 <!-- 
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+
+> <center>
+> 
+> | Go Food Delivery                              |
+> | -----------------------------------------------------|
+> | <img src="./assets/images/layout/future_projects/header_go_food_delivery.png"> |
+> </center>
+>
+> Repositório puramente didático, baseado na `Tech Excellence Conference` de `22/11/2024`. Onde `Alistair Cockburn` apresentou um exemplo de `Calculadora em Java` para ilustrar sua abordagem `hexagonal`.
+> 
+> Aqui se encontra uma possível implementação dos conceitos apresentados na conferência em uma aplicação `Golang` visando aperfeiçoamento e treinamento.
+
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
@@ -304,6 +334,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 -->
 
+<br/>
 <br/>
 
 [⤴️ de volta ao menu](#header)
