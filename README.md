@@ -4,6 +4,7 @@ Languages:  - [`🇺🇸 EN`] - [🇧🇷 PT-BR](./README.md)
 -->
 
 <a id="header"></a>
+<br/>
 
 <div align="center">
 <a href="#header">
@@ -20,6 +21,8 @@ Languages:  - [`🇺🇸 EN`] - [🇧🇷 PT-BR](./README.md)
 ---
 
 <a id="hello"></a>
+<br/>
+
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá Mundo:
 
 Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn" title="Perfil no LinkedIn">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)_, (depende de onde nos conhecemos), desenvolvedor, curioso e apaixonado por __resolver Problemas de Pessoas usando Tecnologia__. Sou leitor constante de livros e artigos e consumidor habitual de conteúdos que me enriqueçam de maneira pessoal e profissional (e.g., vídeos, podcasts...). Nos últimos anos, meu foco tem sido em __Microsserviços e Grande Volume de Dados__, além de estudar como a IA e novas tecnologias impactam o mercado e a sociedade.
@@ -52,6 +55,8 @@ Bem-vindo ao meu GitHub!
 ---
 
 <a id="contacts"></a>
+<br/>
+
 ### 🕸️ Redes:
 
 <!-- 
@@ -67,6 +72,8 @@ Bem-vindo ao meu GitHub!
 ---
 
 <a id="git_statistics"></a>
+<br/>
+
 ### 📈 Estatísticas Git:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtonynet&show_icons=true&theme=transparent) 
@@ -84,6 +91,8 @@ Bem-vindo ao meu GitHub!
 ---
 
 <a id="toolkit"></a>
+<br/>
+
 ### 🧰 Toolkit:
 
 <!-- 
