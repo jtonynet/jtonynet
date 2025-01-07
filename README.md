@@ -58,7 +58,7 @@ Bem-vindo ao meu GitHub!
     https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
-[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![miro](https://img.shields.io/badge/Miro_Public_Board-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/app/board/uXjVLwnx2cw=/?share_link_id=678470802721)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![miro](https://img.shields.io/badge/Miro_Public_Board-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/app/board/uXjVLwnx2cw=/?share_link_id=678470802721) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity)
 
 <br/>
 
