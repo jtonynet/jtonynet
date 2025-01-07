@@ -4,6 +4,7 @@ Languages:  - [`🇺🇸 EN`] - [🇧🇷 PT-BR](./README.md)
 -->
 
 <a id="header"></a>
+
 <br/>
 
 <div align="center">
@@ -21,6 +22,7 @@ Languages:  - [`🇺🇸 EN`] - [🇧🇷 PT-BR](./README.md)
 ---
 
 <a id="hello"></a>
+
 <br/>
 
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá Mundo:
@@ -55,6 +57,7 @@ Bem-vindo ao meu GitHub!
 ---
 
 <a id="contacts"></a>
+
 <br/>
 
 ### 🕸️ Redes:
@@ -72,6 +75,7 @@ Bem-vindo ao meu GitHub!
 ---
 
 <a id="git_statistics"></a>
+
 <br/>
 
 ### 📈 Estatísticas Git:
@@ -91,6 +95,7 @@ Bem-vindo ao meu GitHub!
 ---
 
 <a id="toolkit"></a>
+
 <br/>
 
 ### 🧰 Toolkit:
@@ -110,6 +115,9 @@ Bem-vindo ao meu GitHub!
 
 
 <a id="ia"></a>
+
+<br/>
+
 ### 🤖 Uso de IA:
 
 O cabeçalho desta página foi criado com o auxílio de inteligência artificial e um mínimo de 
@@ -311,7 +319,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 <br/>
 
-<br/>
+s<br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
