@@ -144,6 +144,9 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 
 
 <a id="challanges_and_studies"></a>
+
+<br/>
+
 ### 🌟 Desafios e Estudos de Destaque:
 
 Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, meus projetos pessoais e treinamentos recentes, desenvolvidos com base em desafios práticos e estudos.
