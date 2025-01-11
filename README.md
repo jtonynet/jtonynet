@@ -185,8 +185,10 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > - `Redis Keyspace Notification` como `Pub/Sub` para `Unlocks` <br/>(`Robust Queues` foram desconsideradas devido `Additional Latency`)
 > - `CI` com `GitHub Actions` 
 > - `Performance/Load Test Dockerized` com `Gatling`
-> - `Observability` com `Prometheus` e `Grafana` com `RED Metrics` (WIP)
 > - `Diagram as code` com `Mermaid.js` e `Miro`
+> - `Observability` (WIP)
+>   - `Prometheus` e `Grafana` para `RED Metrics`
+>   - `Grafana Loki` e `Promtail` para `Logs`
 
 <!--
 
