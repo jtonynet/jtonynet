@@ -197,6 +197,35 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <br/>
 
 > <div align="center">
+> 
+> | Go Med Planner (REST API Three Tier with TDD Approach)    |
+> | ------------------------------------------------------------------|
+> | <img src="./assets/images/layout/future_projects/header_go_galaxies_api.png"> |
+> </div>
+>
+> Desafio ...
+
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+> <div align="center">
+> 
+> | Go Med Planner (RESTful API Three Tier with TDD Approach)    |
+> | ------------------------------------------------------------------|
+> | <img src="./assets/images/layout/future_projects/header_go_med_planner.png"> |
+> </div>
+>
+> Desafio ...
+
+</center>
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+> <div align="center">
 > <a href="https://github.com/jtonynet/go-pique-nique?tab=readme-ov-file#header">
 > 
 > | Go Pique Nique (Event Driven & Hexagonal Banking)    |
@@ -220,22 +249,6 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > - `Dockerized` Solução com uso de containers
 > - `PostgreSQL` modelado em `Event Sourcing` para garantir `Consistência`
 > - `CI` com `GitHub Actions` 
-
-
-<br/>
-<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
-<br/>
-
-> <div align="center">
-> 
-> | Go Med Planner (RESTful API Three Tier with DDD and TDD Approach)    |
-> | ------------------------------------------------------------------|
-> | <img src="./assets/images/layout/future_projects/header_go_med_planner.png"> |
-> </div>
->
-> Desafio ...
-
-</center>
 
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
@@ -276,7 +289,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > - `Grafana Loki` para `centralização de logs`  
 <!-- - `Jaeger` e `OpenTelemetry` para `tracing distribuído`  -->
 
-<!-- 
+<!--
 
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
@@ -324,7 +337,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 <br/>
 
-s<br/>
+<br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
