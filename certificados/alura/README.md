@@ -83,6 +83,7 @@ Repositórios com conteúdos desses certificados
 [Certificados trilha Laravel](./PHP/2024/laravel) por conta de `side projects` recentes, precisei me atualizar na linguagem e framework e utilizei essa trilha como ponto de partida
 
 - [Repositório trilha Laravel](https://github.com/jtonynet/php-laravel-series)
+- [Repositório trilha PHP Unit & Best Practices](https://github.com/jtonynet/php-unit-tests)
 
 <br/>
 
