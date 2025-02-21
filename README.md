@@ -29,9 +29,7 @@ Languages:  - [`🇺🇸 EN`] - [🇧🇷 PT-BR](./README.md)
 
 Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn" title="Perfil no LinkedIn">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)_, (depende de onde nos conhecemos), desenvolvedor, curioso e apaixonado por __resolver Problemas de Pessoas usando Tecnologia__. Sou leitor constante de livros e artigos e consumidor habitual de conteúdos que me enriqueçam de maneira pessoal e profissional (e.g., vídeos, podcasts...). Nos últimos anos, meu foco tem sido em __Microsserviços e Grande Volume de Dados__, além de estudar como a IA e novas tecnologias impactam o mercado e a sociedade.
 
-
 Bem-vindo ao meu GitHub!
-
 
 - 🔭 Atualmente estou trabalhando em: _Aperfeiçoar minhas Skills_
 - 🌱 Atualmente estou aprendendo: _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Observabilidade](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura/SRE-Itau#header)_ e _Event-Driven Architecture_
@@ -66,7 +64,7 @@ Bem-vindo ao meu GitHub!
     https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
-[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![miro](https://img.shields.io/badge/Miro_Public_Board-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/app/board/uXjVLwog0e8=/) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![miro](https://img.shields.io/badge/Miro_Public_Board-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/app/board/uXjVLwog0e8=/?moveToViewport=-10284,-6053,22200,8500) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity)
 
 <br/>
 
@@ -113,7 +111,6 @@ Bem-vindo ao meu GitHub!
 
 ---
 
-
 <a id="ia"></a>
 
 <br/>
@@ -141,7 +138,6 @@ Contrate artistas para projetos comerciais ou mais elaborados e Aprenda Engenhos
 [⤴️ de volta ao menu](#header)
 
 ---
-
 
 <a id="challanges_and_studies"></a>
 
@@ -262,7 +258,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > </div>
 >
 > Desafio ...
--->
+ -->
 
 <br/>
 <hr/>
@@ -289,7 +285,37 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > - `Grafana Loki` para `centralização de logs`  
 <!-- - `Jaeger` e `OpenTelemetry` para `tracing distribuído`  -->
 
-<!--
+<!-- 
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+
+> <div align="center">
+> <a href="https://github.com/jtonynet/immersion-auto-tracking?tab=readme-ov-file#header"> 
+> 
+> | Immersion Home Broker (Go, Typescript, Apache Kafka)                     |
+> | -------------------------------------------------------------------------------------|
+> | <img src="./assets/images/layout/future_projects/header_immersion_home_broker.png"> |
+> </a>
+> </div>
+>
+> [![Badge Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-green)](#header)
+>
+> [![Go Version](https://img.shields.io/badge/GO-1.23.2-blue?logo=go&logoColor=white)](https://go.dev/) [![Node.js Version](https://img.shields.io/badge/Node.js-20.17.0-blue?logo=Node.js&logoColor=white)](https://nodejs.org/) [![TypeScript Version](https://img.shields.io/badge/TypeScript-5.6-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+>
+> Repositório __Puramente Didático__  baseado na `Imersão Full Stack && Full Cycle` iniciada em `17/02/2025`. Desenvolvendo Arquitetura de Microsserviços para atender __Home Broker__, capaz de processar compra e venda de ativos em tempo real. Seguindo os vídeos do canal do YouTube [Full Cycle](https://www.youtube.com/@FullCycle)
+> 
+> __Principais Tecnologias e abordagens:__
+> - `Apache Kafka` 
+> - `Go`
+> - `Typescript`
+> - `Nest.js`
+> - `Next.js` 
+> - `Websockets`
+
+<br/>
 
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
@@ -369,7 +395,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
--->
+ -->
 
 <br/>
 <br/>
