@@ -37,8 +37,9 @@ Bem-vindo ao meu GitHub!
 - 💬 Pergunte-me sobre: _Microsserviços_
 - 📫 Como entrar em _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Contato Comigo](#contacts)_
 - 😄 Pronomes: _Ele, dele_
-- 🎓 Meus _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Certificados e Cursos](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura#header)_
+- 📋 Meu _&nbsp;<img src='./assets/images/icons/miro_blue_link.svg' width='13' alt='Dashboard Miro Publico' title='Repositório GitHub'>&nbsp;[Dashboard Miro Público](https://miro.com/app/board/uXjVLwog0e8=/?moveToViewport=-10284,-6053,22200,8500)_
 - 📚 Minhas _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Leituras Recentes](https://github.com/jtonynet/jtonynet/tree/main/reading_diary#header)_
+- 🎓 Meus _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Certificados e Cursos](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura#header)_
 - 🦾 Durante a pandemia, me dediquei a _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>[ Robótica básica e IoT como hobby](https://github.com/jtonynet/autogo)_.
 - ⚡ Curiosidade: _Sou Aquarista e Maker nas horas vagas_
 
@@ -68,7 +69,7 @@ Bem-vindo ao meu GitHub!
     https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
-[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![miro](https://img.shields.io/badge/Miro_Public_Board-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/app/board/uXjVLwog0e8=/?moveToViewport=-10284,-6053,22200,8500) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/) [![miro](https://img.shields.io/badge/Miro_Public_Board-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/app/board/uXjVLwog0e8=/?moveToViewport=-10284,-6053,22200,8500) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity)
 
 <br/>
 
