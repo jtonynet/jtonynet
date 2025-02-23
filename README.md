@@ -37,7 +37,7 @@ Bem-vindo ao meu GitHub!
 - 💬 Pergunte-me sobre: _Microsserviços_
 - 📫 Como entrar em _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Contato Comigo](#contacts)_
 - 😄 Pronomes: _Ele, dele_
-- 📋 Meu _&nbsp;<img src='./assets/images/icons/miro_blue_link.svg' width='13' alt='Dashboard Miro Publico' title='Repositório GitHub'>&nbsp;[Dashboard Miro Público](https://miro.com/app/board/uXjVLwog0e8=/?moveToViewport=-10284,-6053,22200,8500)_
+- 📋 Meu _&nbsp;<img src='./assets/images/icons/miro_blue_link.svg' width='13' alt='Miro' title='Miro'>&nbsp;[Dashboard Miro Público](https://miro.com/app/board/uXjVLwog0e8=/?moveToViewport=-10284,-6053,22200,8500)_
 - 📚 Minhas _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Leituras Recentes](https://github.com/jtonynet/jtonynet/tree/main/reading_diary#header)_
 - 🎓 Meus _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>&nbsp;[Certificados e Cursos](https://github.com/jtonynet/jtonynet/tree/main/certificados/alura#header)_
 - 🦾 Durante a pandemia, me dediquei a _&nbsp;<img src='./assets/images/icons/github_blue_link.svg' width='13' alt='Repositório GitHub' title='Repositório GitHub'>[ Robótica básica e IoT como hobby](https://github.com/jtonynet/autogo)_.
@@ -271,36 +271,11 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 #### 📑 Estudos e Imersões:
 
-> <div align="center">
-> <a href="./certificados/alura/SRE-Itau">
-> 
-> | SRE Observability Training                           |
-> | -----------------------------------------------------|
-> | [![header](./certificados/alura/SRE-Itau/header.png)](./certificados/alura/SRE-Itau) |
-> 
-> </a>
-> </div>
->
-> [![Badge Status](https://img.shields.io/badge/STATUS-ENCERRADO-blue)](./certificados/alura/SRE-Itau)
->
-> Repositório puramente didático, baseado no curso  `Observabilidade e SRE` com foco em `logs estruturados`, `monitoramento` e `alertas` para sistemas distribuídos. Implementado integração a ferramentas de observabilidade em uma aplicação previamente construida.
->
-> __Principais Tecnologias e abordagens:__
-> - `Grafana` e `Prometheus` para `dashboards` e `monitoramento de métricas`  
-> - `Grafana Loki` para `centralização de logs`  
-<!-- - `Jaeger` e `OpenTelemetry` para `tracing distribuído`  -->
-
 <!-- 
-
-<br/>
-<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
-<br/>
-
-
 > <div align="center">
 > <a href="https://github.com/jtonynet/immersion-auto-tracking?tab=readme-ov-file#header"> 
 > 
-> | Immersion Home Broker (Go, Typescript, Apache Kafka)                     |
+> | Immersion Home Broker (Kafka, Go, Typescript)                     |
 > | -------------------------------------------------------------------------------------|
 > | <img src="./assets/images/layout/future_projects/header_immersion_home_broker.png"> |
 > </a>
@@ -319,6 +294,33 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > - `Nest.js`
 > - `Next.js` 
 > - `Websockets`
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+
+-->
+
+> <div align="center">
+> <a href="./certificados/alura/SRE-Itau">
+> 
+> | SRE Observability Training                           |
+> | -----------------------------------------------------|
+> | [![header](./certificados/alura/SRE-Itau/header.png)](./certificados/alura/SRE-Itau) |
+> 
+> </a>
+> </div>
+>
+> [![Badge Status](https://img.shields.io/badge/STATUS-ENCERRADO-blue)](./certificados/alura/SRE-Itau)
+>
+> Repositório __Puramente Didático__, baseado no curso  `Observabilidade e SRE` com foco em `logs estruturados`, `monitoramento` e `alertas` para sistemas distribuídos. Implementado integração a ferramentas de observabilidade em uma aplicação previamente construida.
+>
+> __Principais Tecnologias e abordagens:__
+> - `Grafana` e `Prometheus` para `dashboards` e `monitoramento de métricas`  
+> - `Grafana Loki` para `centralização de logs`  
+<!-- - `Jaeger` e `OpenTelemetry` para `tracing distribuído`  -->
+
+<!-- 
 
 <br/>
 
