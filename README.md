@@ -195,11 +195,15 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
+
 > <div align="center">
+> <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
 > 
 > | Go Soccer Fan (Worker for Soccer Leagues Fan Alerts)    |
 > | ------------------------------------------------------------------|
-> | <img src="https://github.com/jtonynet/go-soccer-fan/blob/main/docs/assets/images/layout/header.png?raw=true"> |
+> | [![header](https://raw.githubusercontent.com/jtonynet/go-soccer-fan/main/docs/assets/images/layout/header.png)](https://github.com/jtonynet/go-soccer-fan?tab=readme-ov-file#header) |
+>
+> </a>
 > </div>
 >
 > [![Badge Status](https://img.shields.io/badge/STATUS-EM_ANDAMENTO-green)](#header) [![Github Project](https://img.shields.io/badge/PROJECT%20VIEW-KANBAN-green?logo=github&logoColor=white)](https://github.com/users/jtonynet/projects/8) <!--[![Badge GitHubActions](https://github.com/jtonynet/go-pique-nique/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/jtonynet/go-pique-nique/actions) --> 
