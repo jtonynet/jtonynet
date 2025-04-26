@@ -202,18 +202,22 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 > | <img src="https://github.com/jtonynet/go-soccer-fan/blob/main/docs/assets/images/layout/header.png?raw=true"> |
 > </div>
 >
+> [![Badge Status](https://img.shields.io/badge/STATUS-EM_ANDAMENTO-green)](#header) [![Github Project](https://img.shields.io/badge/PROJECT%20VIEW-KANBAN-green?logo=github&logoColor=white)](https://github.com/users/jtonynet/projects/8) <!--[![Badge GitHubActions](https://github.com/jtonynet/go-pique-nique/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/jtonynet/go-pique-nique/actions) --> 
+>
+> [![Go Version](https://img.shields.io/badge/GO-1.23.2-blue?logo=go&logoColor=white)](https://go.dev/)
+>
 > Desafio para a criação de um `Sistema de Consulta, Armazenamento e Notificações de Torneios de Futebol` com seus respectivos times e partidas. Consumindo dados de uma `API externa` com proteções de `rate limit`.
 > O sistema possui rotas autenticadas e armazena dados de torcedores. Quando uma rota específica for acionada, ele dispara notificações por `broadcast` de início e fim de partida para todos os torcedores cadastrados do time envolvido (podendo ser centenas ou até milhares). Planejado para ser altamente `escalável`.
 >
-> - __Principais Tecnologias e Abordagens:__
->    - `TDD` `Happy-path` com foco na entrega,  `SOLID` e `ADRs`
->    - `REST` `API`, `CLI` e `WORKERS` binários segregados, seguindo boa prática GoLang para processamento distribuído e escalável.
->    - `JWT` para autenticação de rotas protegidas
->    - `Dockerized` solução com uso de containers
->    - `PostgreSQL` para armazenamento de dados
->    - `RabbitMQ` para a mensageria dos `eventos` de partidas (inicio e fim) e notificação (`broadcast`) de torcedores. Garante reenvios e deteccao de falhas robustas.
->    - `Mailhog` para simular um servidor de email
->    - `Concurrent Programming` principalmente para importação de dados da `API` externa
+> __Principais Tecnologias e Abordagens:__
+>  - `TDD` `Happy-path` com foco na entrega,  `SOLID` e `ADRs`
+>  - `REST` `API`, `CLI` e `WORKERS` binários segregados, seguindo boa prática GoLang para processamento distribuído e escalável.
+>  - `JWT` para autenticação de rotas protegidas
+>  - `Dockerized` solução com uso de containers
+>  - `PostgreSQL` para armazenamento de dados
+>  - `RabbitMQ` para a mensageria dos `eventos` de partidas (inicio e fim) e notificação (`broadcast`) de torcedores. Garante reenvios e deteccao de falhas robustas.
+>  - `Mailhog` para simular um servidor de email
+>  - `Concurrent Programming` principalmente para importação de dados da `API` externa
 
 <!--
 
