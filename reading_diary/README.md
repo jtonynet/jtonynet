@@ -177,7 +177,7 @@ Com o avanço das versões das ferramentas e linguagens, alguns livros não resi
 
 | Aprendendo Typescript                                                                                                                                                                        |                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| [![Image description](./assets/book_covers/tech/aprendendo_typescript.jpg)](https://www.amazon.com.br/dp/658605799X?ref=ppx_yo2ov_dt_b_fed_asin_title) | Honesta introducao aos conceitos do TS com enfase para aqueles que ja conhecem os meandros do JavaScript. Fornece um caminho pratico para a programacao `type-safe` e as abordagens modernas de seu uso nessa stack. Uma evolucao bem vinda que traz frescor e principalmente seguranca |
+| [![Image description](./assets/book_covers/tech/aprendendo_typescript.jpg)](https://www.amazon.com.br/dp/658605799X?ref=ppx_yo2ov_dt_b_fed_asin_title) | Honesta introdução aos conceitos de TS, com ênfase para aqueles que já conhecem os meandros do `JavaScript`. Fornece um caminho prático para a programação `type-safe`. |
 
 </div>
 
