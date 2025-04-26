@@ -16,7 +16,7 @@ APENAS tres Livros empilhados , em estilo cartoon com fundo branco sem muitos de
 
 ## 📖 SOBRE:
 
-Aqui se encontram breves resenhas das minhas __Leituras Técnicas Mais Recentes__ que fundamentam muitas das soluções aplicadas nos repositórios _[do meu perfil](https://github.com/jtonynet)&nbsp;<img src='./../assets/images/icons/github_blue_link.svg' width='13' alt="no GitHub" title="no GitHub">_. É uma amostra do que me é relevante e de leitura altamente recomendada para profissionais interessados em arquitetura e abordagens modernas.
+Aqui se encontram breves resenhas das minhas __Leituras Técnicas Mais Recentes__ que fundamentam muitas das soluções aplicadas nos repositórios _<img src='./../assets/images/icons/github_blue_link.svg' width='13' alt="no GitHub" title="no GitHub">&nbsp;[do meu perfil](https://github.com/jtonynet)_. É uma amostra do que me é relevante e de leitura altamente recomendada para profissionais interessados em arquitetura e abordagens modernas.
 
 Existe uma discussão sobre quão rápido os livros técnicos ficam defasados de acordo com os avanços das tecnologias e metodologias. Contudo, os livros de __Arquitetura & Abordagens__ tendem a ser mais resilientes e resistir ao _"teste do tempo"_ na maioria das vezes. No entanto, pouquíssimas coisas são _"à prova de futuro"_.
 
@@ -171,6 +171,38 @@ Com o avanço das versões das ferramentas e linguagens, alguns livros não resi
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 <br/>
+
+<!-- -->
+<div align="center">
+
+| Aprendendo Typescript                                                                                                                                                                        |                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [![Image description](./assets/book_covers/tech/aprendendo_typescript.jpg)](https://www.amazon.com.br/dp/658605799X?ref=ppx_yo2ov_dt_b_fed_asin_title) | Honesta introducao aos conceitos do TS com enfase para aqueles que ja conhecem os meandros do JavaScript. Fornece um caminho pratico para a programacao `type-safe` e as abordagens modernas de seu uso nessa stack. Uma evolucao bem vinda que traz frescor e principalmente seguranca |
+
+</div>
+
+<font size="5px"> ★★★☆☆ </font>
+
+> **TypeScript:**
+> _O TypeScript conquistou o universo JavaScript. Identificado em pesquisas com desenvolvedores como uma das linguagens de crescimento mais rápido e mais populares do mundo._
+>
+> _Fonte: [Aprendendo Typescript ](https://www.amazon.com.br/dp/658605799X?ref=ppx_yo2ov_dt_b_fed_asin_title)_
+
+<!--
+<details>
+  <summary><b><u>Breve Resenha:</u></b></summary>
+  <br/>
+  <p>
+      Em Andamento
+  </p>
+</details>
+-->
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+<br/>
+<!-- -->
 
 <div align="center">
 
