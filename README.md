@@ -195,9 +195,8 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
-
 > <div align="center">
-> <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
+> <a href="https://github.com/jtonynet/go-soccer-fan?tab=readme-ov-file#header">
 > 
 > | Go Soccer Fan (Worker for Soccer Leagues Fan Alerts)    |
 > | ------------------------------------------------------------------|
