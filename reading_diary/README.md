@@ -175,18 +175,18 @@ Com o avanço das versões das ferramentas e linguagens, alguns livros não resi
 <!-- -->
 <div align="center">
 
-| Aprendendo Typescript                                                                                                                                                                        |                                                                                                                   |
+| Event-Driven Architecture in Golang                                                                                                                                                                        |                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| [![Image description](./assets/book_covers/tech/aprendendo_typescript.jpg)](https://www.amazon.com.br/dp/658605799X?ref=ppx_yo2ov_dt_b_fed_asin_title) | Honesta introdução aos conceitos de TS, com ênfase para aqueles que já conhecem os meandros do `JavaScript`. Fornece um caminho prático para a programação `type-safe`. |
+| [![Image description](./assets/book_covers/tech/event_driven_architecture_in_golang.jpg)](https://www.amazon.com.br/dp/658605799X?ref=ppx_yo2ov_dt_b_fed_asin_title) | Fortemente focado na aplicação dos conceitos de `Event-Driven Architecture` no contexto prático de um `modulith` (monólito modular) construído em `Scream Architecture` e sendo desmembrado em `microservices`. |
 
 </div>
 
 <font size="5px"> ★★★☆☆ </font>
 
-> **TypeScript:**
-> _O TypeScript conquistou o universo JavaScript. Identificado em pesquisas com desenvolvedores como uma das linguagens de crescimento mais rápido e mais populares do mundo._
+> **Event-Driven Architecture in Golang:**
+> _Event-driven architecture in Golang is an approach used to develop applications that shares state changes asynchronously, internally, and externally using messages. EDA applications are better suited at handling situations that need to scale up quickly and the chances of individual component failures are less likely to bring your system crashing down. _
 >
-> _Fonte: [Aprendendo Typescript ](https://www.amazon.com.br/dp/658605799X?ref=ppx_yo2ov_dt_b_fed_asin_title)_
+> _Fonte: [Event-Driven Architecture in Golang: Building complex systems with asynchronicity and eventual consistency](https://www.amazon.com.br/dp/1803238011?ref=ppx_yo2ov_dt_b_fed_asin_title)_
 
 <!--
 <details>
@@ -269,6 +269,38 @@ Com o avanço das versões das ferramentas e linguagens, alguns livros não resi
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 <br/>
+
+<!-- -->
+<div align="center">
+
+| Aprendendo Typescript                                                                                                                                                                        |                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [![Image description](./assets/book_covers/tech/aprendendo_typescript.jpg)](https://www.amazon.com.br/dp/658605799X?ref=ppx_yo2ov_dt_b_fed_asin_title) | Honesta introdução aos conceitos de TS, com ênfase para aqueles que já conhecem os meandros do `JavaScript`. Fornece um caminho prático para a programação `type-safe`. |
+
+</div>
+
+<font size="5px"> ★★★☆☆ </font>
+
+> **TypeScript:**
+> _O TypeScript conquistou o universo JavaScript. Identificado em pesquisas com desenvolvedores como uma das linguagens de crescimento mais rápido e mais populares do mundo._
+>
+> _Fonte: [Aprendendo Typescript ](https://www.amazon.com.br/dp/658605799X?ref=ppx_yo2ov_dt_b_fed_asin_title)_
+
+<!--
+<details>
+  <summary><b><u>Breve Resenha:</u></b></summary>
+  <br/>
+  <p>
+      Em Andamento
+  </p>
+</details>
+-->
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+<br/>
+<!-- --> 
 
 Mais resenhas em breve ...
 
