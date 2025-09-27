@@ -148,6 +148,38 @@ Livros focados em técnicas estruturais e seus usos em projetos. Eles podem reco
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
 
+<!-- -->
+<div align="center">
+
+| Arquitetura Orientada a Eventos                                                                                                                                                                        |                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [![Image description](./assets/book_covers/tech/arquitetura_orientada_a_eventos.webp)](https://www.amazon.com.br/dp/658605799X?ref=ppx_yo2ov_dt_b_fed_asin_title) | Estamos vivenciando uma era digital em rápida evolução, em um mercado cada vez mais centrado no cliente, competitivo e em constante mudança. Empresas que estão enfrentando dificuldades em reagir às mudanças e adaptar o negócio de forma ágil para atender as necessidades dos clientes estão ficando para trás. |
+
+</div>
+
+<font size="5px"> ★★★★☆ </font>
+
+> **Soluções escaláveis e em tempo real com EDA:**
+> _Neste livro, Roberto Picanço segue um roteiro para ajudar o leitor e a leitora na sua jornada de implementação da EDA, explorando conceitos-chaves, padrões arquiteturais e as principais capacidades dos brokers de eventos, que são considerados o coração dessa arquitetura._
+>
+> _Fonte: [Arquitetura Orientada a Eventos](https://www.casadocodigo.com.br/products/livro-eda?_pos=2&_sid=4f80bb6b8&_ss=r)_
+
+<!--
+<details>
+  <summary><b><u>Breve Resenha:</u></b></summary>
+  <br/>
+  <p>
+      Em Andamento
+  </p>
+</details>
+-->
+
+<br/>
+<div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
+<br/>
+<br/>
+<!-- -->
+
 Mais resenhas em breve ...
 
 <br/>
@@ -181,10 +213,10 @@ Com o avanço das versões das ferramentas e linguagens, alguns livros não resi
 
 </div>
 
-<font size="5px"> ★★★☆☆ </font>
+<font size="5px"> ★★★★☆ </font>
 
 > **Event-Driven Architecture in Golang:**
-> _Event-driven architecture in Golang is an approach used to develop applications that shares state changes asynchronously, internally, and externally using messages. EDA applications are better suited at handling situations that need to scale up quickly and the chances of individual component failures are less likely to bring your system crashing down. _
+> _Event-driven architecture in Golang is an approach used to develop applications that shares state changes asynchronously, internally, and externally using messages. EDA applications are better suited at handling situations that need to scale up quickly and the chances of individual component failures are less likely to bring your system crashing down._
 >
 > _Fonte: [Event-Driven Architecture in Golang: Building complex systems with asynchronicity and eventual consistency](https://www.amazon.com.br/dp/1803238011?ref=ppx_yo2ov_dt_b_fed_asin_title)_
 
