@@ -27,7 +27,7 @@ Languages:  - [`🇺🇸 EN`] - [🇧🇷 PT-BR](./README.md)
 
 ### <img src="assets/images/layout/Hi.gif" width="35" height="35"> Olá Mundo:
 
-Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn" title="Perfil no LinkedIn">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)_, (depende de onde nos conhecemos), desenvolvedor, curioso e apaixonado por __resolver Problemas de Pessoas usando Tecnologia__. Sou leitor constante de livros e artigos e consumidor habitual de conteúdos que me enriqueçam de maneira pessoal e profissional (e.g., vídeos, podcasts...). Nos últimos anos, meu foco tem sido em __Microsserviços e Grande Volume de Dados__, além de estudar como a IA e novas tecnologias impactam o mercado e a sociedade.
+Olá Mundo, eu sou o _&nbsp;<img src="./assets/images/icons/linkedin_blue_link.svg" width="13" alt="Perfil no LinkedIn" title="Perfil no LinkedIn">&nbsp;["Zé" ou "Tony"](https://www.linkedin.com/in/jtonynet/)_, (depende de onde nos conhecemos), desenvolvedor, curioso e apaixonado por __resolver Problemas de Pessoas usando Tecnologia__. Sou leitor constante de livros e artigos e consumidor habitual de conteúdos que me enriqueçam de maneira pessoal e profissional (e.g., vídeos, podcasts...). Nos últimos anos, meu foco tem sido em __Microsserviços e Grande Volume de Dados__, além de estudar como a IA e novas tecnologias impactam o mercado e a sociedade.
 
 Bem-vindo ao meu GitHub!
 
@@ -69,7 +69,7 @@ Bem-vindo ao meu GitHub!
     https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
-[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jtonynet) [![miro](https://img.shields.io/badge/Miro-fedc32?style=for-the-badge&logo=miro&logoColor=black)](https://miro.com/app/board/uXjVLwog0e8=/?moveToViewport=-10284,-6053,22200,8500) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jtonynet/) [![miro](https://img.shields.io/badge/Miro-fedc32?style=for-the-badge&logo=miro&logoColor=black)](https://miro.com/app/board/uXjVLwog0e8=/?moveToViewport=-10284,-6053,22200,8500) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity)
 
 <br/>
 
