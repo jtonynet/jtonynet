@@ -158,6 +158,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 
 #### ⚔️ Desafios:
 
+<!-- 
 > <div align="center">
 > <a href="https://github.com/jtonynet/go-payments-api?tab=readme-ov-file#header">
 >
@@ -194,6 +195,7 @@ Aqui você pode encontrar, através dos cabeçalhos e de uma breve descrição, 
 <br/>
 <div align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . .</div>
 <br/>
+-->
 
 > <div align="center">
 > <a href="https://github.com/jtonynet/go-soccer-fan?tab=readme-ov-file#header">
